@@ -1,0 +1,6 @@
+{
+	"method": "aws-rds-instance-delete",
+	"context": "lab",
+	"instance": {"id": ["lab-data-001"]},
+	"deletekey": "???"
+}

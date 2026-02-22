@@ -1,0 +1,22 @@
+{
+	"method": "aws-rds-cluster-create",
+	"context": "lab",
+	"create": {
+		"options": {
+			"DBClusterIdentifier": "lab-rds-cluster-001-aurora-serverless-v2",
+			"Engine": "aurora-mysql",
+			"MasterUsername": "admin",
+			"MasterUserPassword": "???",
+			"DBSubnetGroupName": "lab-rds-subnet-group-001",
+			"StorageEncrypted": true,
+			"ServerlessV2ScalingConfiguration": {
+				"MinCapacity": 0.5,
+				"MaxCapacity": 2
+			}
+		}
+	},
+	"notes": [
+		"Engine: aurora-mysql, aurora-postgresql",
+		"EngineVersion: 8.0.mysql_aurora.3.04.1 - left blank so uses the latest"
+	]
+}

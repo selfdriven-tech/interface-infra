@@ -1,0 +1,11 @@
+{
+	"method": "aws-rds-instance-restore",
+	"context": "lab",
+	"instance": {"id": ["lab-data-001"]},
+	"snapshot": {"id": ["lab-data-001-2025-01-14-12-07"]},
+	"restore":
+	{
+		"AvailabilityZone": "ap-southeast-2a",
+		"DBSubnetGroupName": "default-vpc-???"
+	}
+}

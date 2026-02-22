@@ -1,0 +1,11 @@
+{
+	"method": "aws-kms-key-create",
+	"context": "lab",
+	"key":
+	{
+		"description": "lab-key-001",
+		"keyUsage": "ENCRYPT_DECRYPT",
+		"customerMasterKeySpec": "SYMMETRIC_DEFAULT",
+		"tags": [{ "TagKey": "zone", "TagValue": "lab" }]
+	}
+}

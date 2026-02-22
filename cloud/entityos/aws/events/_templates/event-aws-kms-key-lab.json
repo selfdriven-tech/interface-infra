@@ -1,0 +1,5 @@
+{
+	"method": "aws-kms-key",
+	"context": "lab",
+	"key": {"id": "???"}
+}

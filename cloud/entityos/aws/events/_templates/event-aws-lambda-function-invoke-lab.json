@@ -1,0 +1,11 @@
+{
+	"method": "aws-lambda-function-invoke",
+	"context": "lab",
+	"invoke": {
+		"payload": {},
+		"options": {
+			"FunctionName": "lab-lambda-function-001-hello-world"
+		}
+	},
+	"notes": []
+}

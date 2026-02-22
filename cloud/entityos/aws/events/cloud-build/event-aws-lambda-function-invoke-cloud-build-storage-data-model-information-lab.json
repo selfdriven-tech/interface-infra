@@ -1,0 +1,39 @@
+{
+	"method": "aws-lambda-function-invoke",
+	"context": "lab",
+	"invoke": {
+		"payload": {
+			"method": "storage-relational-data-model-information",
+			"storage": {
+				"cluster": {
+					"id": "cluster-???.ap-southeast-2.rds.amazonaws.com",
+					"port": 3306,
+					"_user": "",
+					"_password": ""
+				},
+				"instance": {
+					"id": "lab-rds-cluster-001-aurora-serverless-v2",
+					"url": "lab-rds-cluster-001-aurora-serverless-v2.cluster-???.ap-southeast-2.rds.amazonaws.com",
+					"type": "write,read"
+				},
+				"name": "lab_datastore_001",
+				"database": {
+					"name": "lab_datastore_001",
+					"engine": "mysql"
+				},
+				"information": {
+					"type": "tables",
+					"table": {
+						"_name": "cont_person"
+					}
+				}
+			}
+		},
+		"options": {
+			"FunctionName": "lab-lambda-function-001-cloud-build-storage"
+		}
+	},
+	"notes": [
+		"Running in lambda so so on same vpc as data-store"
+	]
+}

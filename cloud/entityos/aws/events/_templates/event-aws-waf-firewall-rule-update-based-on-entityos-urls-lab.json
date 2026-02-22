@@ -1,0 +1,11 @@
+{
+	"method": "aws-waf-firewall-rule-update-based-on-entityos-urls",
+	"context": "entityos-lab",
+	"firewall": {
+		"id": ""
+	},
+	"notes": [
+		"Step 1. get the URLS.",
+		"Step 2. update the rules - but may not do this as may use entityOS Frontwall instead ie in application layer"
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"method": "aws-elb-load-balancer-listeners",
+	"context": "lab",
+	"loadbalancer": {"arn": "arn:aws:elasticloadbalancing:?region?:?account-id?:loadbalancer/app/???/???"}
+}

@@ -1,0 +1,6 @@
+{
+	"method": "aws-ec2-instances",
+	"context": "lab",
+	"status": "start",
+	"instance": {"id": ""}
+}

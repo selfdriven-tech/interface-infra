@@ -1,0 +1,18 @@
+{
+	"method": "aws-lambda-function-update",
+	"context": "lab",
+	"update": {
+		"code": {
+			"folder": "functions",
+			"filename": "hello-world/hello-world.zip"
+		},
+		"options": {
+			"FunctionName": "lab-lambda-function-001-hello-world",
+			"Timeout": 900,
+			"MemorySize": 4096
+		}
+	},
+	"notes": [
+		"Update the code in the function."
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"method": "aws-lambda-function-invoke",
+	"context": "lab",
+	"invoke": {
+		"payload": {
+			"method": "storage-relational-data-model-initialise-data",
+			"storage": {
+				"simulate": false,
+				"cluster": {
+					"id": "cluster-???.ap-southeast-2.rds.amazonaws.com",
+					"port": 3306
+				},
+				"instance": {
+					"id": "lab-rds-cluster-001-aurora-serverless-v2",
+					"url": "lab-rds-cluster-001-aurora-serverless-v2.cluster-???.ap-southeast-2.rds.amazonaws.com",
+					"type": "write,read"
+				},
+				"model": {
+					"folder": "schema/model",
+					"filename": "entityos-storage-model-objects-processed-system.json"
+				},
+				"database": {
+					"name": "lab_datastore_001",
+					"engine": "mysql"
+				},
+				"initialise": {
+					"notes": [
+						""
+					],
+					"data": {
+						"folder": "data/system",
+						"_filenames": [
+							"entityos-storage-data-objects-16719112-asms_alerttypesite.json"
+						]
+					},
+					"processing": {
+						"folder": "data/processing"
+					},
+					"check": false
+				},
+				"process": {
+					"startindex": 400,
+					"maximum": 100
+				}
+			},
+			"notes": [
+				"Data",
+				"Intialise the storage data - system."
+			]
+		},
+		"options": {
+			"FunctionName": "lab-lambda-function-001-cloud-build-storage"
+		}
+	},
+	"notes": [
+		"Running in lambda so so on same vpc as data-store"
+	]
+}

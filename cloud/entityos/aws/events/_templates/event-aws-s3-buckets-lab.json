@@ -1,0 +1,4 @@
+{
+	"method": "aws-s3-buckets",
+	"context": "lab"
+}

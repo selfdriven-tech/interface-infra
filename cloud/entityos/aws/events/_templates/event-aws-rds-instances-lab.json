@@ -1,0 +1,4 @@
+{
+	"method": "aws-rds-instances",
+	"context": "lab"
+}

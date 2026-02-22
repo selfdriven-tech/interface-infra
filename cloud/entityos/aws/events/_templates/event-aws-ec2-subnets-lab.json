@@ -1,0 +1,6 @@
+{
+	"method": "aws-ec2-subnets",
+	"context": "lab",
+	"status": "start",
+	"instance": {"id": ""}
+}

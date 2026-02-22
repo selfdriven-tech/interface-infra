@@ -1,0 +1,5 @@
+{
+	"method": "aws-rds-instance-snapshot-create",
+	"context": "lab",
+	"instance": {"id": ["lab-data-001"]}
+}

@@ -1,0 +1,7 @@
+{
+	"method": "aws-ec2-instance-image-snapshots-orphaned-delete-oldest",
+	"context": "lab",
+	"instance": {"_id": "i-???"},
+	"snapshot": {"olderThanHours": 1},
+	"deletekey": "???"
+}

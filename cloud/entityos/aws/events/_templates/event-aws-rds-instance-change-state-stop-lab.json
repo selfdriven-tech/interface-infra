@@ -1,0 +1,6 @@
+{
+	"method": "aws-rds-instance-change-state",
+	"context": "lab",
+	"status": "stop",
+	"instance": {"id": ["lab-data-001"]}
+}

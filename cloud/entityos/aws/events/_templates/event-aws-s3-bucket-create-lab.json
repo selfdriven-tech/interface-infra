@@ -1,0 +1,7 @@
+{
+	"method": "aws-s3-bucket-create",
+	"context": "lab",
+	"bucket": {
+		"name": "lab-bucket-001"
+	}
+}

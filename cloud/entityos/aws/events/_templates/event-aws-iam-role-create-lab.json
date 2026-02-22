@@ -1,0 +1,23 @@
+{
+	"method": "aws-iam-role-create",
+	"context": "lab",
+	"create": {
+		"rolename": "lab-iam-role-002-lambda-function",
+		"rolepolicydocument": {
+			"Version": "2012-10-17",
+			"Statement": [
+				{
+					"Action": "sts:AssumeRole",
+					"Principal": {
+						"Service": "lambda.amazonaws.com"
+					},
+					"Effect": "Allow",
+					"Sid": ""
+				}
+			]
+		},
+		"options": {},
+		"policyarn": "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+	},
+	"notes": []
+}

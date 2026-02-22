@@ -1,0 +1,9 @@
+{
+	"method": "aws-s3-bucket-object-create-from-entityos",
+	"context": "entityos-lab",
+	"allspaces": "N",
+	"bucket": {"name": "lab-bucket-001", "folder": ""},
+	"data": {
+		"settings": {"object": "entity-aws-settings.json"}
+	}
+}

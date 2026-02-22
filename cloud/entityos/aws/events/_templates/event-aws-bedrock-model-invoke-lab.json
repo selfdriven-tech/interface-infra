@@ -1,0 +1,9 @@
+{
+	"method": "aws-bedrock-model-invoke",
+	"context": "lab",
+	"model":
+	{
+		"id": "amazon.titan-text-lite-v1",
+		"inputText": "Hello?"
+	}
+}

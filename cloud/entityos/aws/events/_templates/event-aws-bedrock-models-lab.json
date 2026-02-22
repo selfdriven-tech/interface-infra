@@ -1,0 +1,4 @@
+{
+	"method": "aws-bedrock-models",
+	"context": "lab"
+}

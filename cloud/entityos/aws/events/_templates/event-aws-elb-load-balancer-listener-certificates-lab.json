@@ -1,0 +1,5 @@
+{
+	"method": "aws-elb-load-balancer-listener-certificates",
+	"context": "lab",
+	"loadbalancer": {"listener": {"arn": "arn:aws:elasticloadbalancing:?region?:?account-id?:listener/app/lab???/???/???"}}
+}

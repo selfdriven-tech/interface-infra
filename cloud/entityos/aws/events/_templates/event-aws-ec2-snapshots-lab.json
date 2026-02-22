@@ -1,0 +1,6 @@
+{
+	"method": "aws-ec2-snapshots",
+	"context": "lab",
+	"status": "start",
+	"_image": {"id": ""}
+}

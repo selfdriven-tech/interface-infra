@@ -1,0 +1,41 @@
+{
+	"entityos": {
+		"hostname": "api.entityos.cloud",
+		"_logon": "",
+		"email": "",
+		"testing": {
+			"status": "true",
+			"showData": "true",
+			"break": "-"
+		},
+		"convert": "true"
+	},
+	"infrastructure":
+	{
+		"aws":
+		{
+			"access":
+			{
+				"id": "",
+				"secret": ""
+			}
+		}
+	},
+	"rules": [
+		{
+			"env": "AWS_ACCESS_KEY_ID",
+			"set": "infrastructure.aws.access.id",
+			"default": "prompt"
+		},
+		{
+			"env": "AWS_SECRET_ACCESS_KEY",
+			"set": "infrastructure.aws.access.secret",
+			"default": "prompt"
+		},
+		{
+			"env": "infrastructure-aws-keys-delete",
+			"set": "infrastructure.aws.keys.delete",
+			"default": "...."
+		}
+	]
+}

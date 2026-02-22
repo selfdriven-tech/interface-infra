@@ -1,0 +1,21 @@
+{
+	"method": "aws-ec2-instances-create",
+	"context": "lab",
+	"create":
+	{
+		"tag": {
+			"namePrefix": "lab-",
+			"nameIndexStart": "3"
+		},
+		"image": {"id": ""},
+		"instance":
+		{
+			"type": "t2.micro",
+			"count": 1
+		},
+		"keyName": "",
+		"securityGroupIDs": [],
+		"subnetID": "",
+		"awsOptions": {}
+	}
+}

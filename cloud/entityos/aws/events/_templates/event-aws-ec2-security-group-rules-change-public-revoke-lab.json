@@ -1,0 +1,6 @@
+{
+	"method": "aws-ec2-security-group-rules-change-public",
+	"context": "lab",
+	"action": "revoke",
+	"securityGroupRules": {"public": true, "protocol": "tcp"}
+}

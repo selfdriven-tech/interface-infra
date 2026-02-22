@@ -1,0 +1,7 @@
+{
+	"method": "aws-rds-instance-modify",
+	"context": "lab",
+	"instance": {"id": ["lab-data-001"]},
+	"modify":  {"DeletionProtection": false}
+    
+}

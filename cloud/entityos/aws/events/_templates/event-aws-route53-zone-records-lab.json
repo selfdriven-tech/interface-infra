@@ -1,0 +1,5 @@
+{
+	"method": "aws-route53-zone-records",
+	"context": "lab",
+	"zone": {"id": "/hostedzone/???"}
+}

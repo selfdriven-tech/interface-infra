@@ -1,0 +1,17 @@
+{
+	"method": "aws-s3-bucket-object-create",
+	"context": "lab",
+	"bucket": {
+		"name": "lab-bucket-001",
+		"folder": ""
+	},
+	"file": {
+		"name": "entity-aws-settings.json",
+		"contentType": "application/json",
+		"data": {
+			"attachments": {
+				"lastid": "???"
+			}
+		}
+	}
+}

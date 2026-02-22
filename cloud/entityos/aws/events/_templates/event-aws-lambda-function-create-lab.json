@@ -1,0 +1,24 @@
+{
+	"method": "aws-lambda-function-create",
+	"context": "lab",
+	"create": {
+		"code": {
+			"folder": "functions",
+			"filename": "hello-world.zip"
+		},
+		"options": {
+			"FunctionName": "lab-lambda-function-001-hello-world",
+			"Runtime": "nodejs22.x",
+			"Role": "arn:aws:iam::?account-id?:role/lab-iam-role-001-hello-world",
+			"Handler": "index.handler",
+			"Description": "Cloud-build-storage. Created by entityos-aws.",
+			"Timeout": 60,
+			"MemorySize": 128,
+			"Publish": true
+		}
+	},
+	"notes": [
+		"Do the code in update function.",
+		"Runtime, could be 'python3.12', etc."
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"method": "aws-s3-bucket-objects",
+	"context": "lab",
+	"bucket": {
+		"name": "ibcom-entityos-lab-001",
+		"folder": ""
+	}
+}

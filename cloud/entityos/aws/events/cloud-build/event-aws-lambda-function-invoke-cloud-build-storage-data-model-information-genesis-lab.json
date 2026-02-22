@@ -1,0 +1,34 @@
+{
+	"method": "aws-lambda-function-invoke",
+	"context": "lab",
+	"invoke": {
+		"payload": {
+			"method": "storage-relational-data-query",
+			"storage": {
+				"cluster": {
+					"id": "cluster-???.ap-southeast-2.rds.amazonaws.com",
+					"port": 3306
+				},
+				"instance": {
+					"id": "lab-rds-cluster-001-aurora-serverless-v2",
+					"url": "lab-rds-cluster-001-aurora-serverless-v2.cluster-???.ap-southeast-2.rds.amazonaws.com",
+					"type": "write,read"
+				},
+				"database": {
+					"name": "lab_datastore_001"
+				},
+				"query": {
+					
+					"sql": "select ??? from ???"
+				}
+			},
+			"notes": []
+		},
+		"options": {
+			"FunctionName": "lab-lambda-function-001-cloud-build-storage"
+		}
+	},
+	"notes": [
+		"Direct execute calls for now - but in future could be dedicated method to get all the guids etc"
+	]
+}

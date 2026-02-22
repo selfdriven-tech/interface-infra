@@ -1,0 +1,4 @@
+{
+	"method": "aws-waf-firewalls",
+	"context": "lab"
+}

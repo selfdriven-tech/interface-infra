@@ -1,0 +1,7 @@
+{
+	"method": "aws-ec2-instance-image-delete-oldest",
+	"context": "lab",
+	"instance": {"id": "i-???"},
+	"image": {"olderThanHours": 1},
+	"deletekey": "???"
+}

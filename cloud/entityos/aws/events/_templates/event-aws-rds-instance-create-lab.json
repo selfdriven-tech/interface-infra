@@ -1,0 +1,18 @@
+{
+	"method": "aws-rds-instance-create",
+	"context": "lab",
+	"create": {
+		"options": {
+			"DBClusterIdentifier": "lab-rds-cluster-001-aurora-serverless-v2",
+			"DBInstanceIdentifier": "lab-rds-instance-001-aurora-serverless-v2",
+			"DBInstanceClass": "db.serverless",
+			"PubliclyAccessible": false,
+			"DBSubnetGroupName": "lab-rds-subnet-group-001",
+			"Engine": "aurora-mysql"
+		}
+	},
+	"notes": [
+		"Engine: aurora-mysql -- set in the cluster",
+		"Returns the URL"
+	]
+}

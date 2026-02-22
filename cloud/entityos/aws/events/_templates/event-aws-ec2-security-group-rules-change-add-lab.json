@@ -1,0 +1,7 @@
+{
+	"method": "aws-ec2-security-group-rules-change",
+	"context": "lab",
+	"action": "add",
+	"securityGroup": {"names": ["lab-???"]},
+	"ipPermissions": "public"
+}

@@ -1,0 +1,6 @@
+{
+	"method": "aws-waf-firewall-rules",
+	"context": "lab",
+	"firewall": {"id": ""},
+	"notes": ["To be coded."]
+}

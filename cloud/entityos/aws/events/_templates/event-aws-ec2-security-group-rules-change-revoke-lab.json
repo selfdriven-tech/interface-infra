@@ -1,0 +1,8 @@
+{
+	"method": "aws-ec2-security-group-rules-change",
+	"context": "lab",
+	"action": "revoke",
+	"securityGroup": {"names": ["lab-linux-2"]},
+	"_ipPermissions": "public",
+	"securityGroupRules": {"ids": ["sgr-???"]}
+}

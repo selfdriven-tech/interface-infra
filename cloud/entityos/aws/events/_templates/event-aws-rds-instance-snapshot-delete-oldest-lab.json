@@ -1,0 +1,7 @@
+{
+	"method": "aws-rds-instance-snapshot-delete-oldest",
+	"context": "lab",
+	"instance": {"id": ["lab-data-001"]},
+	"snapshot": {"olderThanHours": 1},
+	"deletekey": "???"
+}

@@ -1,0 +1,7 @@
+{
+	"method": "aws-ec2-snapshot-export",
+	"context": "lab",
+	"status": "start",
+	"snapshot": {"id": "snap-83f027b5"},
+	"bucket": {"name": "ibcom-entityos-lab-001"}
+}

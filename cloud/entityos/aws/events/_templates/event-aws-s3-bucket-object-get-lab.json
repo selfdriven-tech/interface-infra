@@ -1,0 +1,12 @@
+{
+	"method": "aws-s3-bucket-object-get",
+	"context": "lab",
+	"bucket": {
+		"name": "ibcom-entityos-lab-001",
+		"folder": ""
+	},
+	"file": {
+		"name": "settings.json",
+		"contentType": "application/json"
+	}
+}

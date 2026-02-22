@@ -1,0 +1,6 @@
+{
+	"method": "aws-kms-encrypt",
+	"context": "lab",
+	"key": {"id": "???", "description": "lab-key-001"},
+	"text": {"toEncrypt": "???"}
+}

@@ -1,0 +1,8 @@
+{
+	"method": "aws-rds-subnet-group-create",
+	"context": "lab",
+	"group": 
+	{	"name": "lab-rds-subnet-group-001",
+		"subnets": ["subnet-86efa6e3", "subnet-6952241e"]
+	}
+}

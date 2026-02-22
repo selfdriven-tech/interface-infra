@@ -1,0 +1,14 @@
+{
+	"method": "aws-lambda-function-update",
+	"context": "lab",
+	"update": {
+		"code": {
+			"folder": "examples",
+			"filename": "hello-world.zip"
+		},
+		"options": {
+			"FunctionName": "lab-lambda-function-001-hello-world"
+		}
+	},
+	"notes": []
+}

@@ -1,0 +1,5 @@
+{
+	"method": "aws-acm-certificate",
+	"context": "lab",
+	"certificate": {"arn": "arn:aws:acm:???:???:certificate/???"}
+}

@@ -1,0 +1,10 @@
+{
+	"method": "aws-rds-instance-restore-last-snapshot",
+	"context": "lab",
+	"instance": {"id": ["lab-data-001"]},
+	"restore":
+	{
+		"AvailabilityZone": "ap-southeast-2a",
+		"DBSubnetGroupName": "default-vpc-???"
+	}
+}

@@ -1,0 +1,382 @@
+{
+	"method": "aws-lambda-function-invoke",
+	"context": "lab",
+	"invoke": {
+		"payload": {
+			"method": "storage-relational-data-model-initialise-genesis",
+			"storage": {
+				"simulate": false,
+				"cluster": {
+					"id": "cluster-???.ap-southeast-2.rds.amazonaws.com",
+					"port": 3306
+				},
+				"instance": {
+					"id": "lab-rds-cluster-001-aurora-serverless-v2",
+					"url": "lab-rds-cluster-001-aurora-serverless-v2.cluster-???.ap-southeast-2.rds.amazonaws.com",
+					"type": "write,read"
+				},
+				"model": {
+					"folder": "schema/model",
+					"filename": "entityos-storage-model-objects-processed-latest.json"
+				},
+				"database": {
+					"name": "lab_datastore_001",
+					"engine": "mysql"
+				},
+				"initialise": {
+					"notes": [
+						"PasswordAES use the instance key"
+					],
+					"genesis": {
+						"objects": [
+							{
+								"name": "cont_business",
+								"data": {
+									"fields": [
+										{
+											"name": "modifieddate",
+											"value": "{{now}}"
+										},
+										{
+											"name": "createddate",
+											"value": "{{now}}"
+										},
+										{
+											"name": "businessid",
+											"value": "1"
+										},
+										{
+											"name": "legalname",
+											"value": "Genesis"
+										},
+										{
+											"name": "tradename",
+											"value": "Genesis"
+										},
+										{
+											"name": "notes",
+											"value": "Created by genesis.cloud.build"
+										},
+										{
+											"name": "customerstatus",
+											"value": "5"
+										},
+										{
+											"name": "supplierstatus",
+											"value": "5"
+										},
+										{
+											"name": "reference",
+											"value": "GENESIS"
+										},
+										{
+											"name": "guid",
+											"value": "{{guid}}"
+										},
+										{
+											"name": "internalreference",
+											"value": "1"
+										}
+									]
+								}
+							},
+							{
+								"name": "cont_person",
+								"data": {
+									"fields": [
+										{
+											"name": "modifieddate",
+											"value": "{{now}}"
+										},
+										{
+											"name": "createddate",
+											"value": "{{now}}"
+										},
+										{
+											"name": "guid",
+											"value": "{{guid}}"
+										},
+										{
+											"name": "businessid",
+											"value": "1"
+										},
+										{
+											"name": "personid",
+											"value": "1"
+										},
+										{
+											"name": "contbusinessid",
+											"value": "1"
+										},
+										{
+											"name": "firstname",
+											"value": "Admin"
+										},
+										{
+											"name": "surname",
+											"value": "Genesis"
+										},
+										{
+											"name": "notes",
+											"value": "Created by genesis.cloud.build"
+										},
+										{
+											"name": "private",
+											"value": "N"
+										},
+										{
+											"name": "reference",
+											"value": "GENESIS"
+										}
+									]
+								}
+							},
+							{
+								"name": "sec_business",
+								"data": {
+									"fields": [
+										{
+											"name": "modifieddate",
+											"value": "{{now}}"
+										},
+										{
+											"name": "createddate",
+											"value": "{{now}}"
+										},
+										{
+											"name": "guid",
+											"value": "{{guid}}"
+										},
+										{
+											"name": "ibcomadmin",
+											"value": "1"
+										},
+										{
+											"name": "status",
+											"value": "1"
+										},
+										{
+											"name": "disabled",
+											"value": "N"
+										},
+										{
+											"name": "site",
+											"value": "1"
+										},
+										{
+											"name": "contBusinessId",
+											"value": "1"
+										},
+										{
+											"name": "billable",
+											"value": "N"
+										},
+										{
+											"name": "databaseid",
+											"value": "1"
+										},
+										{
+											"name": "showindirectory",
+											"value": "N"
+										},
+										{
+											"name": "rpclogononly",
+											"value": "Y"
+										},
+										{
+											"name": "requestratetypeid",
+											"value": "2"
+										},
+										{
+											"name": "cancreatespace",
+											"value": "Y"
+										}
+									]
+								}
+							},
+							{
+								"name": "sec_person",
+								"data": {
+									"fields": [
+										{
+											"name": "username",
+											"value": "admin@entityos-cloud"
+										},
+										{
+											"name": "superuser",
+											"value": "Y"
+										},
+										{
+											"name": "manager",
+											"value": "1",
+											"notes": "self"
+										},
+										{
+											"name": "modifieddate",
+											"value": "{{now}}"
+										},
+										{
+											"name": "createddate",
+											"value": "{{now}}"
+										},
+										{
+											"name": "guid",
+											"value": "{{guid}}"
+										},
+										{
+											"name": "persontypeid",
+											"value": "1"
+										},
+										{
+											"name": "disabled",
+											"value": "N"
+										},
+										{
+											"name": "trusted",
+											"value": "N"
+										},
+										{
+											"name": "guest",
+											"value": "N"
+										},
+										{
+											"name": "sessiontimeout",
+											"value": "15"
+										},
+										{
+											"name": "type",
+											"value": "1"
+										},
+										{
+											"name": "securitylevel",
+											"value": "1"
+										},
+										{
+											"name": "billable",
+											"value": "N"
+										},
+										{
+											"name": "timezoneoffset",
+											"value": "11"
+										},
+										{
+											"name": "timezoneautoupdate",
+											"value": "Y"
+										},
+										{
+											"name": "servicealerts",
+											"value": "N"
+										},
+										{
+											"name": "newsalerts",
+											"value": "N"
+										},
+										{
+											"name": "unrestrictedaccess",
+											"value": "Y"
+										},
+										{
+											"name": "authenticationlevelid",
+											"value": "1"
+										},
+										{
+											"name": "authenticationdeliveryid",
+											"value": "3"
+										},
+										{
+											"name": "disabledpasswordlock",
+											"value": "N"
+										},
+										{
+											"name": "relationshipmanagersecuritytypeid",
+											"value": "1"
+										},
+										{
+											"name": "timezoneid",
+											"value": "67"
+										},
+										{
+											"name": "timezoneconvertid",
+											"value": "1"
+										},
+										{
+											"name": "logonguid",
+											"value": "{{guid}}"
+										},
+										{
+											"name": "authenticationusingaccesstokenid",
+											"value": "1"
+										},
+										{
+											"name": "rpclogononly",
+											"value": "Y"
+										},
+										{
+											"name": "urlaccesstypeid",
+											"value": "1"
+										},
+										{
+											"name": "canacceptsupportissues",
+											"value": "N"
+										},
+										{
+											"name": "canbeaddedtoexternalconversations",
+											"value": "N"
+										},
+										{
+											"name": "canswitchintootherspaces",
+											"value": "N"
+										},
+										{
+											"name": "limitedbynetworkaccess",
+											"value": "N"
+										},
+										{
+											"name": "requestrateinterval",
+											"value": "0"
+										},
+										{
+											"name": "requestratewaitinterval",
+											"value": "0"
+										},
+										{
+											"name": "requestratelockdate",
+											"value": "{{null}}"
+										},
+										{
+											"name": "dataprotectionkeyid",
+											"value": "0"
+										},
+										{
+											"name": "dataprotectiontypeid",
+											"value": "1"
+										},
+										{
+											"name": "temporarypasswordresetcode",
+											"value": "1"
+										},
+										{
+											"name": "inactivetimeout",
+											"value": "0"
+										}
+									]
+								}
+							}
+						]
+					}
+				}
+			},
+			"notes": [
+				"Genesis",
+				"Intialise the storage database/model so can entityOS interface can connect to it.",
+				"1. Insert the SuperUser"
+			]
+		},
+		"options": {
+			"FunctionName": "lab-lambda-function-001-cloud-build-storage"
+		}
+	},
+	"notes": [
+		"Running in lambda so so on same vpc as data-store"
+	]
+}

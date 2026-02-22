@@ -1,0 +1,36 @@
+{
+	"method": "aws-lambda-function-invoke",
+	"context": "lab",
+	"invoke": {
+		"payload": {
+			"method": "storage-relational-data-execute",
+			"storage": {
+				"cluster": {
+					"id": "cluster-???.ap-southeast-2.rds.amazonaws.com",
+					"port": 3306
+				},
+				"instance": {
+					"id": "lab-rds-cluster-001-aurora-serverless-v2",
+					"url": "lab-rds-cluster-001-aurora-serverless-v2.cluster-???.ap-southeast-2.rds.amazonaws.com",
+					"type": "write,read"
+				},
+				"database": {
+					"name": "lab_datastore_001"
+				},
+				"execute": {
+					"sql": "drop database lab_datastore_001"
+				}
+			},
+			"notes": [
+				"change _sql to sql",
+				"host: in save VPC on AWS"
+			]
+		},
+		"options": {
+			"FunctionName": "lab-lambda-function-001-cloud-build-storage"
+		}
+	},
+	"notes": [
+		"Running in lambda so so on same vpc as data-store"
+	]
+}
