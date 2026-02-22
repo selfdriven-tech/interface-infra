@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "risk_measurecalculatedfielddatecomparisontype",
+        "id": "170184102"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Days",
+            "notes": "",
+            "guid": "1f85c477-6561-4abd-8176-021f19faf89a"
+        },
+        {
+            "typeid": "2",
+            "title": "Months",
+            "notes": "",
+            "guid": "a9b8adba-5ff1-473e-9142-dcf63c340944"
+        },
+        {
+            "typeid": "3",
+            "title": "Years",
+            "notes": "",
+            "guid": "763316a4-96ab-4e77-9100-373294c846f8"
+        }
+    ]
+}

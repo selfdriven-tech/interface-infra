@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "obms_supplierorderstatus",
+        "id": "1136723102"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "In Progress",
+            "displayorder": "1",
+            "guid": "f7a1b30f-01a3-4e9e-a5de-fb8c032e61c3"
+        },
+        {
+            "statusid": "2",
+            "title": "Approved - Awaiting Invoice",
+            "displayorder": "2",
+            "guid": "a5701e38-d85b-4a88-8efb-d899a44759fb"
+        },
+        {
+            "statusid": "3",
+            "title": "Completed - Expense Created",
+            "displayorder": "4",
+            "guid": "93a2c891-d0c2-4ddd-847a-e2002ca52002"
+        },
+        {
+            "statusid": "4",
+            "title": "Cancelled",
+            "displayorder": "5",
+            "guid": "040507d0-6012-4a0e-8a86-053564d060f8"
+        },
+        {
+            "statusid": "6",
+            "title": "Supplier Marked as Completed",
+            "displayorder": "3",
+            "guid": "cf8997d8-8bd4-4c45-a914-bca92b014557"
+        }
+    ]
+}

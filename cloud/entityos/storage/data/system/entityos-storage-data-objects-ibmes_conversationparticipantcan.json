@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "ibmes_conversationparticipantcan",
+        "id": "975342539"
+    },
+    "data": [
+        {
+            "participantcanid": "1",
+            "value": "Add Posting &amp; Comments",
+            "guid": "727f99ba-46ce-4eb7-9f23-2a762ac65782"
+        },
+        {
+            "participantcanid": "2",
+            "value": "Add Comments Only",
+            "guid": "bcbfed42-90b2-4a61-85a2-21694b4a044d"
+        },
+        {
+            "participantcanid": "3",
+            "value": "View Only",
+            "guid": "520e308c-788e-471e-b8f6-9a925ad85ac6"
+        },
+        {
+            "participantcanid": "4",
+            "value": "Add Posting Only",
+            "guid": "8fae0074-58d9-4b57-bc5a-84375a8fa22e"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "tran_storestatus",
+        "id": "219863850"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Active",
+            "guid": "bd33c1ba-7425-4d87-bfe3-c5058074ee21"
+        },
+        {
+            "statusid": "2",
+            "title": "Inactive",
+            "guid": "83fc328e-2aaf-407a-b402-a24273e26146"
+        }
+    ]
+}

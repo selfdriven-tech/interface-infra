@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "ref_loanpurchasetype",
+        "id": "407008531"
+    },
+    "data": [
+        {
+            "purchasetypeid": "1",
+            "title": "First Home",
+            "guid": "4f2a5d95-c5ed-4a92-87d3-92ce9586ffeb"
+        },
+        {
+            "purchasetypeid": "2",
+            "title": "[Not First Home]",
+            "guid": "07e4e3c4-f794-41f3-a418-8d50da39ed16"
+        }
+    ]
+}

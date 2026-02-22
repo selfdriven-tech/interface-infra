@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "ofsms_policyapplicationstatus",
+        "id": "1971538107"
+    },
+    "data": [
+        {
+            "applicationstatusid": "1",
+            "value": "To Be Sent",
+            "guid": "12b93b66-f428-4637-ba4d-3895c8a987dc"
+        },
+        {
+            "applicationstatusid": "2",
+            "value": "Sent To Insurer",
+            "guid": "6ad88094-cc98-4c4c-854f-44db7b81ff15"
+        },
+        {
+            "applicationstatusid": "3",
+            "value": "Received By Insurer",
+            "guid": "04b3bea0-8387-44b9-a263-995dcee85440"
+        },
+        {
+            "applicationstatusid": "4",
+            "value": "Accepted By Insurer",
+            "guid": "f2461a75-fac0-4ac2-b427-cff7cf60b5fb"
+        }
+    ]
+}

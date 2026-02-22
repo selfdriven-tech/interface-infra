@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "audit_reconciliationrecordtype",
+        "id": "1285332089"
+    },
+    "data": [
+        {
+            "recordtypeid": "1",
+            "title": "Overview",
+            "notes": "",
+            "guid": "97a3a729-a9bf-420e-822f-c4f0049ada54"
+        },
+        {
+            "recordtypeid": "2",
+            "title": "Agent",
+            "notes": "",
+            "guid": "aee1078d-dbb4-43e6-8716-cee867181418"
+        },
+        {
+            "recordtypeid": "3",
+            "title": "Total",
+            "notes": "",
+            "guid": "3907df93-7689-4a6b-a50a-9d82926b1ff4"
+        },
+        {
+            "recordtypeid": "4",
+            "title": "File",
+            "notes": "",
+            "guid": "8de863d6-a982-4178-9590-09f5e0fc4d81"
+        },
+        {
+            "recordtypeid": "5",
+            "title": "Grand Total",
+            "notes": "",
+            "guid": "7815bd8b-de0d-4e19-b961-93bbe8b0931d"
+        }
+    ]
+}

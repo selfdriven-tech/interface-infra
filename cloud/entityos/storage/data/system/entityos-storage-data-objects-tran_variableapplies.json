@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "tran_variableapplies",
+        "id": "107863451"
+    },
+    "data": [
+        {
+            "appliesid": "1",
+            "title": "Always",
+            "guid": "cb413c16-4760-4708-bf57-280d4b9ff3b0"
+        },
+        {
+            "appliesid": "2",
+            "title": "Date Range",
+            "guid": "045b3411-87b1-4c5d-9cb1-5ac01d33004f"
+        },
+        {
+            "appliesid": "3",
+            "title": "Single Quote",
+            "guid": "6b7128de-b399-4537-ba90-03f63cfc28c0"
+        }
+    ]
+}

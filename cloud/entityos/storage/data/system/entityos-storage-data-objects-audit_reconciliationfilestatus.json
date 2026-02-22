@@ -1,0 +1,44 @@
+{
+    "object": {
+        "name": "audit_reconciliationfilestatus",
+        "id": "1157331633"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Loading Data",
+            "notes": "",
+            "guid": "f76caf91-04eb-4c35-b1f0-ec74f832cfa8"
+        },
+        {
+            "statusid": "2",
+            "title": "Awaiting Reconciliation",
+            "notes": "",
+            "guid": "2bb85748-6317-4975-aadc-b27065edf082"
+        },
+        {
+            "statusid": "3",
+            "title": "Unsuccessful Reconciliation",
+            "notes": "",
+            "guid": "47a7d90e-d2ca-4320-a0ff-cb843f2a4bb9"
+        },
+        {
+            "statusid": "4",
+            "title": "Successful Reconciliation",
+            "notes": "",
+            "guid": "70c44fe9-08dd-4797-aeb9-eae0999279b8"
+        },
+        {
+            "statusid": "5",
+            "title": "Reconciliation not Required",
+            "notes": "",
+            "guid": "be924ae0-18f2-49ec-bd43-0bc539047742"
+        },
+        {
+            "statusid": "6",
+            "title": "Invalid File",
+            "notes": "",
+            "guid": "d63c3552-4f26-46cf-872d-86f70c259f43"
+        }
+    ]
+}

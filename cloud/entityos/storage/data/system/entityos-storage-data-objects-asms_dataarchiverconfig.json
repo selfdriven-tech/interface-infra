@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_dataarchiverconfig",
+        "id": "979898958"
+    },
+    "data": [
+        {
+            "configid": "1",
+            "title": "Main Archive Record",
+            "processdate": "13 Jan 2026",
+            "incrementdays": "1",
+            "completeditemindex": "-1",
+            "completedfractionindex": "-1",
+            "notes": "",
+            "guid": "139d9dc6-3073-4f9f-a4eb-ad42371d9276"
+        }
+    ]
+}

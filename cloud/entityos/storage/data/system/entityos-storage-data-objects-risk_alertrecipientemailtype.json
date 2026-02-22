@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "risk_alertrecipientemailtype",
+        "id": "1974662478"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Link to System",
+            "guid": "e6bbb4e2-df78-4431-8f02-7b3c8617836a"
+        },
+        {
+            "typeid": "2",
+            "title": "Alert Text",
+            "guid": "f09bf13f-13d3-411a-ab52-91041ee19902"
+        },
+        {
+            "typeid": "3",
+            "title": "Document",
+            "guid": "c71cc7fd-901a-4b6e-bfc6-bf239b99d33a"
+        }
+    ]
+}

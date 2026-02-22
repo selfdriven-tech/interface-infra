@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "doc_documentview",
+        "id": "1397580017"
+    },
+    "data": [
+        {
+            "documentviewid": "1",
+            "description": "Standard",
+            "guid": "7c444cb3-6cdd-4c3a-af19-4908c3dfd45b"
+        },
+        {
+            "documentviewid": "2",
+            "description": "Presentation",
+            "guid": "593b4b78-9d1a-47bd-bd0d-47e211d57b5c"
+        }
+    ]
+}

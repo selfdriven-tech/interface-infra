@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_prospecttype",
+        "id": "2032726294"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "My Business",
+            "guid": "60a30e11-efe0-4cc8-b48b-35a519433c92"
+        },
+        {
+            "typeid": "2",
+            "value": "Other Business",
+            "guid": "18f7c0a8-884b-4f29-a2a5-db92dac80aab"
+        }
+    ]
+}

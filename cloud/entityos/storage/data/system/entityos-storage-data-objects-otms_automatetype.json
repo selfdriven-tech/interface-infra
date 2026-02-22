@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "otms_automatetype",
+        "id": "179531723"
+    },
+    "data": [
+        {
+            "automatetypeid": "1",
+            "description": "No Confirmation",
+            "guid": "241e6646-2413-496e-ab44-6721995884be"
+        },
+        {
+            "automatetypeid": "2",
+            "description": "Requires Confimation",
+            "guid": "91958e9f-e36c-4d2f-916e-5eea34e51376"
+        },
+        {
+            "automatetypeid": "3",
+            "description": "No Confirmation Required &amp; Transfer To Financials",
+            "guid": "dbf24891-9c2e-4056-8412-c5d3199dd251"
+        }
+    ]
+}

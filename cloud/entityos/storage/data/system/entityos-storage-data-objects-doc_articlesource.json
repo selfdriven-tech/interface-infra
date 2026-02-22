@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "doc_articlesource",
+        "id": "1813581499"
+    },
+    "data": [
+        {
+            "sourceid": "1",
+            "value": "SMH",
+            "guid": "86f172e3-8b6b-42bc-8acc-5b62ae6187be"
+        },
+        {
+            "sourceid": "2",
+            "value": "Age",
+            "guid": "60cfc1dd-beb4-4957-8f59-ed788c5af43c"
+        }
+    ]
+}

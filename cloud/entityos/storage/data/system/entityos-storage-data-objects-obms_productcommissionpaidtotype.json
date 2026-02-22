@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "obms_productcommissionpaidtotype",
+        "id": "1533248517"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Contact - Customer Order",
+            "guid": "ad1e2221-40a3-4acd-bff6-67db2db57ef4"
+        },
+        {
+            "typeid": "2",
+            "title": "Sales Person",
+            "guid": "87553f5b-358f-4b61-9793-2b757b1c0d2d"
+        },
+        {
+            "typeid": "3",
+            "title": "Sales Person&#39;s Manager",
+            "guid": "1e57506f-953b-4015-a50d-673177084fcd"
+        },
+        {
+            "typeid": "4",
+            "title": "Supplier Person",
+            "guid": "2c835229-6327-4bf9-9dd8-536c7849d48c"
+        },
+        {
+            "typeid": "5",
+            "title": "Supplier Person&#39;s Manager",
+            "guid": "e237a4ee-ebe1-4420-87bd-945344dcb965"
+        },
+        {
+            "typeid": "6",
+            "title": "Contact - Supplier Order",
+            "guid": "c3bfd3ea-bdb5-47e6-85fa-b4cffdba68df"
+        }
+    ]
+}

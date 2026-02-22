@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "okms_accounttype",
+        "id": "1059534858"
+    },
+    "data": [
+        {
+            "accounttypeid": "1",
+            "value": "View Only",
+            "guid": "31aa2b17-8a1a-4386-a358-ed9ecdef1182"
+        },
+        {
+            "accounttypeid": "2",
+            "value": "View &amp; Add",
+            "guid": "718a4d84-b2f2-4fd5-b96c-5165d4d8d0d7"
+        },
+        {
+            "accounttypeid": "3",
+            "value": "Can Share Via Other Network Group",
+            "guid": "287ecc37-5289-4837-924b-6dfda4cf7137"
+        }
+    ]
+}

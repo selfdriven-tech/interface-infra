@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "tran_pickupservicetype",
+        "id": "971866529"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "General",
+            "guid": "f3379554-20cb-4bc4-aca9-24fac9d3867c"
+        },
+        {
+            "typeid": "2",
+            "title": "Express",
+            "guid": "5b9304dd-19bb-42b4-b9c5-7ef646545b54"
+        }
+    ]
+}

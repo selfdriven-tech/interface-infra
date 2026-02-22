@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "risk_alertruleperiod",
+        "id": "1626488873"
+    },
+    "data": [
+        {
+            "periodid": "1",
+            "title": "Previous Value - Today",
+            "guid": "8ca6e4d9-d712-4a52-9ff3-986aa35bac8a"
+        },
+        {
+            "periodid": "2",
+            "title": "Value - End of Last Period",
+            "guid": "3cf65372-4d85-48e5-9cef-279bdc508a65"
+        },
+        {
+            "periodid": "3",
+            "title": "Previous Value - End of Current Period",
+            "guid": "3e245214-4452-42d8-a89b-cc3e01441f2a"
+        },
+        {
+            "periodid": "4",
+            "title": "New Value - Today",
+            "guid": "7dcbcfc3-8c3b-4d0b-b36a-7a0dd35b7997"
+        },
+        {
+            "periodid": "5",
+            "title": "New Value - End of Current Period",
+            "guid": "a26c1931-9f75-4572-a305-6312f3a8812b"
+        }
+    ]
+}

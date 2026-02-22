@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "risk_classinlinesitetype",
+        "id": "1794521872"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Show All Site Information",
+            "notes": "",
+            "guid": "12aa5ad8-ee3a-4aee-98f7-2c2fac4c85ad"
+        },
+        {
+            "typeid": "2",
+            "title": "Show Site Name Only",
+            "notes": "",
+            "guid": "d7ccfaec-57f2-4957-a183-ed26534d8885"
+        },
+        {
+            "typeid": "3",
+            "title": "Show No Site Information",
+            "notes": "",
+            "guid": "ff75eb93-4fb4-4801-9911-3c55b0363867"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "obms_businessrequestcaptionformat",
+        "id": "1318295756"
+    },
+    "data": [
+        {
+            "captionformatid": "1",
+            "value": "Labels To The Left (2 Columns)",
+            "notes": "",
+            "guid": "2cb73fa5-9b88-4439-93c5-ae90cfde73b7"
+        },
+        {
+            "captionformatid": "2",
+            "value": "Labels On Top (1 Column)",
+            "notes": "",
+            "guid": "8aa3152b-93f4-4552-9382-0cab07f49151"
+        }
+    ]
+}

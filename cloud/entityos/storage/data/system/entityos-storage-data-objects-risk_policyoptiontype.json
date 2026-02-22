@@ -1,0 +1,50 @@
+{
+    "object": {
+        "name": "risk_policyoptiontype",
+        "id": "231112014"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Policy Search",
+            "displayorder": "1",
+            "reference": "3",
+            "guid": "b01f0a47-27ad-4999-808a-fd883a07fca7"
+        },
+        {
+            "typeid": "2",
+            "title": "Add New Policy",
+            "displayorder": "2",
+            "reference": "4",
+            "guid": "a09f2dc0-9e1e-4667-9240-2c1004d637d3"
+        },
+        {
+            "typeid": "3",
+            "title": "Add New User",
+            "displayorder": "3",
+            "reference": "6",
+            "guid": "fcf6e8d0-af53-4233-8ef4-5b9fb1d86a34"
+        },
+        {
+            "typeid": "4",
+            "title": "Edit User Details",
+            "displayorder": "4",
+            "reference": "8",
+            "guid": "435862ae-53fe-4081-98dd-422a5dae3b33"
+        },
+        {
+            "typeid": "5",
+            "title": "Policy Report",
+            "displayorder": "5",
+            "reference": "7",
+            "guid": "3eae665a-3065-4c59-af10-88eb1138e59f"
+        },
+        {
+            "typeid": "6",
+            "title": "Alerts Report",
+            "displayorder": "6",
+            "reference": "12",
+            "guid": "a6262a1e-a04b-4eae-ab2e-ce27521cb045"
+        }
+    ]
+}

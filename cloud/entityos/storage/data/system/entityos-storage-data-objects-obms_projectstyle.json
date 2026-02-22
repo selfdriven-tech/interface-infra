@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_projectstyle",
+        "id": "317244185"
+    },
+    "data": [
+        {
+            "projectstyleid": "1",
+            "value": "[Standard]",
+            "guid": "5ecf6f51-faa7-4966-8557-e3575843fa9e"
+        },
+        {
+            "projectstyleid": "2",
+            "value": "Simple",
+            "guid": "da1bf30c-dfce-4a7c-b35a-465137e49f32"
+        },
+        {
+            "projectstyleid": "3",
+            "value": "Advanced",
+            "guid": "ef20a7ab-e363-4db3-b946-c2a155b1cbf4"
+        }
+    ]
+}

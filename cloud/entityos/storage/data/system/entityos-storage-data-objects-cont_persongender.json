@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "cont_persongender",
+        "id": "1698105090"
+    },
+    "data": [
+        {
+            "genderid": "1",
+            "value": "[Unknown]",
+            "guid": "cc718874-ee94-4b45-9c39-916429146f93"
+        },
+        {
+            "genderid": "2",
+            "value": "Male",
+            "guid": "fa3aa493-f228-4ebc-9586-55bc8731e807"
+        },
+        {
+            "genderid": "3",
+            "value": "Female",
+            "guid": "dac2d02d-8155-42cd-84cc-6c6d4d456493"
+        },
+        {
+            "genderid": "4",
+            "value": "Other",
+            "guid": "2cba2810-f0c6-4d34-8149-843b67167b18"
+        },
+        {
+            "genderid": "6",
+            "value": "Prefer Not To State",
+            "guid": "9c0036dc-211c-48d4-b87d-1762ba38a16d"
+        }
+    ]
+}

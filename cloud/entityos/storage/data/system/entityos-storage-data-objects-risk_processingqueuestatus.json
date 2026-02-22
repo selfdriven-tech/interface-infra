@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "risk_processingqueuestatus",
+        "id": "968754904"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Pending",
+            "guid": "00df65b9-3f09-4c2b-bacf-84412aaeee03"
+        },
+        {
+            "statusid": "2",
+            "title": "Completed",
+            "guid": "ee7b8407-ffe9-4566-979c-bb337beaa570"
+        },
+        {
+            "statusid": "3",
+            "title": "Cancelled",
+            "guid": "5648c00c-d791-486d-b55e-aa692f3673d2"
+        }
+    ]
+}

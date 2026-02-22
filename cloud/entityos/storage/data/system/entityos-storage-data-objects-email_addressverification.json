@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "email_addressverification",
+        "id": "708249628"
+    },
+    "data": [
+        {
+            "verificationid": "1",
+            "title": "Pending",
+            "guid": "e9072a46-5ff6-4f59-b93c-31364741aa30"
+        },
+        {
+            "verificationid": "2",
+            "title": "Not Approved",
+            "guid": "777a0284-2ea9-46bf-bffc-94982770d4bb"
+        },
+        {
+            "verificationid": "3",
+            "title": "Approved",
+            "guid": "018ef5e2-ee15-41c4-a1f5-f08500598f7c"
+        }
+    ]
+}

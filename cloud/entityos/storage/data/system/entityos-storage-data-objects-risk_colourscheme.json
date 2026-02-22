@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "risk_colourscheme",
+        "id": "638117514"
+    },
+    "data": [
+        {
+            "schemeid": "1",
+            "title": "Classic",
+            "guid": "eee4f8a4-307d-46f8-8f98-2bee0112f4fe"
+        },
+        {
+            "schemeid": "2",
+            "title": "Grey",
+            "guid": "341382e6-7224-4339-b0ae-a584bd974af0"
+        },
+        {
+            "schemeid": "3",
+            "title": "Metallic",
+            "guid": "0575e806-e50e-4a31-9375-4abd4329f8ef"
+        },
+        {
+            "schemeid": "4",
+            "title": "Orange",
+            "guid": "16bee9d3-adc3-4fa7-8666-28c5a984597f"
+        }
+    ]
+}

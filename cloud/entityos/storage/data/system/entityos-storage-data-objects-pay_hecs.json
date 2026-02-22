@@ -1,0 +1,188 @@
+{
+    "object": {
+        "name": "pay_hecs",
+        "id": "1767013376"
+    },
+    "data": [
+        {
+            "hecsid": "1",
+            "taxid": "3",
+            "fromamount": "0.00",
+            "toamount": "38,148.99",
+            "percentage": "0.00",
+            "taxfreethreshold": "Y",
+            "guid": "ea4d72f5-f201-4784-b06d-3248a0f19b68"
+        },
+        {
+            "hecsid": "2",
+            "taxid": "3",
+            "fromamount": "38,149.00",
+            "toamount": "42,494.99",
+            "percentage": "0.04",
+            "taxfreethreshold": "Y",
+            "guid": "27b06a5f-c936-4162-b58c-ab30ab996661"
+        },
+        {
+            "hecsid": "3",
+            "taxid": "3",
+            "fromamount": "42,495.00",
+            "toamount": "46,838.99",
+            "percentage": "0.04",
+            "taxfreethreshold": "Y",
+            "guid": "7d53b575-a8a9-4f65-bfed-351639150741"
+        },
+        {
+            "hecsid": "4",
+            "taxid": "3",
+            "fromamount": "46,839.00",
+            "toamount": "49,300.99",
+            "percentage": "0.05",
+            "taxfreethreshold": "Y",
+            "guid": "390898cc-f681-4535-bd58-fe51e015eb02"
+        },
+        {
+            "hecsid": "5",
+            "taxid": "3",
+            "fromamount": "49,301.00",
+            "toamount": "52,994.99",
+            "percentage": "0.06",
+            "taxfreethreshold": "Y",
+            "guid": "015dfd03-2bf4-4513-b441-b1440757da73"
+        },
+        {
+            "hecsid": "6",
+            "taxid": "3",
+            "fromamount": "52,995.00",
+            "toamount": "57,394.99",
+            "percentage": "0.06",
+            "taxfreethreshold": "Y",
+            "guid": "185f148c-a2ec-4857-8753-8e0ca7022dc6"
+        },
+        {
+            "hecsid": "7",
+            "taxid": "3",
+            "fromamount": "57,395.00",
+            "toamount": "60,414.99",
+            "percentage": "0.06",
+            "taxfreethreshold": "Y",
+            "guid": "6930d895-b1e8-481d-8eee-81428c1fa9d4"
+        },
+        {
+            "hecsid": "8",
+            "taxid": "3",
+            "fromamount": "60,415.00",
+            "toamount": "66,485.99",
+            "percentage": "0.07",
+            "taxfreethreshold": "Y",
+            "guid": "112a8f1c-966f-4ab2-9e37-aab506fdb1c9"
+        },
+        {
+            "hecsid": "9",
+            "taxid": "3",
+            "fromamount": "66,486.00",
+            "toamount": "70,846.99",
+            "percentage": "0.08",
+            "taxfreethreshold": "Y",
+            "guid": "ea2b3195-1c8b-47d7-bd78-045dcbb8d483"
+        },
+        {
+            "hecsid": "10",
+            "taxid": "3",
+            "fromamount": "70,847.00",
+            "toamount": "999,999.00",
+            "percentage": "0.08",
+            "taxfreethreshold": "Y",
+            "guid": "ae5666d0-7d24-4c38-b8b8-40f8bde682fd"
+        },
+        {
+            "hecsid": "11",
+            "taxid": "4",
+            "fromamount": "0.00",
+            "toamount": "39,779.48",
+            "percentage": "0.00",
+            "taxfreethreshold": "Y",
+            "guid": "92c64b4b-962b-491e-b477-f7ad087c3f1d"
+        },
+        {
+            "hecsid": "12",
+            "taxid": "4",
+            "fromamount": "39,779.49",
+            "toamount": "44,355.48",
+            "percentage": "0.04",
+            "taxfreethreshold": "Y",
+            "guid": "ce359570-444b-4f97-ae9f-f2da96397565"
+        },
+        {
+            "hecsid": "13",
+            "taxid": "4",
+            "fromamount": "44,355.49",
+            "toamount": "48,879.48",
+            "percentage": "0.04",
+            "taxfreethreshold": "Y",
+            "guid": "4a0e1575-2633-486f-be69-71fa4d1b933d"
+        },
+        {
+            "hecsid": "14",
+            "taxid": "4",
+            "fromamount": "48,879.49",
+            "toamount": "51,427.48",
+            "percentage": "0.05",
+            "taxfreethreshold": "Y",
+            "guid": "9d365800-eab5-42b6-be0b-0514a303016d"
+        },
+        {
+            "hecsid": "15",
+            "taxid": "4",
+            "fromamount": "51,427.49",
+            "toamount": "55,275.48",
+            "percentage": "0.06",
+            "taxfreethreshold": "Y",
+            "guid": "d8b1d588-4ba6-48d7-b3fd-6d22eba4ce72"
+        },
+        {
+            "hecsid": "16",
+            "taxid": "4",
+            "fromamount": "55,275.49",
+            "toamount": "59,903.48",
+            "percentage": "0.06",
+            "taxfreethreshold": "Y",
+            "guid": "4e3b5b39-a8fd-4722-905a-97c5a60e7154"
+        },
+        {
+            "hecsid": "17",
+            "taxid": "4",
+            "fromamount": "59,903.49",
+            "toamount": "63,023.48",
+            "percentage": "0.06",
+            "taxfreethreshold": "Y",
+            "guid": "8d332f2e-ff25-422d-9d98-675b22f82c1f"
+        },
+        {
+            "hecsid": "18",
+            "taxid": "4",
+            "fromamount": "63,023.49",
+            "toamount": "69,367.48",
+            "percentage": "0.07",
+            "taxfreethreshold": "Y",
+            "guid": "939db92a-2411-40b4-8237-8b28141eba32"
+        },
+        {
+            "hecsid": "19",
+            "taxid": "4",
+            "fromamount": "69,367.49",
+            "toamount": "73,943.48",
+            "percentage": "0.08",
+            "taxfreethreshold": "Y",
+            "guid": "1322e73e-b3f9-4436-86a7-28e8a9379da0"
+        },
+        {
+            "hecsid": "20",
+            "taxid": "4",
+            "fromamount": "73,943.49",
+            "toamount": "999,999.00",
+            "percentage": "0.08",
+            "taxfreethreshold": "Y",
+            "guid": "89ba4187-386e-43e2-a25e-143ff3fbea21"
+        }
+    ]
+}

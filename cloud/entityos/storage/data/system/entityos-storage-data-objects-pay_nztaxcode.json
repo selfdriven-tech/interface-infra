@@ -1,0 +1,73 @@
+{
+    "object": {
+        "name": "pay_nztaxcode",
+        "id": "1543012578"
+    },
+    "data": [
+        {
+            "codeid": "1",
+            "title": "M - Main Income",
+            "guid": "84511927-d7ae-419a-afe0-6ace2ff849a7"
+        },
+        {
+            "codeid": "2",
+            "title": "ML - Main income &lt; $9,880",
+            "guid": "e65c0085-1ecf-4e0f-a6ea-ae7a9bf2d2a8"
+        },
+        {
+            "codeid": "3",
+            "title": "S - Secondary income &lt;= $38,000",
+            "guid": "f2553a76-f2f8-4918-bd98-75d5f769262d"
+        },
+        {
+            "codeid": "4",
+            "title": "SH - Secondary income $38,001 to $60,000",
+            "guid": "194301c6-a200-48c3-a66f-04711d72c871"
+        },
+        {
+            "codeid": "5",
+            "title": "ST - Secondary income &gt; $60,000",
+            "guid": "eeaaea48-4ba8-4bcd-8d71-ff1c873b0c1f"
+        },
+        {
+            "codeid": "6",
+            "title": "CAE - Casual agricultural employees",
+            "guid": "b3ede2c9-92a8-49dd-93d5-2fcb1b29ce13"
+        },
+        {
+            "codeid": "7",
+            "title": "EDW - Election day workers",
+            "guid": "e163ad15-0b75-4f91-9aff-808242de87ca"
+        },
+        {
+            "codeid": "8",
+            "title": "MSL - Main income with student loan",
+            "guid": "90988d11-39e9-48f4-b96b-49bbed1fba33"
+        },
+        {
+            "codeid": "9",
+            "title": "S SL - Secondary income &lt;= $38,000 with Student loan",
+            "guid": "b8d9c232-9159-4f32-848d-8a682d93f777"
+        },
+        {
+            "codeid": "10",
+            "title": "SH SL - Secondary income $38,001 to $60,000 with student loan",
+            "guid": "43379615-5531-4e81-9218-2ec812841752"
+        },
+        {
+            "codeid": "11",
+            "title": "ST SL - Secondary income &gt; $60,000 with student loan",
+            "guid": "2ded2906-1db8-4762-82a4-6a0a9c303359"
+        },
+        {
+            "codeid": "12",
+            "title": "STC - Special Tax Code",
+            "guid": "07acaa18-7273-408c-a078-3625a21b8cce"
+        },
+        {
+            "codeid": "13",
+            "title": "ND - No Declaration",
+            "guid": "92a5d35f-1e8f-4698-9dc9-fc284a07d67a"
+        }
+    ]
+}

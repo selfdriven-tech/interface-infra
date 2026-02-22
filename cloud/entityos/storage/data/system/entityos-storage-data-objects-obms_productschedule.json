@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "obms_productschedule",
+        "id": "973246522"
+    },
+    "data": [
+        {
+            "scheduleid": "1",
+            "title": "[Don&#39;t Schedule]",
+            "guid": "2079dabc-8ed0-4654-88eb-bdd94423763d"
+        },
+        {
+            "scheduleid": "2",
+            "title": "Daily",
+            "guid": "7ff5ab55-d452-4941-8a13-396543d736a2"
+        },
+        {
+            "scheduleid": "3",
+            "title": "Weekly",
+            "guid": "1a25894f-0eb7-4c5b-ac7a-a027bf0df1ee"
+        },
+        {
+            "scheduleid": "4",
+            "title": "Monthly",
+            "guid": "6d3d568b-3d3f-4c0c-b5f4-d266837d1b87"
+        },
+        {
+            "scheduleid": "5",
+            "title": "Fortnightly",
+            "guid": "1d5560dc-4617-4d95-851c-c780f71f5aee"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "odir_websitelocation",
+        "id": "1696061128"
+    },
+    "data": [
+        {
+            "websitelocationid": "1",
+            "description": "[Not Applicable]",
+            "guid": "f8e4d399-83cb-4279-9662-cc66c994a2f7"
+        },
+        {
+            "websitelocationid": "2",
+            "description": "Located On Another System",
+            "guid": "f61bd2cb-0eaa-4bd2-b902-1b56a1877794"
+        },
+        {
+            "websitelocationid": "3",
+            "description": "Redirect To My Integrated Online Shop",
+            "guid": "26cc1337-66eb-4a2c-9ea6-3e7d7f920d07"
+        },
+        {
+            "websitelocationid": "4",
+            "description": "Root Domain",
+            "guid": "2edf05a3-9297-4f67-805b-f355b6709351"
+        }
+    ]
+}

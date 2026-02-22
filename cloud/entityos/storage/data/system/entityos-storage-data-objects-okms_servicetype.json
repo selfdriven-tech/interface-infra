@@ -1,0 +1,68 @@
+{
+    "object": {
+        "name": "okms_servicetype",
+        "id": "499532863"
+    },
+    "data": [
+        {
+            "servicetypeid": "1",
+            "value": "Banking Information",
+            "title": "",
+            "reference": "",
+            "status": "",
+            "oldstatus": "",
+            "provider": "",
+            "guid": "a2aad142-2d66-4cab-9e82-bde61b790724"
+        },
+        {
+            "servicetypeid": "2",
+            "value": "Daily News",
+            "title": "",
+            "reference": "",
+            "status": "",
+            "oldstatus": "",
+            "provider": "",
+            "guid": "48ffd237-ed1c-4fd7-9160-eecb6fd2c5d9"
+        },
+        {
+            "servicetypeid": "3",
+            "value": "Stock Information",
+            "title": "",
+            "reference": "",
+            "status": "",
+            "oldstatus": "",
+            "provider": "",
+            "guid": "13942320-3e06-42c7-9aad-b2297725f5aa"
+        },
+        {
+            "servicetypeid": "4",
+            "value": "Knowledgebase",
+            "title": "",
+            "reference": "",
+            "status": "",
+            "oldstatus": "",
+            "provider": "",
+            "guid": "e68d276a-6717-49f8-b311-a0cd64d50ec9"
+        },
+        {
+            "servicetypeid": "5",
+            "value": "Knowledgebase",
+            "title": "",
+            "reference": "",
+            "status": "",
+            "oldstatus": "",
+            "provider": "",
+            "guid": "c7deb126-2c74-4df9-8104-a8ae9da9e9c3"
+        },
+        {
+            "servicetypeid": "6",
+            "value": "Financial Services Product Knowledge",
+            "title": "Financial Services Product Knowledge",
+            "reference": "",
+            "status": "1",
+            "oldstatus": "",
+            "provider": "19",
+            "guid": "553693d3-dc5f-4a97-8344-9ed9a80a35e2"
+        }
+    ]
+}

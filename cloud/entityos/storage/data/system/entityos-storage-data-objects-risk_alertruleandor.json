@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_alertruleandor",
+        "id": "1722489215"
+    },
+    "data": [
+        {
+            "andorid": "1",
+            "title": "And",
+            "guid": "4b8ec75f-27ce-4412-af83-2dfd718459c6"
+        },
+        {
+            "andorid": "2",
+            "title": "Or",
+            "guid": "b5cf3b6e-2972-47d4-880f-08f184c92fb0"
+        }
+    ]
+}

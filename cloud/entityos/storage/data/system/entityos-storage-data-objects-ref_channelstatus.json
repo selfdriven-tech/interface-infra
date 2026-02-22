@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "ref_channelstatus",
+        "id": "535008987"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Active",
+            "guid": "22680f5c-478e-42bb-9c08-cf3abc261b1a"
+        },
+        {
+            "statusid": "2",
+            "title": "In-Active",
+            "guid": "dbb0ad20-3b8a-432f-b412-39972ce53e7f"
+        }
+    ]
+}

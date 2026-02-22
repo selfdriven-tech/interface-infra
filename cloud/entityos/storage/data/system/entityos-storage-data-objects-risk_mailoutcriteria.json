@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_mailoutcriteria",
+        "id": "266484028"
+    },
+    "data": [
+        {
+            "criteriaid": "1",
+            "title": "Greater Than",
+            "guid": "25ef19d0-cba8-4960-ad8f-831bf69ddf0b"
+        },
+        {
+            "criteriaid": "2",
+            "title": "Less Than",
+            "guid": "e49136f8-4dcd-400d-99cf-d891ee786fd7"
+        }
+    ]
+}

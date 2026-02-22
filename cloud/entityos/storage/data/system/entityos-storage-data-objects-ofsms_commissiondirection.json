@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "ofsms_commissiondirection",
+        "id": "1296059703"
+    },
+    "data": [
+        {
+            "directionid": "1",
+            "value": "In",
+            "guid": "3a7e9f7d-a6b2-4ad4-bf4a-6cc9d9a6baa2"
+        },
+        {
+            "directionid": "2",
+            "value": "Out",
+            "guid": "cb58324c-d19b-4556-a5b9-5b09a377ace7"
+        }
+    ]
+}

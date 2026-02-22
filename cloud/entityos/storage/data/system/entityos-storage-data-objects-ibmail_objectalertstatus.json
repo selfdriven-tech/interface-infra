@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "ibmail_objectalertstatus",
+        "id": "1830401690"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "In Queue",
+            "guid": "814f92fb-3e12-4942-99f2-f7bfec8a8c5e"
+        },
+        {
+            "statusid": "2",
+            "title": "Sent",
+            "guid": "5bee4b71-cf81-4bd1-a6fc-3519287beaeb"
+        },
+        {
+            "statusid": "3",
+            "title": "Cancelled",
+            "guid": "9d48d5df-e895-44e1-b0ee-15cc0e7943c6"
+        }
+    ]
+}

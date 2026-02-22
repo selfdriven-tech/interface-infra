@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_checkstatus",
+        "id": "998294616"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Passed",
+            "guid": "48540cde-a994-4b2c-bf33-a64759981eb7"
+        },
+        {
+            "statusid": "2",
+            "title": "Failed",
+            "guid": "763b1fe1-b0fc-4777-9311-625f8a96ef10"
+        },
+        {
+            "statusid": "3",
+            "title": "Pending",
+            "guid": "f053e3c8-25f0-4da3-8171-c1208e95d4a7"
+        }
+    ]
+}

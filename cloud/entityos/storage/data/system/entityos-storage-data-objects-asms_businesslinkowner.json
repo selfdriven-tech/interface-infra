@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_businesslinkowner",
+        "id": "1588200708"
+    },
+    "data": [
+        {
+            "linkownerid": "1",
+            "value": "My Business",
+            "guid": "98135e39-d154-496a-86fe-8725ff4749e0"
+        },
+        {
+            "linkownerid": "2",
+            "value": "Other Business",
+            "guid": "60b3f59c-f09e-4bd2-ae2d-fef3c5f21b65"
+        }
+    ]
+}

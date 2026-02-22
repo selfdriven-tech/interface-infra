@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "dec_surveyrestriction",
+        "id": "50099219"
+    },
+    "data": [
+        {
+            "restrictionid": "1",
+            "value": "None",
+            "guid": "436d2a26-54c2-40ca-be34-c60379aa2182"
+        },
+        {
+            "restrictionid": "2",
+            "value": "User can elect to share results",
+            "guid": "b9c190ed-d9be-477e-b11b-195c3c60584c"
+        },
+        {
+            "restrictionid": "3",
+            "value": "User must share results",
+            "guid": "80fbcae1-0d88-41ac-a59d-0b3d8a4e0b06"
+        }
+    ]
+}

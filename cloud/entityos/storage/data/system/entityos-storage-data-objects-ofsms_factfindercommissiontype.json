@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "ofsms_factfindercommissiontype",
+        "id": "1072058905"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Upfront",
+            "guid": "11062b92-17db-4440-bf07-5fcfba009402"
+        },
+        {
+            "typeid": "2",
+            "value": "Hybrid",
+            "guid": "b803f3dd-27d2-4663-b097-3dff9993501b"
+        },
+        {
+            "typeid": "3",
+            "value": "Flat/Level",
+            "guid": "7539a15f-389a-4504-877c-e3e989da61c7"
+        },
+        {
+            "typeid": "4",
+            "value": "Stepped",
+            "guid": "d83d2efe-c983-4bca-8b6a-24c250804eb7"
+        }
+    ]
+}

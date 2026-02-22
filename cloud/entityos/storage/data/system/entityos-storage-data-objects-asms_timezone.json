@@ -1,0 +1,128 @@
+{
+    "object": {
+        "name": "asms_timezone",
+        "id": "1660689114"
+    },
+    "data": [
+        {
+            "timezoneid": "1",
+            "title": "Dateline Standard Time",
+            "description": "(GMT-12:00) International Date Line West",
+            "guid": "ac19a700-643d-4cb0-b374-698ee65473fb"
+        },
+        {
+            "timezoneid": "2",
+            "title": "Samoa Standard Time",
+            "description": "(GMT-11:00) Midway Island, Samoa",
+            "guid": "cb33ee1e-912e-4754-bfbd-f24c3a68ea6d"
+        },
+        {
+            "timezoneid": "3",
+            "title": "Hawaiian Standard Time",
+            "description": "(GMT-10:00) Hawaii",
+            "guid": "d699eedb-491b-4c3d-b827-037817932275"
+        },
+        {
+            "timezoneid": "4",
+            "title": "Alaskan Standard Time",
+            "description": "(GMT-09:00) Alaska",
+            "guid": "a7814e73-b37b-4b8b-836f-625eb0b00002"
+        },
+        {
+            "timezoneid": "5",
+            "title": "Pacific Standard Time",
+            "description": "(GMT-08:00) Pacific Time (US and Canada); Tijuana",
+            "guid": "e7822e26-d07a-4b1b-a6e3-207a55969141"
+        },
+        {
+            "timezoneid": "6",
+            "title": "Mountain Standard Time",
+            "description": "(GMT-07:00) Mountain Time (US and Canada)",
+            "guid": "119819be-543f-4b5d-bc77-6a228eef6e2e"
+        },
+        {
+            "timezoneid": "7",
+            "title": "Mexico Standard Time 2",
+            "description": "(GMT-07:00) Chihuahua, La Paz, Mazatlan",
+            "guid": "9852cbd3-7e86-48e6-9d51-5292e4fb91e3"
+        },
+        {
+            "timezoneid": "8",
+            "title": "U.S. Mountain Standard Time",
+            "description": "(GMT-07:00) Arizona",
+            "guid": "fe6f42c9-28f0-4e78-8651-57286ac8a11e"
+        },
+        {
+            "timezoneid": "9",
+            "title": "Central Standard Time",
+            "description": "(GMT-06:00) Central Time (US and Canada",
+            "guid": "2b986252-e89e-4e95-9e6e-ae884d254bf1"
+        },
+        {
+            "timezoneid": "10",
+            "title": "Canada Central Standard Time",
+            "description": "(GMT-06:00) Saskatchewan",
+            "guid": "62426126-d344-4408-babe-765f99f712da"
+        },
+        {
+            "timezoneid": "11",
+            "title": "Mexico Standard Time",
+            "description": "(GMT-06:00) Guadalajara, Mexico City, Monterrey",
+            "guid": "bb3a12de-af30-4df9-bcb5-57feb62b8352"
+        },
+        {
+            "timezoneid": "12",
+            "title": "Central America Standard Time",
+            "description": "(GMT-06:00) Central America",
+            "guid": "af7c825e-b289-44a4-932f-23e40afd19f1"
+        },
+        {
+            "timezoneid": "13",
+            "title": "Eastern Standard Time",
+            "description": "(GMT-05:00) Eastern Time (US and Canada)",
+            "guid": "f74ecd32-573b-4351-8a5c-aff936c1f9f8"
+        },
+        {
+            "timezoneid": "14",
+            "title": "U.S. Eastern Standard Time",
+            "description": "(GMT-05:00) Indiana (East)",
+            "guid": "62ae6f9f-0f71-41c1-96ab-f1845bf02abc"
+        },
+        {
+            "timezoneid": "15",
+            "title": "S.A. Pacific Standard Time",
+            "description": "(GMT-05:00) Bogota, Lima, Quito",
+            "guid": "f4cbccb4-ad23-4342-9cc8-50ffdbba9cc2"
+        },
+        {
+            "timezoneid": "16",
+            "title": "Atlantic Standard Time",
+            "description": "(GMT-04:00) Atlantic Time (Canada)",
+            "guid": "cec4d495-2190-445e-8685-bfcde47915d1"
+        },
+        {
+            "timezoneid": "17",
+            "title": "S.A. Western Standard Time",
+            "description": "(GMT-04:00) Caracas, La Paz",
+            "guid": "9e719d8a-debf-4351-9bde-e6e2b2ef9c4f"
+        },
+        {
+            "timezoneid": "18",
+            "title": "Pacific S.A. Standard Time",
+            "description": "(GMT-04:00) Santiago",
+            "guid": "d0b669b3-7d70-491f-8d06-87cd38a03e8c"
+        },
+        {
+            "timezoneid": "19",
+            "title": "Newfoundland and Labrador Standard Time",
+            "description": "(GMT-03:30) Newfoundland and Labrador",
+            "guid": "c0d78d08-aa89-4312-b2df-5706a4ea3bb7"
+        },
+        {
+            "timezoneid": "20",
+            "title": "E. South America Standard Time",
+            "description": "(GMT-03:00) Brasilia",
+            "guid": "d672694d-41b3-4be4-add3-c9f81965200a"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_supplierorderreceivalstatus",
+        "id": "514868951"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "In Progress",
+            "guid": "fdb45d66-0b3c-4059-ba33-f323c9c27001"
+        },
+        {
+            "statusid": "2",
+            "title": "Needs finalising",
+            "guid": "6523f7bf-2361-4d1b-a245-19a41b465808"
+        },
+        {
+            "statusid": "3",
+            "title": "Finalised",
+            "guid": "6c405094-4756-45b3-8c7d-293a61c10d3b"
+        }
+    ]
+}

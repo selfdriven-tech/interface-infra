@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "email_logtype",
+        "id": "405576483"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Connection",
+            "guid": "8a891381-5ee2-4212-86a1-9c4637bd2305"
+        },
+        {
+            "typeid": "2",
+            "title": "Retrieval",
+            "guid": "d4a285de-8345-414f-88b9-2d3a844f7eb0"
+        }
+    ]
+}

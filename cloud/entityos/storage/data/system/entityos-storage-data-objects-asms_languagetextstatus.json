@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_languagetextstatus",
+        "id": "611025458"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Enabled",
+            "guid": "0241b82c-837f-4121-876a-27170a9e30b6"
+        },
+        {
+            "statusid": "2",
+            "title": "Disabled",
+            "guid": "f9f7eeb3-a5d9-4359-9ada-447eec0c1ac3"
+        }
+    ]
+}

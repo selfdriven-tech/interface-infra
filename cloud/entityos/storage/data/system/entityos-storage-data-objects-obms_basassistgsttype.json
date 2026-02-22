@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_basassistgsttype",
+        "id": "1798297466"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Normal",
+            "guid": "c380d68f-2eba-47d1-b22c-d4df5b62073e"
+        },
+        {
+            "typeid": "2",
+            "title": "Fixed",
+            "guid": "56e3f908-e4ef-4bbf-b81b-da0cebcd67df"
+        },
+        {
+            "typeid": "3",
+            "title": "Annual",
+            "guid": "2944666e-11aa-4882-89f6-e56602c32258"
+        }
+    ]
+}

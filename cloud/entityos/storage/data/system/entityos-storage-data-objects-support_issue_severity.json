@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "support_issue_severity",
+        "id": "228911887"
+    },
+    "data": [
+        {
+            "severity_id": "0",
+            "severity_desc": "Critical",
+            "guid": "82090b18-4981-4c8a-aaec-d686d3fecd95"
+        },
+        {
+            "severity_id": "1",
+            "severity_desc": "Urgent",
+            "guid": "46aa05d7-9ece-4166-a4a8-3b439f28f39b"
+        },
+        {
+            "severity_id": "2",
+            "severity_desc": "Routine",
+            "guid": "57bc6f97-5402-4b48-a304-bdcbbc7fc51a"
+        },
+        {
+            "severity_id": "3",
+            "severity_desc": "Non Critical",
+            "guid": "216180a0-7494-45a5-b123-5ceb04588d3a"
+        },
+        {
+            "severity_id": "4",
+            "severity_desc": "[unassigned]",
+            "guid": "c468bd0a-f45e-41e3-a436-45d328e9e348"
+        }
+    ]
+}

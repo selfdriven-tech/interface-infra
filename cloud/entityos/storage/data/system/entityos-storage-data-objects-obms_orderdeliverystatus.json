@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_orderdeliverystatus",
+        "id": "450868723"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "In Progress",
+            "guid": "d961f5ef-2e53-46c7-9c03-77a24869c1ac"
+        },
+        {
+            "statusid": "2",
+            "title": "Needs finalising",
+            "guid": "b673f6b4-2d14-4c38-b730-52f57c6d2aeb"
+        },
+        {
+            "statusid": "3",
+            "title": "Finalised",
+            "guid": "deaae38f-05cd-4b2e-a5d8-9939c3b73bb3"
+        }
+    ]
+}

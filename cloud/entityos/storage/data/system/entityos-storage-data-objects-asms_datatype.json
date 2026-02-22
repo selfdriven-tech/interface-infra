@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "asms_datatype",
+        "id": "2057878498"
+    },
+    "data": [
+        {
+            "datatypeid": "1",
+            "title": "Numeric",
+            "guid": "f0c94438-6898-4df7-b820-e3a5612763f5"
+        },
+        {
+            "datatypeid": "2",
+            "title": "Date",
+            "guid": "95cb4440-d7ee-4438-8988-4cb499d74c40"
+        },
+        {
+            "datatypeid": "3",
+            "title": "Text",
+            "guid": "a0cc783a-08ff-4b7f-b7d4-83b1fbdc92cc"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "asms_buttonstyle",
+        "id": "1508200423"
+    },
+    "data": [
+        {
+            "buttonstyleid": "1",
+            "title": "Button",
+            "guid": "911850c5-23b7-406c-a941-5601b62e053e"
+        },
+        {
+            "buttonstyleid": "2",
+            "title": "Text",
+            "guid": "06c66e1b-181d-476d-b0f0-7891ed9753a3"
+        },
+        {
+            "buttonstyleid": "3",
+            "title": "Image",
+            "guid": "f8f74bf3-19c6-47fe-9fd9-d785c4e56afd"
+        },
+        {
+            "buttonstyleid": "4",
+            "title": "Image &amp; Text",
+            "guid": "c7dec4a9-6b67-43f0-abfe-53f6d5ee4253"
+        }
+    ]
+}

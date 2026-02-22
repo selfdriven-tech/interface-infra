@@ -1,0 +1,168 @@
+{
+    "object": {
+        "name": "ofsms_provideroccupationlist",
+        "id": "1363535941"
+    },
+    "data": [
+        {
+            "occupationid": "1",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "5",
+            "description": "Accounts Clerk (see Clerk)",
+            "guid": "bfc2d5e4-b54c-47c5-a216-a28b53266caf"
+        },
+        {
+            "occupationid": "2",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "83",
+            "description": "Bank, Building Society, Credit Union Teller or Clerk (see Clerk)",
+            "guid": "56f08c79-f49e-47dd-bc7b-cdc5d1f3a07c"
+        },
+        {
+            "occupationid": "3",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "115",
+            "description": "Bookkeeper (see Clerk)",
+            "guid": "baa908b0-05ad-42a4-ad4b-9f81fd236186"
+        },
+        {
+            "occupationid": "4",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "156",
+            "description": "Cashier Supermarket (see Supermarket, Cashier)",
+            "guid": "12b0e49f-5a4e-4b38-b045-13ce621798bb"
+        },
+        {
+            "occupationid": "5",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "157",
+            "description": "Casino, Government Licensed Cashier (see Clerk)",
+            "guid": "2e14a1ac-040e-4dba-996e-c1b4595cc212"
+        },
+        {
+            "occupationid": "6",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "159",
+            "description": "Casino, Government Licensed Poker/Gaming Machine Staff (see Poker/Gaming",
+            "guid": "5d345a93-232d-422b-8f59-1c80e463ba41"
+        },
+        {
+            "occupationid": "7",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "161",
+            "description": "Caterer, not working from home Office &amp; Supervising duties only",
+            "guid": "59f3faa3-e6ac-4e73-b8c9-0c8b2eedee65"
+        },
+        {
+            "occupationid": "8",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "190",
+            "description": "Clerk, office duties only",
+            "guid": "4056d183-42f2-4e5f-b2ac-b02bf484450c"
+        },
+        {
+            "occupationid": "9",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "210",
+            "description": "Computer Industry Key Punch/Keyboard Operator/Data Entry Operator",
+            "guid": "53e26903-c263-44ed-9625-70d3cfeba47f"
+        },
+        {
+            "occupationid": "10",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "227",
+            "description": "Customs Agent Clerical work only (see Clerk)",
+            "guid": "19c6fe41-f535-48ca-a56c-17a6d52abe0e"
+        },
+        {
+            "occupationid": "11",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "231",
+            "description": "Data Entry Operator, Computers",
+            "guid": "d4bbd66e-753c-4119-abc0-c774f8b7fcd7"
+        },
+        {
+            "occupationid": "12",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "248",
+            "description": "Department Store Manager, not senior, clerical only (see Clerk)",
+            "guid": "75fed27e-374d-402a-9da4-80095246e994"
+        },
+        {
+            "occupationid": "13",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "335",
+            "description": "Entertainment Industry Administration &amp; Management only, cinema/theatre/",
+            "guid": "b7adc18a-7f2b-40d3-a08d-be2c5973ed23"
+        },
+        {
+            "occupationid": "14",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "454",
+            "description": "Hardware or Building Supplies Store Admin, Clerical, Management",
+            "guid": "12569cd9-2bf7-403c-b63e-3b92011d1d5d"
+        },
+        {
+            "occupationid": "15",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "519",
+            "description": "Key Punch/Keyboard Operator (see Computer Industry)",
+            "guid": "a33ec377-eef9-47ab-a6ff-28f59ed44292"
+        },
+        {
+            "occupationid": "16",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "534",
+            "description": "Librarian or Archivist Unqualified",
+            "guid": "b73c3ec0-fba7-4f49-a705-6e953bba8ff5"
+        },
+        {
+            "occupationid": "17",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "551",
+            "description": "Management Consultant Unqualified",
+            "guid": "7a619d18-5fb6-4312-872f-33596af1edc7"
+        },
+        {
+            "occupationid": "18",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "670",
+            "description": "Office Worker (see Clerk)",
+            "guid": "a0cc50ed-c8ac-44e2-9481-3f51ffc2f61a"
+        },
+        {
+            "occupationid": "19",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "682",
+            "description": "Operator, Computers (see Computer Industry)",
+            "guid": "eab14196-2bb1-4a0d-8017-01260711a35c"
+        },
+        {
+            "occupationid": "20",
+            "providerserviceid": "65",
+            "categoryid": "1",
+            "reference": "710",
+            "description": "Pawnbroker Owner with full-time staff",
+            "guid": "e60d71df-b05a-402c-b33b-45ec536a0f03"
+        }
+    ]
+}

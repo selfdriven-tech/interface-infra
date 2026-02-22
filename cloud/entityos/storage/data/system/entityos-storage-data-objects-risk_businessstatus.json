@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "risk_businessstatus",
+        "id": "1660285420"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Current",
+            "notes": "",
+            "guid": "89db0921-61ab-4ffc-ab86-6ac21dd69268"
+        },
+        {
+            "statusid": "2",
+            "title": "Non-Current",
+            "notes": "",
+            "guid": "71fe243f-6621-482b-89df-4bf594896015"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "object": {
+        "name": "cont_businessindustryold",
+        "id": "78623323"
+    },
+    "data": [
+        {
+            "industryid": "1",
+            "value": "IT",
+            "displayorder": "1",
+            "guid": "399a2c4d-87da-4e02-b7df-daf1e8655fbc"
+        },
+        {
+            "industryid": "2",
+            "value": "Construction",
+            "displayorder": "2",
+            "guid": "f3979bbc-0b3f-47d9-a3b4-2cbc45e0910b"
+        },
+        {
+            "industryid": "4",
+            "value": "Professional Services",
+            "displayorder": "4",
+            "guid": "e192ff46-bf1c-40d0-b350-87204ffc318f"
+        },
+        {
+            "industryid": "6",
+            "value": "Other",
+            "displayorder": "6",
+            "guid": "aa1ce737-d0a9-4e16-b7cb-d6b11e411e4c"
+        },
+        {
+            "industryid": "8",
+            "value": "Retail",
+            "displayorder": "7",
+            "guid": "92c2f209-2b79-49ab-a1e5-f31645586da6"
+        },
+        {
+            "industryid": "10",
+            "value": "Government",
+            "displayorder": "9",
+            "guid": "b414c19a-e7be-4602-88bd-a2f26468792e"
+        },
+        {
+            "industryid": "12",
+            "value": "Marketing",
+            "displayorder": "11",
+            "guid": "9633d195-091c-4a95-ba56-abcc898aaf58"
+        },
+        {
+            "industryid": "13",
+            "value": "Manufacturing",
+            "displayorder": "",
+            "guid": "9c048b06-aa15-4dcc-9ff1-63e107cb8c8e"
+        },
+        {
+            "industryid": "3",
+            "value": "Business Services",
+            "displayorder": "3",
+            "guid": "f43d058d-0438-43fe-acd5-9bba08c564f8"
+        },
+        {
+            "industryid": "5",
+            "value": "Transport",
+            "displayorder": "5",
+            "guid": "d4ac38f5-65e9-4be5-8f43-92284e4063a3"
+        },
+        {
+            "industryid": "7",
+            "value": "Accountancy / Financial Services",
+            "displayorder": "1",
+            "guid": "9341d605-4652-41f1-b81a-4a6f211cb79f"
+        },
+        {
+            "industryid": "9",
+            "value": "Building Services",
+            "displayorder": "9",
+            "guid": "25696a41-fae4-43d8-992a-27b5fc28ed75"
+        },
+        {
+            "industryid": "11",
+            "value": "Engineering",
+            "displayorder": "10",
+            "guid": "38696476-e0d7-4b41-a881-c0c40972989c"
+        }
+    ]
+}

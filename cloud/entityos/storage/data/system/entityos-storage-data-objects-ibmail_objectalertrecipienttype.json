@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "ibmail_objectalertrecipienttype",
+        "id": "1702401234"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Relates To Person on Object",
+            "guid": "775ca941-886a-483c-b4ab-ae394e10ea44"
+        },
+        {
+            "typeid": "2",
+            "title": "Specific Person",
+            "guid": "cb46b717-f020-42d8-9d48-f4bb76477a88"
+        }
+    ]
+}

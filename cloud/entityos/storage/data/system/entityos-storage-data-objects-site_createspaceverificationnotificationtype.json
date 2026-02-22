@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "site_createspaceverificationnotificationtype",
+        "id": "1267952039"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Email",
+            "notes": "",
+            "guid": "c1b0c56c-1bc1-4802-860a-1292acae24ec"
+        },
+        {
+            "typeid": "2",
+            "title": "SMS",
+            "notes": "",
+            "guid": "05daac51-7b94-4d87-87af-d53905ced303"
+        }
+    ]
+}

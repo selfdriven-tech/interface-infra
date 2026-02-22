@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "ibmes_conversationmessagestatus",
+        "id": "386868495"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Display",
+            "guid": "f8734b27-eca5-4b52-b902-4d59d6dbb6a6"
+        },
+        {
+            "statusid": "2",
+            "title": "Archived",
+            "guid": "67c519ec-5827-40a1-a4bb-6726dbca25ab"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "doc_articleimportance",
+        "id": "1845581613"
+    },
+    "data": [
+        {
+            "importanceid": "1",
+            "value": "Must Read",
+            "guid": "d4b1d56f-4590-44bd-abaa-f534cc749a9d"
+        },
+        {
+            "importanceid": "2",
+            "value": "Should Read",
+            "guid": "e268d6b5-6217-43a0-9475-329805109d4e"
+        },
+        {
+            "importanceid": "3",
+            "value": "General Knowledge",
+            "guid": "dd992a58-cbc7-4a5d-b5bc-eca3f91227e9"
+        }
+    ]
+}

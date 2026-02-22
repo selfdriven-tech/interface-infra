@@ -1,0 +1,43 @@
+{
+    "object": {
+        "name": "obms_weekday",
+        "id": "1116583066"
+    },
+    "data": [
+        {
+            "weekdayid": "1",
+            "value": "Sunday",
+            "guid": "aa1ea7ab-2489-45df-9340-bfeabe6efa1b"
+        },
+        {
+            "weekdayid": "2",
+            "value": "Monday",
+            "guid": "da78983b-5ce7-432a-96c9-b68d3a6e25ab"
+        },
+        {
+            "weekdayid": "3",
+            "value": "Tuesday",
+            "guid": "b92b26f5-0d1b-46d1-90df-647bd66215c4"
+        },
+        {
+            "weekdayid": "4",
+            "value": "Wednesday",
+            "guid": "b3c29ac1-a519-4dc9-8a13-8ea34fada840"
+        },
+        {
+            "weekdayid": "5",
+            "value": "Thursday",
+            "guid": "4375f702-7af2-42c2-8ecf-74fcc3a012a1"
+        },
+        {
+            "weekdayid": "6",
+            "value": "Friday",
+            "guid": "5259cb8d-52a4-40d4-afa8-eb8b2941eba8"
+        },
+        {
+            "weekdayid": "7",
+            "value": "Saturday",
+            "guid": "8aacb689-4a85-4e3f-941d-3e8053655b80"
+        }
+    ]
+}

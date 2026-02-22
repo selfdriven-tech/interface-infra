@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_alertrulecondition",
+        "id": "1059183219"
+    },
+    "data": [
+        {
+            "conditionid": "1",
+            "title": "Must pass all conditions",
+            "guid": "2dedd829-8a7b-4d10-8f62-5a860656043b"
+        },
+        {
+            "conditionid": "2",
+            "title": "Must pass at least one condition",
+            "guid": "0522f924-d75a-44e4-8b80-fff7e8a336ce"
+        }
+    ]
+}

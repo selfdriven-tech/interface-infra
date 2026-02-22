@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_servercategory",
+        "id": "1308232111"
+    },
+    "data": [
+        {
+            "categoryid": "1",
+            "title": "Shared",
+            "guid": "e65c2c3e-842b-4d2f-9c26-12c13ab52d1d"
+        },
+        {
+            "categoryid": "2",
+            "title": "Isolated",
+            "guid": "488d56f0-c713-437b-8049-3a8a2e62770d"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "odir_sitetype",
+        "id": "1712061185"
+    },
+    "data": [
+        {
+            "sitetypeid": "1",
+            "description": "Integrated Portal (Partner)",
+            "guid": "56388a02-7e91-4e11-9b1c-d83d8ffeabe4"
+        },
+        {
+            "sitetypeid": "2",
+            "description": "Web Site (Business)",
+            "guid": "6144b149-5fe1-4a96-ad3b-9ebdb5cabf95"
+        }
+    ]
+}

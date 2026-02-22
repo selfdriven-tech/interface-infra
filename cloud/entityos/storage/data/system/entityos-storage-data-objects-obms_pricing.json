@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_pricing",
+        "id": "1789249429"
+    },
+    "data": [
+        {
+            "pricingid": "1",
+            "description": "inc GST and exc GST",
+            "guid": "b67a6aca-2dc6-4109-bf3b-5781959a545b"
+        },
+        {
+            "pricingid": "2",
+            "description": "inc GST only",
+            "guid": "721f3fc6-0dcb-44dd-bc36-464c45ab61f6"
+        },
+        {
+            "pricingid": "3",
+            "description": "exc GST only",
+            "guid": "0a2c5730-f3ec-40fc-b4f9-8759651c87dd"
+        }
+    ]
+}

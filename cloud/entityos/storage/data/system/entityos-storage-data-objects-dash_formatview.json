@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "dash_formatview",
+        "id": "1074102867"
+    },
+    "data": [
+        {
+            "formatviewid": "1",
+            "title": "List",
+            "guid": "57396740-b5c1-4aef-86f4-0c85036d23c8"
+        },
+        {
+            "formatviewid": "2",
+            "title": "Graph",
+            "guid": "3ac28c3f-2a11-4eeb-bf0f-1a2394660b7f"
+        }
+    ]
+}

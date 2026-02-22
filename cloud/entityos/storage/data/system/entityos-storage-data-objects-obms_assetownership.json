@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_assetownership",
+        "id": "130815528"
+    },
+    "data": [
+        {
+            "ownershipid": "1",
+            "value": "Leased",
+            "guid": "d47f8704-232c-4d95-a468-4e60028d6515"
+        },
+        {
+            "ownershipid": "2",
+            "value": "Owned",
+            "guid": "e990e644-cd0f-47aa-afeb-2ec0c5acdbeb"
+        }
+    ]
+}

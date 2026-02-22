@@ -1,0 +1,208 @@
+{
+    "object": {
+        "name": "profileattribute",
+        "id": "791009899"
+    },
+    "data": [
+        {
+            "profileattributeid": "1",
+            "profiletype": "1",
+            "profileattribute": "1",
+            "description": "Receive Audit EMails (Y/N)",
+            "guid": "c93a664e-7e36-4ca2-9ddf-7cc4b3e30d70",
+            "displayinrpc": "N",
+            "validationtypeid": "0",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "2",
+            "profiletype": "1",
+            "profileattribute": "5",
+            "description": "WAP Trusted Key",
+            "guid": "055d123e-f1d9-41c2-b970-86f9ec2bc6d7",
+            "displayinrpc": "N",
+            "validationtypeid": "0",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "3",
+            "profiletype": "3",
+            "profileattribute": "6",
+            "description": "Last Project Number",
+            "guid": "99b29466-b493-4a0c-9230-624a3643e64a",
+            "displayinrpc": "Y",
+            "validationtypeid": "2",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "4",
+            "profiletype": "3",
+            "profileattribute": "7",
+            "description": "Last Invoice Number",
+            "guid": "890213f4-4f94-4d92-9ace-5c38f89a81b3",
+            "displayinrpc": "Y",
+            "validationtypeid": "2",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "5",
+            "profiletype": "3",
+            "profileattribute": "8",
+            "description": "Last Expense Number",
+            "guid": "d645370e-7ab8-49d2-9a76-58c511442c90",
+            "displayinrpc": "Y",
+            "validationtypeid": "2",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "6",
+            "profiletype": "3",
+            "profileattribute": "9",
+            "description": "Tax Report By Accrual (Y/N)",
+            "guid": "3475b6bf-1e09-48b3-860a-de743597e501",
+            "displayinrpc": "Y",
+            "validationtypeid": "2",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "7",
+            "profiletype": "3",
+            "profileattribute": "10",
+            "description": "Last Payment Number",
+            "guid": "30d3af56-b746-4f67-823b-de7bdc574078",
+            "displayinrpc": "Y",
+            "validationtypeid": "2",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "8",
+            "profiletype": "3",
+            "profileattribute": "11",
+            "description": "Financial Overview User",
+            "guid": "dca777ce-56a8-4211-bc98-9f4e1850800b",
+            "displayinrpc": "N",
+            "validationtypeid": "0",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "9",
+            "profiletype": "3",
+            "profileattribute": "12",
+            "description": "Tax Report By Accrual (Y/N)",
+            "guid": "b5cc4790-7527-481c-8e43-dc7aa5490130",
+            "displayinrpc": "Y",
+            "validationtypeid": "3",
+            "deprecated": "Y"
+        },
+        {
+            "profileattributeid": "10",
+            "profiletype": "3",
+            "profileattribute": "13",
+            "description": "Last tax Report Number",
+            "guid": "0cf9b902-f1ac-44f6-88df-5a7b005c7b9f",
+            "displayinrpc": "Y",
+            "validationtypeid": "2",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "11",
+            "profiletype": "2",
+            "profileattribute": "14",
+            "description": "Last Request Number",
+            "guid": "47408e4f-8f55-4920-b25a-2c4bb634c073",
+            "displayinrpc": "N",
+            "validationtypeid": "0",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "13",
+            "profiletype": "2",
+            "profileattribute": "16",
+            "description": "Last Feedback Number",
+            "guid": "30058bfa-0ca0-4da0-92f4-63a953a60989",
+            "displayinrpc": "N",
+            "validationtypeid": "0",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "14",
+            "profiletype": "3",
+            "profileattribute": "17",
+            "description": "Profile Page",
+            "guid": "70e03651-f999-4106-bcac-e3d8444fef23",
+            "displayinrpc": "N",
+            "validationtypeid": "0",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "15",
+            "profiletype": "3",
+            "profileattribute": "18",
+            "description": "Expense Type Prefilled",
+            "guid": "1eeadb60-62a0-41f8-9a91-e9c0e05d0ceb",
+            "displayinrpc": "N",
+            "validationtypeid": "0",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "16",
+            "profiletype": "3",
+            "profileattribute": "19",
+            "description": "Last Pay Period Number",
+            "guid": "6c251d3c-81cf-4a1d-907d-738947def0ae",
+            "displayinrpc": "Y",
+            "validationtypeid": "2",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "17",
+            "profiletype": "3",
+            "profileattribute": "20",
+            "description": "Last Pay Record Number",
+            "guid": "06334fce-cd4e-4db8-91d2-9f846f976b49",
+            "displayinrpc": "Y",
+            "validationtypeid": "2",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "18",
+            "profiletype": "3",
+            "profileattribute": "21",
+            "description": "Pay Period",
+            "guid": "0d70d9e0-b63b-4711-b5aa-51949942fcd6",
+            "displayinrpc": "Y",
+            "validationtypeid": "1",
+            "deprecated": "Y"
+        },
+        {
+            "profileattributeid": "19",
+            "profiletype": "3",
+            "profileattribute": "22",
+            "description": "Next Pay Date",
+            "guid": "a6cf1e9e-880d-4a9a-b32a-5a78374c4837",
+            "displayinrpc": "N",
+            "validationtypeid": "0",
+            "deprecated": "N"
+        },
+        {
+            "profileattributeid": "20",
+            "profiletype": "3",
+            "profileattribute": "23",
+            "description": "Payroll Project",
+            "guid": "e1fe17f5-1b4b-4f8e-a010-45bf330c3958",
+            "displayinrpc": "N",
+            "validationtypeid": "0",
+            "deprecated": "Y"
+        },
+        {
+            "profileattributeid": "21",
+            "profiletype": "3",
+            "profileattribute": "24",
+            "description": "Salary Expense Type",
+            "guid": "05170511-9943-40cf-8ed5-10d8f768b2b6",
+            "displayinrpc": "Y",
+            "validationtypeid": "4",
+            "deprecated": "Y"
+        }
+    ]
+}

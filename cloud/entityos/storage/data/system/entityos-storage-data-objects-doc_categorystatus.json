@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "doc_categorystatus",
+        "id": "1765581328"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "In Construction",
+            "guid": "e9075ddb-d98e-45b5-8429-312437db7d0f"
+        },
+        {
+            "statusid": "2",
+            "value": "Available",
+            "guid": "a04a1090-a114-40d1-a832-146fa278fd77"
+        }
+    ]
+}

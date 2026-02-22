@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "asms_linktrackingtype",
+        "id": "340196262"
+    },
+    "data": [
+        {
+            "trackingtypeid": "1",
+            "value": "[Don&#39;t Track]",
+            "guid": "32f24d21-6219-4459-ae75-e432e86ea864"
+        },
+        {
+            "trackingtypeid": "2",
+            "value": "When Viewed",
+            "guid": "45ebb2f8-b4bf-4fe4-b876-f187f5e51ba6"
+        },
+        {
+            "trackingtypeid": "3",
+            "value": "When a Link Is Clicked",
+            "guid": "6d667e9a-343d-471d-ae8b-342392d0ff40"
+        },
+        {
+            "trackingtypeid": "4",
+            "value": "When Viewed &amp;/or a Link Is Clicked",
+            "guid": "e1d34b36-1099-4f1c-b0a0-205f757f1875"
+        }
+    ]
+}

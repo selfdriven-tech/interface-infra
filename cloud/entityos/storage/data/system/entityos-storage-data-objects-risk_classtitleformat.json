@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "risk_classtitleformat",
+        "id": "1943782082"
+    },
+    "data": [
+        {
+            "formatid": "1",
+            "title": "Title is Mandatory",
+            "guid": "8043ae27-7e6b-4fcf-acd8-15175c7ee4ca"
+        },
+        {
+            "formatid": "2",
+            "title": "Risk Class Short Title, Business-1 Short Code, Next sequential number",
+            "guid": "6ada5501-3289-47ee-aacf-e102cbbcff0e"
+        },
+        {
+            "formatid": "3",
+            "title": "Risk Class Short Title, Site Reference",
+            "guid": "a3180270-93ae-42b2-b042-db0d0ef1d89c"
+        },
+        {
+            "formatid": "4",
+            "title": "Custom",
+            "guid": "cc2852cd-f9e1-4973-9339-51fcb71e5e0f"
+        }
+    ]
+}

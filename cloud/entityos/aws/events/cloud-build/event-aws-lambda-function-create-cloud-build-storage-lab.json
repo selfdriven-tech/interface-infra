@@ -9,7 +9,7 @@
 		"options": {
 			"FunctionName": "lab-lambda-function-001-hello-world",
 			"Runtime": "nodejs22.x",
-			"Role": "arn:aws:iam::378184373788:role/lab-iam-role-001-lambda-function",
+			"Role": "arn:aws:iam::?account-id?:role/lab-iam-role-001-lambda-function",
 			"Handler": "index.handler",
 			"Description": "Cloud-build-storage. Created by entityos-aws.",
 			"Timeout": 60,

@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "ref_loanfrequency",
+        "id": "439008645"
+    },
+    "data": [
+        {
+            "frequencyid": "1",
+            "title": "Fortnightly",
+            "guid": "d6bc9b8c-026e-4b3e-b99b-6dd275ecd732"
+        },
+        {
+            "frequencyid": "2",
+            "title": "Monthly",
+            "guid": "37ad30f6-fcfe-442f-82bd-cc33eb48b8dc"
+        },
+        {
+            "frequencyid": "3",
+            "title": "Other",
+            "guid": "974376f3-73e4-4f3f-bdd9-4daf00d48c06"
+        },
+        {
+            "frequencyid": "4",
+            "title": "[Not Set]",
+            "guid": "2d3a498e-5f6d-40d9-bff9-25befab7bd01"
+        }
+    ]
+}

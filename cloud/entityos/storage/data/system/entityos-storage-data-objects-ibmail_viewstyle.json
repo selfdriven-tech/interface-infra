@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "ibmail_viewstyle",
+        "id": "1263343565"
+    },
+    "data": [
+        {
+            "viewstyleid": "1",
+            "value": "[Standard]",
+            "guid": "806c362d-a8ef-4006-b110-257e329b40a9"
+        },
+        {
+            "viewstyleid": "2",
+            "value": "Compact",
+            "guid": "a0846fb6-c170-4d3e-bb3c-6b94c7f45c9f"
+        },
+        {
+            "viewstyleid": "3",
+            "value": "Summary",
+            "guid": "457aca4f-d3e6-401f-9632-eab035468cfd"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "asms_linkactivitytype",
+        "id": "468196718"
+    },
+    "data": [
+        {
+            "activitytypeid": "1",
+            "value": "Shown (Impression)",
+            "guid": "efc422c6-2bc9-45f3-8c88-44c86cf6d26c"
+        },
+        {
+            "activitytypeid": "2",
+            "value": "Clicked",
+            "guid": "4c644096-1b41-4055-9e16-6f5b5f28b690"
+        },
+        {
+            "activitytypeid": "3",
+            "value": "Sent",
+            "guid": "4f44609e-0e5c-4bea-9753-09fe775b7f48"
+        }
+    ]
+}

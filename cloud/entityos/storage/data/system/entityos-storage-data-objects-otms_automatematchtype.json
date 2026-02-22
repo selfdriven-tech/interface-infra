@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "otms_automatematchtype",
+        "id": "211531837"
+    },
+    "data": [
+        {
+            "matchtypeid": "1",
+            "value": "Code",
+            "guid": "30e0aac1-7f93-40ca-99be-45def6f7db7d"
+        },
+        {
+            "matchtypeid": "2",
+            "value": "Description",
+            "guid": "f23de927-07a9-45ad-a12d-8b747afc558b"
+        },
+        {
+            "matchtypeid": "3",
+            "value": "Code and Description",
+            "guid": "ca987b1f-30a4-4f2c-9ce8-dd827024b1b2"
+        }
+    ]
+}

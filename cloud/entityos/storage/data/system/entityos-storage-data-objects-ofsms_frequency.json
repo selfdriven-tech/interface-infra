@@ -1,0 +1,85 @@
+{
+    "object": {
+        "name": "ofsms_frequency",
+        "id": "512056910"
+    },
+    "data": [
+        {
+            "frequencyid": "1",
+            "displayorder": "5",
+            "value": "2 Months",
+            "equivalentdays": "62",
+            "guid": "01d47d24-fed8-4df5-9817-e54aae41315c"
+        },
+        {
+            "frequencyid": "2",
+            "displayorder": "1",
+            "value": "Daily",
+            "equivalentdays": "1",
+            "guid": "5861f838-710a-4df8-be1a-bc93372366ba"
+        },
+        {
+            "frequencyid": "3",
+            "displayorder": "2",
+            "value": "Weekly",
+            "equivalentdays": "7",
+            "guid": "b40092dc-17c4-4558-9838-c2313d5a32ba"
+        },
+        {
+            "frequencyid": "4",
+            "displayorder": "3",
+            "value": "Fortnightly",
+            "equivalentdays": "14",
+            "guid": "c7f1a516-02ce-4aeb-bcf5-e346ecf6273c"
+        },
+        {
+            "frequencyid": "5",
+            "displayorder": "4",
+            "value": "Monthly",
+            "equivalentdays": "31",
+            "guid": "b6fd434d-d778-42a3-9140-9382d2c0a14e"
+        },
+        {
+            "frequencyid": "6",
+            "displayorder": "6",
+            "value": "Quarterly",
+            "equivalentdays": "123",
+            "guid": "eaf55817-f29e-4009-89fe-8d3756f79a84"
+        },
+        {
+            "frequencyid": "7",
+            "displayorder": "7",
+            "value": "Half Yearly",
+            "equivalentdays": "183",
+            "guid": "91159d09-e60d-4a54-a872-cff20d4290a5"
+        },
+        {
+            "frequencyid": "8",
+            "displayorder": "8",
+            "value": "Yearly",
+            "equivalentdays": "365",
+            "guid": "6ad5bdc7-c955-40ff-8810-157e11a35fdb"
+        },
+        {
+            "frequencyid": "9",
+            "displayorder": "-1",
+            "value": "[Once Off]",
+            "equivalentdays": "",
+            "guid": "aaeadf2e-bb6d-46f4-8d46-0bf61f40ceae"
+        },
+        {
+            "frequencyid": "10",
+            "displayorder": "0",
+            "value": "[Actual ONGOING Commission Received]",
+            "equivalentdays": "",
+            "guid": "8e49bc70-73aa-422a-ac31-e8190ba2cc77"
+        },
+        {
+            "frequencyid": "11",
+            "displayorder": "0",
+            "value": "[Actual UPFRONT Commission Received]",
+            "equivalentdays": "",
+            "guid": "d3853a43-a2c1-4bed-95c4-fbf43e22aca9"
+        }
+    ]
+}

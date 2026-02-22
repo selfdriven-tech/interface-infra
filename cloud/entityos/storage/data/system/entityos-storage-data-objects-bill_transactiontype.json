@@ -1,0 +1,48 @@
+{
+    "object": {
+        "name": "bill_transactiontype",
+        "id": "862626116"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "SMS Message Sent",
+            "guid": "6d3872d8-0fe5-494b-ad63-b73a17f864bb"
+        },
+        {
+            "typeid": "3",
+            "value": "Users",
+            "guid": "d5a87d44-1ca9-4c38-9ed1-7d8a2b6dc11c"
+        },
+        {
+            "typeid": "4",
+            "value": "Data",
+            "guid": "7ccc1439-ce0a-4270-a82c-dd84d316de03"
+        },
+        {
+            "typeid": "5",
+            "value": "Orders",
+            "guid": "a21bf2ec-14b7-4200-82a2-c0f0373992cf"
+        },
+        {
+            "typeid": "6",
+            "value": "Investments",
+            "guid": "196f8c06-3bc3-4ef6-aa9a-adc2600144bf"
+        },
+        {
+            "typeid": "7",
+            "value": "Loans",
+            "guid": "dc1af987-8f76-49da-af8d-8022a82ca516"
+        },
+        {
+            "typeid": "8",
+            "value": "Insurance",
+            "guid": "7f454c3c-5d1b-42c2-a8f3-743d4bed19c2"
+        },
+        {
+            "typeid": "9",
+            "value": "Based On Object",
+            "guid": "dc3d517f-3e4d-4c49-8d3c-0fbdfe6348f9"
+        }
+    ]
+}

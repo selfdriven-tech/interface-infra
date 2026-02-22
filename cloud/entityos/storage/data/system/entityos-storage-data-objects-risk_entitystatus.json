@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_entitystatus",
+        "id": "682485510"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Active",
+            "guid": "c2c99e32-65c8-4982-9a0f-c5d131294858"
+        },
+        {
+            "statusid": "2",
+            "title": "Inactive",
+            "guid": "fb7a81a9-f0ee-41f2-b859-078a82be4526"
+        }
+    ]
+}

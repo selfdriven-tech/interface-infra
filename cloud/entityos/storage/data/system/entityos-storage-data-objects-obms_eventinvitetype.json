@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_eventinvitetype",
+        "id": "38291196"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Invite Only",
+            "guid": "f9499683-a100-403d-aeca-f6dadfb50fe1"
+        },
+        {
+            "typeid": "2",
+            "title": "Invite Only But Can Add Attendees",
+            "guid": "68166d17-a8d4-4d28-8a53-8607822c4c32"
+        },
+        {
+            "typeid": "3",
+            "title": "Anyone Can Attend",
+            "guid": "b4e75073-8fe3-4d5c-be46-2ef30603a577"
+        }
+    ]
+}

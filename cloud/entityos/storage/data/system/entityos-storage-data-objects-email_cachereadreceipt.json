@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "email_cachereadreceipt",
+        "id": "1596688886"
+    },
+    "data": [
+        {
+            "readreceiptid": "1",
+            "title": "Not Requested",
+            "guid": "b1e9fa07-8849-4ddf-b62c-b14f41484efc"
+        },
+        {
+            "readreceiptid": "2",
+            "title": "Requested",
+            "guid": "713fa951-acfd-43ef-aa56-741072695ad5"
+        },
+        {
+            "readreceiptid": "3",
+            "title": "Receipt Sent",
+            "guid": "513de244-b1b6-4fda-9e32-e00bd1915cf9"
+        },
+        {
+            "readreceiptid": "4",
+            "title": "Receipt Ignored",
+            "guid": "6d03eb05-7558-4bf3-9f6c-5fbcc321c885"
+        }
+    ]
+}

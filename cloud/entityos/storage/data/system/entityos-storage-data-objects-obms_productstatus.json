@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "obms_productstatus",
+        "id": "893246237"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "description": "Available Now",
+            "guid": "333bd8cf-d0fe-4ee9-8bad-e9b972ba0a2f"
+        },
+        {
+            "statusid": "2",
+            "description": "Coming Soon...",
+            "guid": "13f484d1-9ae2-4a87-832a-4e0a68ab28d4"
+        },
+        {
+            "statusid": "6",
+            "description": "Discontinued",
+            "guid": "c0685c91-1474-4f85-bdbe-d65f216a8f51"
+        },
+        {
+            "statusid": "7",
+            "description": "Internal",
+            "guid": "e40d7f0a-d379-4487-91a4-b573b522089b"
+        }
+    ]
+}

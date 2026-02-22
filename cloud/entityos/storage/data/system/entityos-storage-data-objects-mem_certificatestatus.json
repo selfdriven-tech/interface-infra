@@ -1,0 +1,32 @@
+{
+    "object": {
+        "name": "mem_certificatestatus",
+        "id": "1074818891"
+    },
+    "data": [
+        {
+            "certificatestatusid": "1",
+            "value": "Approved",
+            "notes": "",
+            "guid": "faf79940-b8e9-47c4-982c-9cf38d061df7"
+        },
+        {
+            "certificatestatusid": "2",
+            "value": "Declined",
+            "notes": "",
+            "guid": "daa3dbf1-78d2-4de1-a8e1-ac8e873788f7"
+        },
+        {
+            "certificatestatusid": "3",
+            "value": "Pending",
+            "notes": "",
+            "guid": "dab25957-6c6d-475d-ba9c-889c08b13347"
+        },
+        {
+            "certificatestatusid": "4",
+            "value": "Waiting On Evidence",
+            "notes": "",
+            "guid": "858c58a1-97f2-45fd-bddf-e571d413caba"
+        }
+    ]
+}

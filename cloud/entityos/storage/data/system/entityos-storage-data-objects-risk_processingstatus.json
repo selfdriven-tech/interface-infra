@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "risk_processingstatus",
+        "id": "857158199"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Pending"
+        },
+        {
+            "statusid": "2",
+            "title": "Completed"
+        },
+        {
+            "statusid": "3",
+            "title": "Cancelled"
+        }
+    ]
+}

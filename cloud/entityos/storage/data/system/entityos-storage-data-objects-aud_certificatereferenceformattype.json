@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "aud_certificatereferenceformattype",
+        "id": "1550628567"
+    },
+    "data": [
+        {
+            "certificatereferenceformattypeid": "1",
+            "title": "No Certificate",
+            "guid": "12158212-30bf-43c1-b290-b5080b39a66e"
+        },
+        {
+            "certificatereferenceformattypeid": "2",
+            "title": "Provided",
+            "guid": "35819abe-fea5-4740-a650-b237be9543d2"
+        },
+        {
+            "certificatereferenceformattypeid": "3",
+            "title": "Certificate Register",
+            "guid": "669b43d2-bafe-4254-a5f3-e53534ffe3ef"
+        }
+    ]
+}

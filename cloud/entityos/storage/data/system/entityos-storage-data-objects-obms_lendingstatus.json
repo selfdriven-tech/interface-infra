@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "obms_lendingstatus",
+        "id": "873770170"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Proposed",
+            "guid": "99c0c3e8-abbf-4ec6-9abb-3a2a1a28ea90"
+        },
+        {
+            "statusid": "2",
+            "value": "With Customer",
+            "guid": "f8ef7c30-119e-4b4f-8020-563429d604a2"
+        },
+        {
+            "statusid": "3",
+            "value": "Returned",
+            "guid": "84bcb660-cd2a-432b-bc8a-7425b015f847"
+        },
+        {
+            "statusid": "4",
+            "value": "Cancelled",
+            "guid": "47bbca0f-bd69-4c41-8632-7c6ce6b2e5ac"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "object": {
+        "name": "obms_expensegroup",
+        "id": "1945773989"
+    },
+    "data": [
+        {
+            "expensegroupid": "7",
+            "expensegroupcode": "SC",
+            "expensegroupdesc": "Selling",
+            "displayorder": "1",
+            "guid": "12edc1ac-0632-4f8d-aa86-a8d7652e4656"
+        },
+        {
+            "expensegroupid": "8",
+            "expensegroupcode": "FN",
+            "expensegroupdesc": "Financial",
+            "displayorder": "2",
+            "guid": "0ae5f243-43d4-4ed7-9184-7f71cea2a2d3"
+        },
+        {
+            "expensegroupid": "9",
+            "expensegroupcode": "AD",
+            "expensegroupdesc": "Administration",
+            "displayorder": "3",
+            "guid": "3f02fd2f-2f9f-425a-b9e4-a7075606fb4f"
+        },
+        {
+            "expensegroupid": "10",
+            "expensegroupcode": "PY",
+            "expensegroupdesc": "Payroll",
+            "displayorder": "4",
+            "guid": "210e415c-8767-4f32-9eb7-1e57c86f48cd"
+        },
+        {
+            "expensegroupid": "11",
+            "expensegroupcode": "OP",
+            "expensegroupdesc": "Operations",
+            "displayorder": "5",
+            "guid": "385b050a-07d5-4c29-a31b-3aff06c82e15"
+        },
+        {
+            "expensegroupid": "12",
+            "expensegroupcode": "TA",
+            "expensegroupdesc": "Taxes",
+            "displayorder": "6",
+            "guid": "1fdb04df-c5f3-4f69-863a-ed1239672227"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "ref_referralstatus",
+        "id": "119007505"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Unallocated",
+            "guid": "44f77670-2745-47cf-bd76-225ec2e4e3ef"
+        },
+        {
+            "statusid": "2",
+            "title": "Allocated",
+            "guid": "644d7e57-42a3-47a9-b829-db82bec03b3f"
+        },
+        {
+            "statusid": "3",
+            "title": "Cancelled",
+            "guid": "07e8fd72-e475-437a-9c3c-a89247a7edf2"
+        },
+        {
+            "statusid": "4",
+            "title": "Completed",
+            "guid": "507b3d0b-6955-4dfb-9f0e-96adbdbce07a"
+        }
+    ]
+}

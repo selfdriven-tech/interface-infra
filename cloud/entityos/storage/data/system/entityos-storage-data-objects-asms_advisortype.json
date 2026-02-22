@@ -1,0 +1,83 @@
+{
+    "object": {
+        "name": "asms_advisortype",
+        "id": "96719397"
+    },
+    "data": [
+        {
+            "advisortypeid": "1",
+            "value": "Financial",
+            "guid": "50c5fb89-4fa9-43f3-97bf-1ccd897bcfff"
+        },
+        {
+            "advisortypeid": "2",
+            "value": "Planning",
+            "guid": "144bdca2-d91d-485d-8ecd-48d0b45101c4"
+        },
+        {
+            "advisortypeid": "3",
+            "value": "Marketing",
+            "guid": "4fff5edc-2c8b-4432-9ed9-375f6446760d"
+        },
+        {
+            "advisortypeid": "4",
+            "value": "Business",
+            "guid": "da7e5065-79e7-444f-a673-6d93efcab836"
+        },
+        {
+            "advisortypeid": "5",
+            "value": "Accounting",
+            "guid": "0d43e2b5-ae2c-428a-96c0-507e41ab44e2"
+        },
+        {
+            "advisortypeid": "6",
+            "value": "Tax",
+            "guid": "f066c691-fdaa-454d-9e90-ad7a816b7cb7"
+        },
+        {
+            "advisortypeid": "7",
+            "value": "Payroll",
+            "guid": "6ced0a3a-0bf6-4f60-88b2-cb5c9f46de44"
+        },
+        {
+            "advisortypeid": "8",
+            "value": "Other",
+            "guid": "bfd14461-a5fd-4a43-aa99-dede0085684c"
+        },
+        {
+            "advisortypeid": "9",
+            "value": "Website",
+            "guid": "d63b9ae7-1da4-44be-9551-c9ece7616a38"
+        },
+        {
+            "advisortypeid": "12",
+            "value": "Computers &amp; Networks",
+            "guid": "b6db1cd5-b143-4652-9c3f-5ae4b5d9331f"
+        },
+        {
+            "advisortypeid": "13",
+            "value": "myworkspace Support",
+            "guid": "da1bab0c-c6de-498f-8f41-bb727f1f7fae"
+        },
+        {
+            "advisortypeid": "14",
+            "value": "Bookkeeping",
+            "guid": "1a46f29a-e50d-4d8e-bd57-2e30dfa7388b"
+        },
+        {
+            "advisortypeid": "15",
+            "value": "Sales",
+            "guid": "c54f9cf3-f568-419b-b8ef-20689cbd9899"
+        },
+        {
+            "advisortypeid": "16",
+            "value": "People",
+            "guid": "58464a76-3e38-42fc-9c80-ce519b38be98"
+        },
+        {
+            "advisortypeid": "17",
+            "value": "Health",
+            "guid": "8bd3e1fc-b2d7-4081-ba0d-54625756e81d"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "risk_alertrecipienttype",
+        "id": "1786489443"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Selected User",
+            "guid": "a6b1a651-3036-416d-b358-ad80824ac4d7"
+        },
+        {
+            "typeid": "2",
+            "title": "Triggering User",
+            "guid": "bbf1546b-2072-43a5-b806-bb7164101176"
+        },
+        {
+            "typeid": "5",
+            "title": "Person Responsible",
+            "guid": "f59353af-617c-4f58-8b55-39a6751ca1a0"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "tran_routestatus",
+        "id": "443864648"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Enabled",
+            "guid": "dcb06130-748b-472c-9f12-96a0ec27f143"
+        },
+        {
+            "statusid": "2",
+            "title": "Disabled",
+            "guid": "123c19c4-990e-497b-9147-b7d9d9e18bd1"
+        }
+    ]
+}

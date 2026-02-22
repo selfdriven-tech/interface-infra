@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "ibmes_conversationparticipantstatus",
+        "id": "911342311"
+    },
+    "data": [
+        {
+            "participantstatusid": "1",
+            "value": "Active",
+            "displayvalue": "",
+            "guid": "676f2e81-0de8-48f0-9b97-5e87613a6690"
+        },
+        {
+            "participantstatusid": "2",
+            "value": "Removed",
+            "displayvalue": "Removed",
+            "guid": "584e0482-4152-44ed-8407-e5d1b39cba22"
+        }
+    ]
+}

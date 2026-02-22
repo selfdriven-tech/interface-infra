@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "ibmail_schedulecontactidtype",
+        "id": "1519344477"
+    },
+    "data": [
+        {
+            "contactidtypeid": "1",
+            "value": "mydigitalspace|id",
+            "guid": "ad31331a-d98c-4851-808a-8435ead73591"
+        },
+        {
+            "contactidtypeid": "2",
+            "value": "Person Contact",
+            "guid": "58df492e-35f1-49a6-ae85-5aa5dd26111b"
+        },
+        {
+            "contactidtypeid": "3",
+            "value": "mydigitalspace|id",
+            "guid": "c7796d65-3724-477a-9265-a95ab4b90221"
+        },
+        {
+            "contactidtypeid": "4",
+            "value": "Person Contact",
+            "guid": "0401a1d7-7838-4d79-a8d4-c347a60a2d87"
+        }
+    ]
+}

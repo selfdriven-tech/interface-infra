@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "dec_categorytipplacement",
+        "id": "786101841"
+    },
+    "data": [
+        {
+            "tipplacementid": "1",
+            "value": "Left",
+            "guid": "4b8de288-da62-487c-8265-e4a717bd9466"
+        },
+        {
+            "tipplacementid": "2",
+            "value": "Top",
+            "guid": "14705ea9-0144-451f-a7f7-436b043b7682"
+        },
+        {
+            "tipplacementid": "3",
+            "value": "Right",
+            "guid": "7f64444d-9d97-48b4-b867-59cb2dfa81f2"
+        },
+        {
+            "tipplacementid": "4",
+            "value": "Bottom",
+            "guid": "ee16697a-6218-41fe-981c-c0213a016b2d"
+        }
+    ]
+}

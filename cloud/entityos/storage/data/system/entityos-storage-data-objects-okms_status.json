@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "okms_status",
+        "id": "467532749"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Enabled",
+            "guid": "1aa770f4-4dbb-4fad-80d1-47da1c1cf827"
+        },
+        {
+            "statusid": "2",
+            "value": "Disabled",
+            "guid": "62a3a384-0b76-4f4b-8f4d-b88c00a49679"
+        }
+    ]
+}

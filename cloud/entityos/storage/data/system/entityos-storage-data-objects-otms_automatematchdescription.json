@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "otms_automatematchdescription",
+        "id": "243531951"
+    },
+    "data": [
+        {
+            "matchdescriptionid": "1",
+            "description": "Exactly Matches Text",
+            "guid": "83731b3f-b009-435b-9b1d-e9d47a895f14"
+        },
+        {
+            "matchdescriptionid": "2",
+            "description": "Contains Text",
+            "guid": "e2d36fd4-4d80-4be9-badb-665c25054044"
+        }
+    ]
+}

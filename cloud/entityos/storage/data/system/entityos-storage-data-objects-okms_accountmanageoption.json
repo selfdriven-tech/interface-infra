@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "okms_accountmanageoption",
+        "id": "1123535086"
+    },
+    "data": [
+        {
+            "manageoptionid": "1",
+            "title": "[Not Applicable]",
+            "guid": "012c0ba4-31ff-4a87-b198-6157a0b4f305"
+        },
+        {
+            "manageoptionid": "2",
+            "title": "Can Add Members",
+            "guid": "e0d21cfd-ea6f-4167-98df-79449e59add7"
+        },
+        {
+            "manageoptionid": "3",
+            "title": "Can Accept Requests For Membership",
+            "guid": "663b4e15-c497-4047-8872-ecddb99351de"
+        }
+    ]
+}

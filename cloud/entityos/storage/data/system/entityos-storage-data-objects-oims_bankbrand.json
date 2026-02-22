@@ -1,0 +1,68 @@
+{
+    "object": {
+        "name": "oims_bankbrand",
+        "id": "674153497"
+    },
+    "data": [
+        {
+            "bankbrandid": "1",
+            "value": "NAB",
+            "guid": "8ed694ee-ed6f-4ffc-a505-0cb7b4237090"
+        },
+        {
+            "bankbrandid": "2",
+            "value": "Commonwealth",
+            "guid": "d8a4ae75-887f-4c7d-926b-6b733c92f6cf"
+        },
+        {
+            "bankbrandid": "3",
+            "value": "Westpac",
+            "guid": "52763d9d-8bb4-46de-8a1a-579276fdf0bf"
+        },
+        {
+            "bankbrandid": "4",
+            "value": "ANZ",
+            "guid": "ede4d17c-d766-4414-a612-970b9c0119f7"
+        },
+        {
+            "bankbrandid": "5",
+            "value": "St George",
+            "guid": "e9a86e84-b0ad-4900-b9b6-44e1c0cf5ed8"
+        },
+        {
+            "bankbrandid": "6",
+            "value": "HSBC",
+            "guid": "db491bc0-3c94-4a00-bae4-1ad8a1cfecad"
+        },
+        {
+            "bankbrandid": "7",
+            "value": "Bendigo Bank",
+            "guid": "379ab8ff-ff03-4007-957a-443d5d9a67f0"
+        },
+        {
+            "bankbrandid": "8",
+            "value": "Macquarie Bank",
+            "guid": "1c97c094-fac4-4f82-9e00-8625557eb53d"
+        },
+        {
+            "bankbrandid": "9",
+            "value": "CPS Credit Union",
+            "guid": "21d2c023-d1e4-430a-825d-9d0477260550"
+        },
+        {
+            "bankbrandid": "10",
+            "value": "Bank of QLD",
+            "guid": "d6f46f15-d64b-42f7-86af-340f5987c426"
+        },
+        {
+            "bankbrandid": "11",
+            "value": "BankSA",
+            "guid": "a336661b-9d0e-422a-b72d-ee35813ea417"
+        },
+        {
+            "bankbrandid": "12",
+            "value": "Suncorp",
+            "guid": "3486a0de-0619-480c-8eaf-dc0100e16bc6"
+        }
+    ]
+}

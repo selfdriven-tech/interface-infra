@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_advancedsearchautomationstatus",
+        "id": "1897370124"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Enabled",
+            "guid": "cfc0e017-d2da-4863-b5ad-04c938100820"
+        },
+        {
+            "statusid": "2",
+            "title": "Disabled",
+            "guid": "c3c7e224-c96c-4bd1-ad0d-6bd94dd97501"
+        }
+    ]
+}

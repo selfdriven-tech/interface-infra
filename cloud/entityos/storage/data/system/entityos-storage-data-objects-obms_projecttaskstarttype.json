@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_projecttaskstarttype",
+        "id": "253243957"
+    },
+    "data": [
+        {
+            "starttypeid": "1",
+            "title": "When Dependant Task Completed",
+            "guid": "cb8c3eaf-634c-4353-8fa0-c14a58536e54"
+        },
+        {
+            "starttypeid": "2",
+            "title": "Project Start Date",
+            "guid": "182a7310-5abd-44ef-aa54-a1dbb998e625"
+        }
+    ]
+}

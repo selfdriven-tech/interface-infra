@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_producttype",
+        "id": "717245610"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Standard Product",
+            "guid": "aa945f04-a4f8-4d5d-994b-6ef01bd18019"
+        },
+        {
+            "typeid": "2",
+            "title": "Product Group",
+            "guid": "c86f17cc-d647-4c5b-bf9e-e5ee915b85b8"
+        }
+    ]
+}

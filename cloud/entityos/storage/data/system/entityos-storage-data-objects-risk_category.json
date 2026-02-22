@@ -1,0 +1,44 @@
+{
+    "object": {
+        "name": "risk_category",
+        "id": "1354487904"
+    },
+    "data": [
+        {
+            "categoryid": "1",
+            "title": "Liability",
+            "description": "",
+            "guid": "2a196784-4d02-47a0-806e-82153ef59ee3"
+        },
+        {
+            "categoryid": "2",
+            "title": "Motor",
+            "description": "",
+            "guid": "f5837ae5-49a6-44ab-9cbf-25fe68519800"
+        },
+        {
+            "categoryid": "3",
+            "title": "Marine",
+            "description": "",
+            "guid": "460a18e2-0ba8-479b-8472-2b934b98579d"
+        },
+        {
+            "categoryid": "4",
+            "title": "Workers Comp.",
+            "description": "",
+            "guid": "8c60a6b0-6b35-4b6e-b682-0dcaa3862e34"
+        },
+        {
+            "categoryid": "5",
+            "title": "Professional Indemnity",
+            "description": "",
+            "guid": "502d0949-82d1-4a03-a20a-ce5fbefeeea2"
+        },
+        {
+            "categoryid": "6",
+            "title": "Property",
+            "description": "",
+            "guid": "3125c1ca-01ec-489e-b028-e46b8a6d3bf9"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "object": {
+        "name": "asms_protectkeycategory",
+        "id": "1754905769"
+    },
+    "data": [
+        {
+            "categoryid": "1",
+            "title": "Data Encryption",
+            "notes": "",
+            "guid": "080b355e-682e-40ab-9f7c-df6ce18edef1"
+        },
+        {
+            "categoryid": "2",
+            "title": "Access",
+            "notes": "",
+            "guid": "bb460185-4662-496c-91a8-cbdf20cc621d"
+        },
+        {
+            "categoryid": "3",
+            "title": "Authorisation (Access Refresh)",
+            "notes": "",
+            "guid": "c3b426e0-220b-418d-8736-43307ff77acf"
+        },
+        {
+            "categoryid": "4",
+            "title": "Identity",
+            "notes": "",
+            "guid": "c64d71c2-9dad-40f5-9319-2b3f2e7491b5"
+        },
+        {
+            "categoryid": "5",
+            "title": "Other",
+            "notes": "",
+            "guid": "83cc20b1-2d39-4794-b0d7-cbeb394d83cc"
+        },
+        {
+            "categoryid": "6",
+            "title": "Blockchain Address",
+            "notes": "",
+            "guid": "931dc5b2-dac5-4766-9d07-e6c717851ac8"
+        },
+        {
+            "categoryid": "7",
+            "title": "Blockchain Asset",
+            "notes": "",
+            "guid": "b275d697-1bba-4a7a-90f2-e1fe79f3b089"
+        },
+        {
+            "categoryid": "8",
+            "title": "Blockchain Pool",
+            "notes": "",
+            "guid": "1637434d-0a1b-49c2-9715-f18aa0aecc54"
+        },
+        {
+            "categoryid": "9",
+            "title": "Blockchain Staking",
+            "notes": "",
+            "guid": "332da646-b727-4d7f-af6a-1e6f9705f5b7"
+        },
+        {
+            "categoryid": "10",
+            "title": "Blockchain Policy",
+            "notes": "",
+            "guid": "1c43b06c-7f01-4328-b5f9-09630336597f"
+        }
+    ]
+}

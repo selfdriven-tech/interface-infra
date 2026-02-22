@@ -1,0 +1,47 @@
+{
+    "object": {
+        "name": "ibmail_smsprovider",
+        "id": "1391344021"
+    },
+    "data": [
+        {
+            "providerid": "1",
+            "title": "MessageNet",
+            "informationurl": "",
+            "apiurl": "",
+            "price": "0.29",
+            "defaultprovider": "",
+            "msgidtext": "MSGID=",
+            "notes": "",
+            "direction2way": "Y",
+            "reference": "1",
+            "guid": "08b76712-497b-4d2d-b8a1-0f41fa62f5b0"
+        },
+        {
+            "providerid": "2",
+            "title": "SMSGlobal",
+            "informationurl": "smsglobal.com.au",
+            "apiurl": "https://api.smsglobal.com/http-api.php?action=sendsms&amp;user=&lt;LOGON&gt;&amp;password=&lt;PASSWORD&gt;&amp;from= &lt;FROMNUMBER&gt;&amp;to=&lt;TONUMBER&gt;&amp;text=&lt;TEXT&gt;",
+            "price": "0.02",
+            "defaultprovider": "",
+            "msgidtext": "SMSGlobalMsgID:",
+            "notes": "https://api.smsglobal.com/http-api.php?action=sendsms&amp;user=&lt;LOGON&gt;&amp;password=&lt;PASSWORD&gt;&amp;from= &lt;FROMNUMBER&gt;&amp;to=&lt;TONUMBER&gt;&amp;text=&lt;TEXT&gt;",
+            "direction2way": "N",
+            "reference": "2",
+            "guid": "3fedacbe-1d07-4ac9-98a3-4c6c86f9bdd5"
+        },
+        {
+            "providerid": "3",
+            "title": "SMSGlobal (2 Way)",
+            "informationurl": "smsglobal.com.au",
+            "apiurl": "https://api.smsglobal.com/http-api.php?action=sendsms&amp;user=&lt;LOGON&gt;&amp;password=&lt;PASSWORD&gt;&amp;to=&lt;TONUMBER&gt;&amp;userfield=&lt;REPLYPATH&gt;&amp;api=1&amp;text=&lt;TEXT&gt;",
+            "price": "0.02",
+            "defaultprovider": "",
+            "msgidtext": "SMSGlobalMsgID:",
+            "notes": "https://api.smsglobal.com/http-api.php?action=sendsms&amp;user=&lt;LOGON&gt;&amp;password=&lt;PASSWORD&gt;&amp;to=&lt;TONUMBER&gt;&amp;userfield=&lt;REPLYPATH&gt;&amp;api=1&amp;text=&lt;TEXT&gt;",
+            "direction2way": "Y",
+            "reference": "2",
+            "guid": "ade93b77-a9dc-4ab8-942d-38ba3b7a5e1c"
+        }
+    ]
+}

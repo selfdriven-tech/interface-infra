@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "cont_businesspayment",
+        "id": "30623152"
+    },
+    "data": [
+        {
+            "paymentadviceid": "1",
+            "value": "Send Invoice Only",
+            "guid": "3b70eed6-2e66-46d8-9808-0779af32f1de"
+        },
+        {
+            "paymentadviceid": "2",
+            "value": "Send Invoice &amp; Statement",
+            "guid": "9afac3ee-6c93-4da1-ada8-ca5dda7f38b5"
+        }
+    ]
+}

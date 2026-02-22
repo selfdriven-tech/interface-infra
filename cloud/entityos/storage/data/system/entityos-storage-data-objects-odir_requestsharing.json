@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "odir_requestsharing",
+        "id": "2064062439"
+    },
+    "data": [
+        {
+            "sharingid": "1",
+            "value": "Everyone",
+            "guid": "037f5661-3830-4e88-adc7-99afc4868b80"
+        },
+        {
+            "sharingid": "2",
+            "value": "Trusted Links",
+            "guid": "c95c3e61-e7c6-465a-8667-c745aacf472f"
+        },
+        {
+            "sharingid": "3",
+            "value": "Based On Category",
+            "guid": "349718d2-2ba9-4eaa-b19a-24c17103672a"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_sitestatus",
+        "id": "1613964826"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Active",
+            "guid": "5baa7b52-bfd5-4a99-9eb7-7ccb9a8cd058"
+        },
+        {
+            "statusid": "2",
+            "value": "Inactive",
+            "guid": "f872736c-9c6c-4fe1-b32d-0ab72c35d448"
+        }
+    ]
+}

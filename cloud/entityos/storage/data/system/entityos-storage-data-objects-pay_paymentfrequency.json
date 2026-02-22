@@ -1,0 +1,32 @@
+{
+    "object": {
+        "name": "pay_paymentfrequency",
+        "id": "1495012407"
+    },
+    "data": [
+        {
+            "paymentfrequencyid": "1",
+            "value": "Weekly",
+            "displayorder": "1",
+            "guid": "cc012e8d-9baa-4deb-a924-ded33c1d1bb8"
+        },
+        {
+            "paymentfrequencyid": "2",
+            "value": "Fortnightly",
+            "displayorder": "2",
+            "guid": "02c5e3b6-3f9a-45df-815f-0d080c46429b"
+        },
+        {
+            "paymentfrequencyid": "3",
+            "value": "Monthly",
+            "displayorder": "3",
+            "guid": "495ceffa-cd88-47b7-8b28-6362353c263b"
+        },
+        {
+            "paymentfrequencyid": "4",
+            "value": "Bi/Semi Monthly",
+            "displayorder": "4",
+            "guid": "27aeb19a-8ee3-4494-8c44-328dcb342061"
+        }
+    ]
+}

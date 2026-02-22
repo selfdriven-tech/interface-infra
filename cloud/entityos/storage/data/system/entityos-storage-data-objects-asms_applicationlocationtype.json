@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "asms_applicationlocationtype",
+        "id": "2132202646"
+    },
+    "data": [
+        {
+            "locationtypeid": "1",
+            "value": "Local - My Start Page",
+            "guid": "7e7bdb14-d793-4000-8740-2c7152281e85"
+        },
+        {
+            "locationtypeid": "2",
+            "value": "Local - Own Start Page",
+            "guid": "ca97e07d-81a9-4a7c-96de-8fe29964d3f6"
+        },
+        {
+            "locationtypeid": "3",
+            "value": "External - Web Site - In Frame",
+            "guid": "c15c9b0c-e834-44c6-8707-965a5917dbf6"
+        },
+        {
+            "locationtypeid": "4",
+            "value": "External - Web Site - New Window",
+            "guid": "24afdc29-c995-4712-8b2f-b06b6a116152"
+        },
+        {
+            "locationtypeid": "5",
+            "value": "External - Web Service",
+            "guid": "b9fbbbd5-da59-427c-9c2e-5be36e258308"
+        }
+    ]
+}

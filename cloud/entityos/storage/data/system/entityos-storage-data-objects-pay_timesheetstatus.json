@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "pay_timesheetstatus",
+        "id": "1063010868"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "In Progress",
+            "guid": "e1127eb8-da94-458a-9b30-940077cfc038"
+        },
+        {
+            "statusid": "2",
+            "value": "Finalised",
+            "guid": "a9973391-0b21-4cf3-8382-e0372adc685c"
+        },
+        {
+            "statusid": "3",
+            "value": "Cancelled",
+            "guid": "5204d171-6524-4920-bf3a-947d14a30403"
+        },
+        {
+            "statusid": "4",
+            "value": "Ready for Payline",
+            "guid": "49ef148d-b09c-446b-a076-0c483fcbc5b7"
+        },
+        {
+            "statusid": "5",
+            "value": "Sent to Payline",
+            "guid": "89651924-5c2e-4b69-be97-c4a3c7abb645"
+        }
+    ]
+}

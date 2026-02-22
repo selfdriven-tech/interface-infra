@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "okms_providerservicesharing",
+        "id": "595533205"
+    },
+    "data": [
+        {
+            "sharingid": "1",
+            "title": "External Source",
+            "description": "",
+            "guid": "3dfcf493-b8c6-4647-8bff-620eca71b70d"
+        },
+        {
+            "sharingid": "2",
+            "title": "Linked To mydigitalspace Membership",
+            "description": "",
+            "guid": "4d734089-17f1-4426-a73a-b2cfe0724b9c"
+        },
+        {
+            "sharingid": "3",
+            "title": "Everyone (Public)",
+            "description": "",
+            "guid": "d4e4f397-43dc-4a2a-a19e-7d07edbf8981"
+        },
+        {
+            "sharingid": "4",
+            "title": "[Selected Members]",
+            "description": "",
+            "guid": "5e83cf6d-f31f-4b04-941c-32c8cb7bcf1c"
+        },
+        {
+            "sharingid": "5",
+            "title": "Internal",
+            "description": "",
+            "guid": "dfc422fc-18e7-4e89-8223-69899924da04"
+        }
+    ]
+}

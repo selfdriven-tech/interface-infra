@@ -1,0 +1,22 @@
+{
+    "object": {
+        "name": "asms_datanetworkprovider",
+        "id": "1300199682"
+    },
+    "data": [
+        {
+            "datanetworkproviderid": "1",
+            "title": "myFleet",
+            "notes": "",
+            "logontype": "1",
+            "guid": "c7cadf0a-fda7-4a02-bc64-691b60c6c238"
+        },
+        {
+            "datanetworkproviderid": "2",
+            "title": "MTData",
+            "notes": "",
+            "logontype": "2",
+            "guid": "d524ef04-9d9b-4877-9be8-9a860f26c1cd"
+        }
+    ]
+}

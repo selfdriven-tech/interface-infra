@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_conditionandor",
+        "id": "1484948762"
+    },
+    "data": [
+        {
+            "andorid": "1",
+            "title": "Match All",
+            "guid": "87d20717-7eb7-4ad2-bd7a-c3a9d1e5d99e"
+        },
+        {
+            "andorid": "2",
+            "title": "Match At Least One",
+            "guid": "f13fa973-e81e-4e08-8c8e-e837952ffc57"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "object": {
+        "name": "doc_documentstatus",
+        "id": "1509580416"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "code": "DFT",
+            "value": "Draft",
+            "guid": "90386397-529c-4f1c-b998-220694a827d0"
+        },
+        {
+            "statusid": "2",
+            "code": "APP",
+            "value": "Approved",
+            "guid": "4eeba38d-cea1-467a-b35c-acb6afbb010a"
+        },
+        {
+            "statusid": "3",
+            "code": "RVW",
+            "value": "Under Review",
+            "guid": "d64da739-56be-4ff1-b498-2e86014adafa"
+        },
+        {
+            "statusid": "4",
+            "code": "RFC",
+            "value": "To Be Linked To Folders ",
+            "guid": "b5d764d6-c417-40e9-bb01-08622c1a72d3"
+        }
+    ]
+}

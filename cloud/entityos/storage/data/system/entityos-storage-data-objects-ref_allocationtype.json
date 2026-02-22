@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "ref_allocationtype",
+        "id": "727009671"
+    },
+    "data": [
+        {
+            "allocationtypeid": "1",
+            "value": "Based On Post Code - Exclusive",
+            "notes": "",
+            "guid": "d1c75032-1d81-41a0-8317-7426d8464186"
+        },
+        {
+            "allocationtypeid": "2",
+            "value": "Based On Post Code - Rotation",
+            "notes": "",
+            "guid": "f2bb95f7-b754-47da-a0b8-0d61dec284c0"
+        }
+    ]
+}

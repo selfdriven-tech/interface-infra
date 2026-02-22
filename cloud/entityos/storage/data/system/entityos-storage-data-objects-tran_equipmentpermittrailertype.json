@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "tran_equipmentpermittrailertype",
+        "id": "808389949"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Single",
+            "guid": "eb70abb2-1381-4ed6-91a2-e157be487367"
+        },
+        {
+            "typeid": "2",
+            "title": "Multi",
+            "guid": "e870ed90-e26f-44eb-9a6d-b3f9ac12c15f"
+        },
+        {
+            "typeid": "3",
+            "title": "N/A",
+            "guid": "55d5f826-66d9-4880-9361-325414ae7f24"
+        }
+    ]
+}

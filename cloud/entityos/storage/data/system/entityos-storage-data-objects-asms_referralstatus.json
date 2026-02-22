@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "asms_referralstatus",
+        "id": "247671930"
+    },
+    "data": [
+        {
+            "referralstatusid": "1",
+            "value": "To Be Sent",
+            "guid": "e6ecb6d0-6c51-46c1-9a21-4a21f38617ce"
+        },
+        {
+            "referralstatusid": "2",
+            "value": "Don&#39;t Send",
+            "guid": "6d1acba7-2e69-4594-9de8-ca1d3af6ffe5"
+        },
+        {
+            "referralstatusid": "3",
+            "value": "Sent",
+            "guid": "6304e9cb-c491-431a-b466-0f38f940161c"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "cont_actionextendedtype",
+        "id": "510624862"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "HTML",
+            "guid": "38d1021f-8940-42f6-b9d6-2c464d89b82a"
+        },
+        {
+            "typeid": "2",
+            "title": "Text",
+            "guid": "cea66233-fe20-4a49-b086-658b4757100b"
+        }
+    ]
+}

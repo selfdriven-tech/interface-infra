@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "risk_classlayouttype",
+        "id": "1357768440"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Standard",
+            "guid": "ccfe3787-56f1-4ea1-850b-f8f1d1c49f89"
+        },
+        {
+            "typeid": "2",
+            "title": "Print",
+            "guid": "5f18f95b-a941-4ce0-80f2-7ea20d1c0ade"
+        },
+        {
+            "typeid": "3",
+            "title": "Single Column",
+            "guid": "db5ecb4c-4ecb-4ae8-85b0-2a6f0718b3b0"
+        }
+    ]
+}

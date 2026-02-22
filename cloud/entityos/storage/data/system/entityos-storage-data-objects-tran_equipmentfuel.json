@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "tran_equipmentfuel",
+        "id": "1144391146"
+    },
+    "data": [
+        {
+            "fuelid": "1",
+            "title": "Diesel",
+            "guid": "f6dcbe49-0722-421f-a51c-c1e24939350c"
+        },
+        {
+            "fuelid": "2",
+            "title": "BioDiesel",
+            "guid": "00a607ad-0979-43e7-8d53-e04f3cafd50a"
+        },
+        {
+            "fuelid": "3",
+            "title": "Natural Gas",
+            "guid": "2449bc18-15f1-469c-acfe-92fc7f9dc0da"
+        }
+    ]
+}

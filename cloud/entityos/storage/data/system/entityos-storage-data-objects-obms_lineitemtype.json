@@ -1,0 +1,32 @@
+{
+    "object": {
+        "name": "obms_lineitemtype",
+        "id": "777769828"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "objecttype": "6",
+            "financialaccounttypeid": "1",
+            "value": "Receipt of Invoice to Bank Account",
+            "notes": "",
+            "guid": "29bca299-9e29-49c5-afdb-2d7d981de446"
+        },
+        {
+            "typeid": "2",
+            "objecttype": "-1",
+            "financialaccounttypeid": "2",
+            "value": "Receipt of Invoice as Write Off",
+            "notes": "",
+            "guid": "d0c25dbe-589f-43f2-bd2b-fb52af8b77ef"
+        },
+        {
+            "typeid": "3",
+            "objecttype": "6",
+            "financialaccounttypeid": "3",
+            "value": "Receipt Of Non-Invoiced Amount To Bank Account",
+            "notes": "",
+            "guid": "06cf5578-fcdd-44b0-990e-6e0fb402bd1b"
+        }
+    ]
+}

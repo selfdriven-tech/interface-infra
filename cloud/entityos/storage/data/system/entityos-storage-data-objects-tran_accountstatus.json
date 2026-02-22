@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "tran_accountstatus",
+        "id": "1512392457"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Pending",
+            "guid": "c204ef3c-4d5a-488e-b831-a981a405f4c2"
+        },
+        {
+            "statusid": "2",
+            "title": "Approved",
+            "guid": "38d8aa47-7ceb-4545-a347-22de00fa8773"
+        },
+        {
+            "statusid": "3",
+            "title": "On-Stop",
+            "guid": "d2460edb-5db0-4868-81d5-885330d19c03"
+        },
+        {
+            "statusid": "4",
+            "title": "Account Overdue",
+            "guid": "024bdb43-de24-478e-854e-04bdbb4bb723"
+        }
+    ]
+}

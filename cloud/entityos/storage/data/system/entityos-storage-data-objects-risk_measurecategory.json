@@ -1,0 +1,48 @@
+{
+    "object": {
+        "name": "risk_measurecategory",
+        "id": "74483344"
+    },
+    "data": [
+        {
+            "categoryid": "1",
+            "title": "[Standard Field]",
+            "guid": "f6fadebe-6a90-451d-afb6-b6f2eb367cb7"
+        },
+        {
+            "categoryid": "2",
+            "title": "Calculated Field",
+            "guid": "03463b30-2e48-4a86-9a6d-40e5c53991c5"
+        },
+        {
+            "categoryid": "3",
+            "title": "Heading Field",
+            "guid": "b2f6b5a0-043d-4a29-90b8-23973b86ad1d"
+        },
+        {
+            "categoryid": "4",
+            "title": "Calculated Field - Child",
+            "guid": "d585758a-0b92-4a55-984c-53069c441998"
+        },
+        {
+            "categoryid": "5",
+            "title": "Calculated Field - Cross Class",
+            "guid": "b08e3747-1181-4ce7-b3ef-85b34ba5d45e"
+        },
+        {
+            "categoryid": "6",
+            "title": "Calculated Field - Financial Details",
+            "guid": "a95a783d-0799-4d43-9779-1ed8c4f07f2c"
+        },
+        {
+            "categoryid": "7",
+            "title": "Calculated Field - Custom",
+            "guid": "d4f38d05-a408-41cc-a5af-d1fe94a0ad28"
+        },
+        {
+            "categoryid": "8",
+            "title": "Display Field",
+            "guid": "ffbfca2b-823e-45e0-ab7c-8aa07f4fd6a5"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "object": {
+        "name": "odir_shopdocumentlocation",
+        "id": "1840061641"
+    },
+    "data": [
+        {
+            "documentlocationid": "1",
+            "value": "Link In Side Navigation Menu",
+            "guid": "f9445caf-4b81-4c0c-9275-50094887c94d"
+        },
+        {
+            "documentlocationid": "2",
+            "value": "Home",
+            "guid": "45eda622-9760-4b8d-9c83-7b6fb1bbc324"
+        },
+        {
+            "documentlocationid": "3",
+            "value": "Header",
+            "guid": "a610df8c-1779-4f1d-a5b6-124642226e28"
+        },
+        {
+            "documentlocationid": "4",
+            "value": "Side Navigation",
+            "guid": "2c213e6a-1029-44e9-9cd4-1ecfe037fdda"
+        },
+        {
+            "documentlocationid": "5",
+            "value": "Introduction",
+            "guid": "48fd2b7b-eed3-4916-ad99-3f82dcd07ee6"
+        },
+        {
+            "documentlocationid": "6",
+            "value": "About Us",
+            "guid": "f00c9140-9e26-4191-89bd-205aaf0d0c5f"
+        },
+        {
+            "documentlocationid": "7",
+            "value": "Style Sheet (CSS)",
+            "guid": "b55d4ddb-e937-4b50-a8e0-524f68238379"
+        },
+        {
+            "documentlocationid": "8",
+            "value": "Link On Home Page",
+            "guid": "c5708eab-9b33-4d6c-9449-807b51f669f2"
+        },
+        {
+            "documentlocationid": "9",
+            "value": "Page (Link On Documents Page)",
+            "guid": "f2a2c6cd-c6e7-4403-80bc-19cb40728938"
+        },
+        {
+            "documentlocationid": "10",
+            "value": "Border Left",
+            "guid": "6b432da4-7f1b-4620-b573-2b9e3301629d"
+        },
+        {
+            "documentlocationid": "11",
+            "value": "Border Right",
+            "guid": "ad803e7f-54aa-4123-b2dc-1efecd73edf4"
+        },
+        {
+            "documentlocationid": "12",
+            "value": "Footer",
+            "guid": "1cbc8b5b-327a-4f3d-a939-9648bfb469c5"
+        },
+        {
+            "documentlocationid": "13",
+            "value": "Site Map (XML)",
+            "guid": "8a51aeea-5dbf-424d-9169-ee85355f7c34"
+        },
+        {
+            "documentlocationid": "14",
+            "value": "Default Email Document",
+            "guid": "4b155b1f-c44b-464f-8bc8-c9201844bb33"
+        },
+        {
+            "documentlocationid": "15",
+            "value": "Default Based On URL",
+            "guid": "256374db-3edc-4aa2-a949-966a0c8f5834"
+        }
+    ]
+}

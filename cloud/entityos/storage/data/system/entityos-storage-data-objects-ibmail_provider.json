@@ -1,0 +1,57 @@
+{
+    "object": {
+        "name": "ibmail_provider",
+        "id": "1647344933"
+    },
+    "data": [
+        {
+            "providerid": "1",
+            "title": "[Other]",
+            "statusmessage": "",
+            "showstatusmessage": "N",
+            "guid": "6e7e6fd7-a805-4eac-ac7c-03285e989968"
+        },
+        {
+            "providerid": "2",
+            "title": "WebCentral",
+            "statusmessage": "WebCentral are currently experiencing problems with their email service.",
+            "showstatusmessage": "N",
+            "guid": "1e6b6bea-672b-4432-97d9-ac1ab0638b82"
+        },
+        {
+            "providerid": "3",
+            "title": "Bigpond",
+            "statusmessage": "Bigpond are currently experiencing problems with their email service.",
+            "showstatusmessage": "N",
+            "guid": "f651b452-b072-4ac4-a91b-ec557d42626f"
+        },
+        {
+            "providerid": "4",
+            "title": "iiNet",
+            "statusmessage": "iiNet are currently experiencing problems with their email service.",
+            "showstatusmessage": "N",
+            "guid": "6bd5a0e5-ffe3-42d6-83e1-9363c89643f6"
+        },
+        {
+            "providerid": "5",
+            "title": "mBox",
+            "statusmessage": "mBox are currently experiencing problems with their email service.",
+            "showstatusmessage": "N",
+            "guid": "e7de868e-2813-4784-9b48-67fa3f9bed09"
+        },
+        {
+            "providerid": "6",
+            "title": "Netspace",
+            "statusmessage": "",
+            "showstatusmessage": "",
+            "guid": "765096ea-a62c-4921-91b0-dfcb3c45edc9"
+        },
+        {
+            "providerid": "7",
+            "title": "Snapsite",
+            "statusmessage": "",
+            "showstatusmessage": "",
+            "guid": "33618d61-e721-49ce-aad7-74ee59c76753"
+        }
+    ]
+}

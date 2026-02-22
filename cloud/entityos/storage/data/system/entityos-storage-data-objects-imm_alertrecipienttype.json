@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "imm_alertrecipienttype",
+        "id": "527340943"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Logged On User",
+            "guid": "ca9c62c3-1213-4e2b-9ec5-ca7f33b47429"
+        },
+        {
+            "typeid": "2",
+            "title": "Selected User",
+            "guid": "e4da895e-3ffc-4625-a5db-8dc4812a3b3e"
+        },
+        {
+            "typeid": "3",
+            "title": "Responsible User",
+            "guid": "b04badd2-78d7-485f-8281-d94e8baebfb2"
+        },
+        {
+            "typeid": "4",
+            "title": "Manager of Responsible User",
+            "guid": "4f82d4d4-89bd-4597-8df7-92a3abb7551a"
+        },
+        {
+            "typeid": "5",
+            "title": "Administrator",
+            "guid": "f18578cc-a7c8-4e6e-a079-6070b8ba038b"
+        }
+    ]
+}

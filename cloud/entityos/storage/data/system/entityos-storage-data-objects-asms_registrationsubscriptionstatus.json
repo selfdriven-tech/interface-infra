@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_registrationsubscriptionstatus",
+        "id": "55671246"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Enabled",
+            "guid": "e3aa7d88-3ad3-4976-8eed-4fa18987e9e4"
+        },
+        {
+            "statusid": "2",
+            "value": "Disabled",
+            "guid": "6e012a86-5a59-4406-af8b-5cfb95c89925"
+        }
+    ]
+}

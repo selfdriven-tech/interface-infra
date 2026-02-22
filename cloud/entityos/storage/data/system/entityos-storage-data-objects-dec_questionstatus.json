@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "dec_questionstatus",
+        "id": "280856563"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Enabled",
+            "guid": "ae1908c3-a48d-4148-955c-393706311a6f"
+        },
+        {
+            "statusid": "2",
+            "title": "Disabled",
+            "guid": "8863e678-aabc-4746-a551-ec1195bcaa06"
+        }
+    ]
+}

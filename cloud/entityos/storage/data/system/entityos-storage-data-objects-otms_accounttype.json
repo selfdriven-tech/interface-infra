@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "otms_accounttype",
+        "id": "339532293"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Cheque",
+            "guid": "f6316cbc-c24d-4f30-8d2a-9c03a30f902b"
+        },
+        {
+            "typeid": "2",
+            "value": "Savings",
+            "guid": "e31661c2-d585-4797-bd8b-b7cce654f601"
+        },
+        {
+            "typeid": "3",
+            "value": "Money Market",
+            "guid": "0755d9c4-3e2f-42d1-a6b5-b9d2f0e77ea5"
+        },
+        {
+            "typeid": "4",
+            "value": "Credit Card",
+            "guid": "c0c99286-8539-4e32-8961-56386a4c64ef"
+        },
+        {
+            "typeid": "5",
+            "value": "Merchant",
+            "guid": "8ff3060d-f884-44f1-a788-92f168e012ce"
+        },
+        {
+            "typeid": "6",
+            "value": "Other",
+            "guid": "b1595058-1be0-4f0b-91a3-cba99e5e208e"
+        }
+    ]
+}

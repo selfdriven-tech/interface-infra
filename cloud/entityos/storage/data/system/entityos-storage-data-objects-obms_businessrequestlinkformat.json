@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "obms_businessrequestlinkformat",
+        "id": "1190295300"
+    },
+    "data": [
+        {
+            "formatid": "1",
+            "title": "[Button In Top Heading]",
+            "guid": "e65abffb-821f-4c7e-b2ee-a4a12c6afe96"
+        },
+        {
+            "formatid": "2",
+            "title": "Button At Bottom",
+            "guid": "d786398a-426a-4223-bd6e-93ef5601044a"
+        },
+        {
+            "formatid": "3",
+            "title": "Link At Bottom",
+            "guid": "692227ee-c570-49ea-b335-2d1aab4238b7"
+        },
+        {
+            "formatid": "4",
+            "title": "None",
+            "guid": "a3ee6c90-2fcc-49f1-aca3-09ccd5ef12e0"
+        }
+    ]
+}

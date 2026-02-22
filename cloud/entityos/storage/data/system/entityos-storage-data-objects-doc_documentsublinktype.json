@@ -1,0 +1,22 @@
+{
+    "object": {
+        "name": "doc_documentsublinktype",
+        "id": "1445580188"
+    },
+    "data": [
+        {
+            "sublinktypeid": "1",
+            "title": "[Not Applicable]",
+            "linktype": "-1",
+            "automaticallyinclude": "Y",
+            "guid": "444ba382-8ac1-4f13-972c-20a391e028ab"
+        },
+        {
+            "sublinktypeid": "2",
+            "title": "Schedule",
+            "linktype": "5",
+            "automaticallyinclude": "N",
+            "guid": "7ba67184-81c1-493b-958c-33c56c856d1a"
+        }
+    ]
+}

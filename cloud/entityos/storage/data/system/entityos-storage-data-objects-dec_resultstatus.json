@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "dec_resultstatus",
+        "id": "178099675"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "In Progress",
+            "guid": "b8a3a6a3-9bd5-401b-a8c2-f9746dafd818"
+        },
+        {
+            "statusid": "2",
+            "value": "Completed",
+            "guid": "baf216c3-3fba-41cf-8a1f-081578ff7201"
+        },
+        {
+            "statusid": "3",
+            "value": "Cancelled",
+            "guid": "ea69cd45-666a-44dd-bbd4-de401fddd7d8"
+        },
+        {
+            "statusid": "4",
+            "value": "Locked",
+            "guid": "1988a2f5-80fb-4891-b717-f8c70bc5a10d"
+        }
+    ]
+}

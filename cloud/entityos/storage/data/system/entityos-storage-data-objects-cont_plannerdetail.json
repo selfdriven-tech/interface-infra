@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "cont_plannerdetail",
+        "id": "1618104805"
+    },
+    "data": [
+        {
+            "detailid": "1",
+            "value": "Auto",
+            "guid": "10a95561-ef48-41df-893c-e99ae0a00c64"
+        },
+        {
+            "detailid": "2",
+            "value": "Limited",
+            "guid": "fb4ea073-1553-4d84-85bf-420d7ec4a361"
+        },
+        {
+            "detailid": "3",
+            "value": "Medium",
+            "guid": "3eed2c11-9be7-4198-a1d1-f391f4745dde"
+        },
+        {
+            "detailid": "4",
+            "value": "Full",
+            "guid": "4e4ab3fb-82b5-49df-838b-f1b54701b3d3"
+        }
+    ]
+}

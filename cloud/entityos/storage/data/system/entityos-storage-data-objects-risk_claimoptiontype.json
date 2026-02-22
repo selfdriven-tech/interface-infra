@@ -1,0 +1,57 @@
+{
+    "object": {
+        "name": "risk_claimoptiontype",
+        "id": "1354539959"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Claim Search",
+            "displayorder": "1",
+            "guid": "eea5aeed-eb2e-4012-a358-db0b33323c42",
+            "reference": "3"
+        },
+        {
+            "typeid": "2",
+            "title": "Add New Claim",
+            "displayorder": "2",
+            "guid": "1ef58c04-927e-4ed2-ad55-2ad17c414e4f",
+            "reference": "4"
+        },
+        {
+            "typeid": "3",
+            "title": "Delegate Questions",
+            "displayorder": "3",
+            "guid": "49dfcd70-c850-4acf-b574-537bd7918162",
+            "reference": "5"
+        },
+        {
+            "typeid": "4",
+            "title": "Add New User",
+            "displayorder": "4",
+            "guid": "2960371b-351d-427d-9474-8cea3ca45cd5",
+            "reference": "6"
+        },
+        {
+            "typeid": "5",
+            "title": "Edit User Details",
+            "displayorder": "5",
+            "guid": "7c390d89-8a72-4c79-953b-da48503dce48",
+            "reference": "8"
+        },
+        {
+            "typeid": "6",
+            "title": "Claim Report",
+            "displayorder": "6",
+            "guid": "c129c7d8-e97f-42eb-829e-c2259a73745c",
+            "reference": "7"
+        },
+        {
+            "typeid": "7",
+            "title": "Alerts Report",
+            "displayorder": "7",
+            "guid": "7e7301a3-8371-4c5d-80fc-a4e2496fbfdf",
+            "reference": "12"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "asms_productstatus",
+        "id": "839674039"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "description": "Available Now",
+            "guid": "0b5129a6-db13-406a-bf23-3144bf444d26"
+        },
+        {
+            "statusid": "2",
+            "description": "Coming Soon...",
+            "guid": "4424a71b-7b93-46a8-83e9-3842f3d5a52c"
+        },
+        {
+            "statusid": "5",
+            "description": "In Development",
+            "guid": "eeaafd39-690f-4a4b-8743-b56d67266160"
+        },
+        {
+            "statusid": "6",
+            "description": "Coming Soon (Preview Available)...",
+            "guid": "4dc83afb-0a54-4c2f-8d2f-013c5d1986a2"
+        },
+        {
+            "statusid": "7",
+            "description": "Internal",
+            "guid": "b51df468-1e19-445f-918b-064f196705ce"
+        }
+    ]
+}

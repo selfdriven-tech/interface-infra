@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "tran_manifestlegquotedrate",
+        "id": "1803869493"
+    },
+    "data": [
+        {
+            "quotedrateid": "1",
+            "title": "Pallet Space",
+            "guid": "d1b25194-5afb-4852-9e1f-796701079d19"
+        },
+        {
+            "quotedrateid": "2",
+            "title": "Charter/FL",
+            "guid": "e900e93a-4b06-4e39-85b0-4edf8a86b98c"
+        },
+        {
+            "quotedrateid": "3",
+            "title": "Hourly",
+            "guid": "2eac771b-ab5c-4f4f-84b3-7ae5ac0e1784"
+        },
+        {
+            "quotedrateid": "4",
+            "title": "KMs",
+            "guid": "4aff4d02-ceab-4b21-8388-1074c7f90421"
+        },
+        {
+            "quotedrateid": "5",
+            "title": "Other",
+            "guid": "016ccf12-7547-445e-a576-5b0d8f0ca4c0"
+        }
+    ]
+}

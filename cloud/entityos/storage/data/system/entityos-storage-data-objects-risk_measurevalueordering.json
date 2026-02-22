@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_measurevalueordering",
+        "id": "1792217635"
+    },
+    "data": [
+        {
+            "orderingid": "1",
+            "title": "Based on Display Order",
+            "guid": "50703706-1859-42df-b221-82d30e643f5b"
+        },
+        {
+            "orderingid": "2",
+            "title": "Alphabetically",
+            "guid": "296abc83-b38a-4690-b0ee-ce37b9ac3dae"
+        }
+    ]
+}

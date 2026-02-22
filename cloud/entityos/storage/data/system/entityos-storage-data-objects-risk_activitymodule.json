@@ -1,0 +1,63 @@
+{
+    "object": {
+        "name": "risk_activitymodule",
+        "id": "2103535123"
+    },
+    "data": [
+        {
+            "moduleid": "1",
+            "title": "Diary",
+            "guid": "acd6528d-08f5-4ca8-8574-c0cc6280f21b"
+        },
+        {
+            "moduleid": "2",
+            "title": "Data Collection",
+            "guid": "edbc5bcf-9792-4eb8-8ec7-c7c974991e9e"
+        },
+        {
+            "moduleid": "3",
+            "title": "Claims",
+            "guid": "821a7066-1872-40ee-8b25-617ab28dd09a"
+        },
+        {
+            "moduleid": "4",
+            "title": "Policies",
+            "guid": "df524805-91e8-4943-aca1-f89b5dd3b275"
+        },
+        {
+            "moduleid": "5",
+            "title": "Quotations",
+            "guid": "d30b52ae-ef7a-4218-b083-2b1ddbeab1cd"
+        },
+        {
+            "moduleid": "6",
+            "title": "Sites",
+            "guid": "dd0b59ec-61cb-412e-aa32-98867043f934"
+        },
+        {
+            "moduleid": "7",
+            "title": "Users",
+            "guid": "e5533451-1245-476e-8b7e-c46da8ea5949"
+        },
+        {
+            "moduleid": "8",
+            "title": "Other",
+            "guid": "57fccc00-167f-4d38-a846-41d2e28349d2"
+        },
+        {
+            "moduleid": "9",
+            "title": "Risk Management",
+            "guid": "a0fa0de0-fab8-4cd1-bb51-db81f6068a99"
+        },
+        {
+            "moduleid": "10",
+            "title": "Documents",
+            "guid": "13cd7866-f541-406f-bbac-3f9cdee87a26"
+        },
+        {
+            "moduleid": "11",
+            "title": "Hub",
+            "guid": "63defc86-91de-4848-babd-758aa04c8462"
+        }
+    ]
+}

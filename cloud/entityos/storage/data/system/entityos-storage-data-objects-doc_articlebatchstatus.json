@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "doc_articlebatchstatus",
+        "id": "1877581727"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Loading",
+            "guid": "770c778e-f50a-46ef-8824-73d89bafced9"
+        },
+        {
+            "statusid": "2",
+            "value": "Available",
+            "guid": "d4361116-5e2d-4697-9cae-a6f403849e1c"
+        },
+        {
+            "statusid": "3",
+            "value": "Archived",
+            "guid": "fea78ecc-4f3c-4965-a62c-83b91e1df4db"
+        },
+        {
+            "statusid": "4",
+            "value": "Unloaded",
+            "guid": "d9d10481-b717-448e-89de-228565a3e799"
+        },
+        {
+            "statusid": "5",
+            "value": "Load Abandoned",
+            "guid": "c0f9f85b-fec1-4c48-b41c-d00df93ac24a"
+        }
+    ]
+}

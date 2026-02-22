@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "cont_businesscustomer",
+        "id": "142623551"
+    },
+    "data": [
+        {
+            "customerid": "1",
+            "value": "Businesses",
+            "guid": "7312987e-ecc5-4529-b435-f9849199f9d3"
+        },
+        {
+            "customerid": "2",
+            "value": "Individuals",
+            "guid": "caddd9d3-5fd8-4510-8654-0f2d07863362"
+        },
+        {
+            "customerid": "3",
+            "value": "Businesses &amp; Individuals",
+            "guid": "e5acfcb7-cf4c-4207-8b92-37142822b087"
+        }
+    ]
+}

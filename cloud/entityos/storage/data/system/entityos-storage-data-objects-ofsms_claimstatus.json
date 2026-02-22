@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "ofsms_claimstatus",
+        "id": "1360059931"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Pending",
+            "guid": "a355444e-7efa-4187-8df4-3dc59995ee51"
+        },
+        {
+            "statusid": "2",
+            "value": "Approved",
+            "guid": "f2b8fabe-24c3-4514-b1db-7bc63c0ea202"
+        },
+        {
+            "statusid": "3",
+            "value": "Denied",
+            "guid": "2a88f9f6-b8ff-4371-8679-ccc0e7780bc4"
+        },
+        {
+            "statusid": "4",
+            "value": "Closed",
+            "guid": "c2642309-bb08-4b2b-9a19-608ddfeeef87"
+        },
+        {
+            "statusid": "5",
+            "value": "Declined",
+            "guid": "15c42d45-af11-4e61-b9f0-f2cc9da440fb"
+        }
+    ]
+}

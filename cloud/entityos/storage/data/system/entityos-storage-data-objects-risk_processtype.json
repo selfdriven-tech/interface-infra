@@ -1,0 +1,58 @@
+{
+    "object": {
+        "name": "risk_processtype",
+        "id": "1837965624"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Single Site Person Responsible Update",
+            "guid": "cc82b08b-e8b9-491d-9492-861746bb6024"
+        },
+        {
+            "typeid": "2",
+            "title": "Bulk Person Responsible Update",
+            "guid": "f2e9d24f-9319-44f0-adad-fc977fae1817"
+        },
+        {
+            "typeid": "3",
+            "title": "Recall BI Processing",
+            "guid": "efe76478-c13c-45ca-a35a-e3bd0bdee457"
+        },
+        {
+            "typeid": "4",
+            "title": "As At Processing",
+            "guid": "03f672e4-f0a6-4e06-9030-5f2b91d57600"
+        },
+        {
+            "typeid": "5",
+            "title": "Alert Daily Processing",
+            "guid": "5ef551a5-6a12-428f-922a-59ed322c65a0"
+        },
+        {
+            "typeid": "6",
+            "title": "Export Daily Processing",
+            "guid": "250ccf78-fce7-4f3b-b8e8-75edc9b3920b"
+        },
+        {
+            "typeid": "7",
+            "title": "Parent Entity Person Responsible Update",
+            "guid": "5815ca33-e00f-4a01-a638-99d3a5bb821d"
+        },
+        {
+            "typeid": "8",
+            "title": "Today As At Daily Processing",
+            "guid": "a4cc6530-167b-436a-81fe-16492ae93ad0"
+        },
+        {
+            "typeid": "9",
+            "title": "Process Checker",
+            "guid": "201db244-1b48-44f0-afc8-7845d40d3164"
+        },
+        {
+            "typeid": "10",
+            "title": "Action Daily Processing",
+            "guid": "28c78b31-3748-4b48-812c-62db09496d95"
+        }
+    ]
+}

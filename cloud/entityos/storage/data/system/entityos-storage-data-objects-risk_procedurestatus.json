@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_procedurestatus",
+        "id": "2029966308"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Active",
+            "guid": "2d7bf5bb-3590-4802-8448-16b1c93332e9"
+        },
+        {
+            "statusid": "2",
+            "title": "Disabled",
+            "guid": "0c96a215-0cad-4cdf-9353-69d5cb900356"
+        }
+    ]
+}

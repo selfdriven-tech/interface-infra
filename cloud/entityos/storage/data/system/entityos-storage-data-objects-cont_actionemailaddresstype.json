@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "cont_actionemailaddresstype",
+        "id": "606625204"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "From",
+            "guid": "f57557b2-9ddd-4645-9093-1ec98ee955c4"
+        },
+        {
+            "typeid": "2",
+            "title": "To",
+            "guid": "8ee9125e-274c-4453-9047-8693c1179ef3"
+        },
+        {
+            "typeid": "3",
+            "title": "CC",
+            "guid": "e6ac671a-e5eb-40ad-8a9e-ef08adcfea59"
+        },
+        {
+            "typeid": "4",
+            "title": "BCC",
+            "guid": "6b925cce-7d76-4e09-9655-18db5c40da73"
+        }
+    ]
+}

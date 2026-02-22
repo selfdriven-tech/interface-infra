@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_bascalculationmethod",
+        "id": "1063778947"
+    },
+    "data": [
+        {
+            "methodid": "1",
+            "title": "Based On Sales &amp; Purchases",
+            "guid": "58751290-d921-4f1d-b572-22cc2fd7de45"
+        },
+        {
+            "methodid": "2",
+            "title": "Fixed Amount",
+            "guid": "8a0f7c6e-3ebb-4b8b-abf8-6d2878221f74"
+        }
+    ]
+}

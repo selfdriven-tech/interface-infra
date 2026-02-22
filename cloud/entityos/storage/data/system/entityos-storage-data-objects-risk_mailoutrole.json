@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "risk_mailoutrole",
+        "id": "234483914"
+    },
+    "data": [
+        {
+            "roleid": "1",
+            "title": "Administrator",
+            "guid": "6c4d4b45-9e41-4354-8ffb-03dd5332c9fd"
+        },
+        {
+            "roleid": "2",
+            "title": "Manager",
+            "guid": "d2ab92d1-df4e-46b4-90c0-84f5aa302482"
+        },
+        {
+            "roleid": "3",
+            "title": "Business User",
+            "guid": "ff23308e-c744-4b90-9d50-c016f7f7ea47"
+        },
+        {
+            "roleid": "4",
+            "title": "Visitor",
+            "guid": "173ebf22-b1b7-4f52-a31c-baa03005a441"
+        },
+        {
+            "roleid": "5",
+            "title": "Reviewer",
+            "guid": "4769996b-46a9-4047-80ff-b0b1476305b9"
+        }
+    ]
+}

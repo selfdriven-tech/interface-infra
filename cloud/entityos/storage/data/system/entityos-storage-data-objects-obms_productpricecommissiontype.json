@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_productpricecommissiontype",
+        "id": "1069246864"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Percentage",
+            "guid": "cec3d999-6e45-4fe6-8f00-d3144750dae8"
+        },
+        {
+            "typeid": "2",
+            "title": "Fixed",
+            "guid": "a793b10f-80e1-4af0-83a8-3a5758faf801"
+        }
+    ]
+}

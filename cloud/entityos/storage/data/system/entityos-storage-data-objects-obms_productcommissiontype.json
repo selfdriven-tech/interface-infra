@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "obms_productcommissiontype",
+        "id": "1469248289"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "% of Sell Price",
+            "guid": "90ce2852-b2a5-456d-87b8-69ebf0dc6793"
+        },
+        {
+            "typeid": "2",
+            "title": "Fixed Rate Per Unit",
+            "guid": "28d64e8d-ace6-4b48-9305-60328ae2f45d"
+        },
+        {
+            "typeid": "3",
+            "title": "Margin",
+            "guid": "471ec97b-fa31-4964-a9ec-80bd3f7883f0"
+        },
+        {
+            "typeid": "4",
+            "title": "% of Buy Price",
+            "guid": "5e679c96-c859-4500-a831-66b0e46de7e1"
+        }
+    ]
+}

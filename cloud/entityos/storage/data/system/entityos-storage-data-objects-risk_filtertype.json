@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_filtertype",
+        "id": "899182649"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Equal To",
+            "guid": "1de49005-982e-415c-a1d2-d9e40f19476b"
+        },
+        {
+            "typeid": "2",
+            "title": "Not Equal To",
+            "guid": "f53d870d-51e7-453a-b5d4-5f2ba85eee95"
+        }
+    ]
+}

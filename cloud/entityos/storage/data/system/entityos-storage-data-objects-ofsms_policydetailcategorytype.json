@@ -1,0 +1,43 @@
+{
+    "object": {
+        "name": "ofsms_policydetailcategorytype",
+        "id": "1811537537"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Life",
+            "guid": "352968ed-59d1-41f9-aec5-b86c6b6326be"
+        },
+        {
+            "typeid": "2",
+            "value": "General",
+            "guid": "cc6b775d-4782-4d99-b8f1-d0022265c04c"
+        },
+        {
+            "typeid": "3",
+            "value": "Accident",
+            "guid": "02384c2b-a601-43f4-a18e-e546a39775a1"
+        },
+        {
+            "typeid": "4",
+            "value": "Income Protection",
+            "guid": "428a0156-ed6f-4d1e-bf87-64cfb9283d25"
+        },
+        {
+            "typeid": "5",
+            "value": "Business Capital",
+            "guid": "8e740853-cc3a-42e7-ac9c-4ffd61765ac7"
+        },
+        {
+            "typeid": "6",
+            "value": "Business Income",
+            "guid": "b05a9c40-f834-43a0-adb0-0a26d525c21b"
+        },
+        {
+            "typeid": "7",
+            "value": "Trauma",
+            "guid": "463ea003-5b44-4672-8be6-a75673bbb7ff"
+        }
+    ]
+}

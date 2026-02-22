@@ -1,0 +1,43 @@
+{
+    "object": {
+        "name": "ofsms_factfinderpolicytype",
+        "id": "880058221"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Death",
+            "guid": "0374d186-fd44-4f34-93b3-5dc80dfb295e"
+        },
+        {
+            "typeid": "2",
+            "value": "TPD",
+            "guid": "bfea39c0-3d16-4e57-b487-42324dd372e2"
+        },
+        {
+            "typeid": "3",
+            "value": "Income Protection",
+            "guid": "35c4fc9d-236e-4f54-9ad0-9e4d1aa8e09e"
+        },
+        {
+            "typeid": "4",
+            "value": "Critical Illness",
+            "guid": "0ba32345-b4e6-447c-a097-93deeba65d9d"
+        },
+        {
+            "typeid": "5",
+            "value": "Life Insurance",
+            "guid": "4f5d5730-a306-44a2-8504-d5cc69b74684"
+        },
+        {
+            "typeid": "6",
+            "value": "Trauma",
+            "guid": "8cea20ec-1723-4170-b3f8-8ef4332ab59d"
+        },
+        {
+            "typeid": "7",
+            "value": "Business",
+            "guid": "dc54d6cc-7b99-42cd-9e8d-08e2b88d6d1f"
+        }
+    ]
+}

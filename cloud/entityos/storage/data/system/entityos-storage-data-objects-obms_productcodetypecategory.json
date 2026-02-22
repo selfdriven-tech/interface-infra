@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "obms_productcodetypecategory",
+        "id": "1636617319"
+    },
+    "data": [
+        {
+            "categoryid": "1",
+            "title": "1D Barcode",
+            "notes": "",
+            "guid": "37893d90-51dd-453d-928e-7001fde0dc00"
+        },
+        {
+            "categoryid": "2",
+            "title": "2D Barcode",
+            "notes": "",
+            "guid": "82d94a94-9320-48bd-b94c-da9cd906b036"
+        }
+    ]
+}

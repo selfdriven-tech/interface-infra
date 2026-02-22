@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "aud_auditwitnessstatus",
+        "id": "1235899870"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "In Progress",
+            "notes": "",
+            "guid": "8cdfba7a-75c9-4dd1-aa45-9ef795bb1738"
+        },
+        {
+            "statusid": "2",
+            "title": "Passed",
+            "notes": "",
+            "guid": "ba6a6de4-0970-4903-926e-d300e906742d"
+        },
+        {
+            "statusid": "3",
+            "title": "Failed",
+            "notes": "",
+            "guid": "7feb4c04-4bec-4614-a45d-e4f551279406"
+        },
+        {
+            "statusid": "4",
+            "title": "Pending Decision",
+            "notes": "",
+            "guid": "c247522f-cd2d-454f-a976-0c0e8474e346"
+        },
+        {
+            "statusid": "5",
+            "title": "Not Applicable",
+            "notes": "",
+            "guid": "85367df9-0bdc-4923-8cbd-9bf9fdad3af8"
+        }
+    ]
+}

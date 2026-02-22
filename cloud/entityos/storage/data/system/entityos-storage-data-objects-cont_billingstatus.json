@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "cont_billingstatus",
+        "id": "206623779"
+    },
+    "data": [
+        {
+            "billingstatusid": "1",
+            "value": "Billable",
+            "guid": "e2e08634-7806-42aa-9897-886ae043dbe3"
+        },
+        {
+            "billingstatusid": "2",
+            "value": "Non-Billable",
+            "guid": "22e2a843-fd37-482e-a2f7-338e86375364"
+        },
+        {
+            "billingstatusid": "3",
+            "value": "Don&#39;t Know",
+            "guid": "72e2232b-588b-4a7d-a7e8-9aa980662390"
+        },
+        {
+            "billingstatusid": "4",
+            "value": "Approved For Billing",
+            "guid": "ccade0c8-314a-4b69-ad7c-4b6a736df163"
+        },
+        {
+            "billingstatusid": "5",
+            "value": "Has Been Billed",
+            "guid": "d0efb54f-18d6-4b5e-90fe-dec3135640e4"
+        }
+    ]
+}

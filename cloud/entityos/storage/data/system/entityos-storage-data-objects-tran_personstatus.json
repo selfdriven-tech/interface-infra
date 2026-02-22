@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "tran_personstatus",
+        "id": "1339867840"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Available",
+            "guid": "7e0d983d-6dfd-4f0d-adfe-0a5967bc1c12"
+        },
+        {
+            "statusid": "2",
+            "title": "Unavailable Other - See Notes",
+            "guid": "b0018e3a-8c6f-428d-9d94-ebf8e289f62d"
+        },
+        {
+            "statusid": "3",
+            "title": "Terminated",
+            "guid": "1b61dc0a-6b24-4b2c-867c-040b8fb9b289"
+        },
+        {
+            "statusid": "4",
+            "title": "Resigned",
+            "guid": "60b62f07-8c76-431e-bbcb-a113ba6e5447"
+        },
+        {
+            "statusid": "5",
+            "title": "Workcover",
+            "guid": "bb4090e6-4f28-4dcc-b703-18ccf7af8f66"
+        },
+        {
+            "statusid": "6",
+            "title": "Leave",
+            "guid": "5ba31cdb-c380-4d6e-a26b-718303546141"
+        }
+    ]
+}

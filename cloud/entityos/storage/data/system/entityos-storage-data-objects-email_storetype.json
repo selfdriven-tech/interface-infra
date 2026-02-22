@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "email_storetype",
+        "id": "309576141"
+    },
+    "data": [
+        {
+            "storetypeid": "1",
+            "value": "SMTP",
+            "displayorder": "4",
+            "guid": "a5b5a975-7700-4284-a83c-0c20d1e2b02f"
+        },
+        {
+            "storetypeid": "2",
+            "value": "eMail (POP3)",
+            "displayorder": "1",
+            "guid": "43613749-5a68-4728-b901-84fe3b586dd0"
+        },
+        {
+            "storetypeid": "3",
+            "value": "SIP (Instant Messaging and Voice)",
+            "displayorder": "3",
+            "guid": "59db0a0a-cfc7-4ae8-955e-3738df3981df"
+        },
+        {
+            "storetypeid": "4",
+            "value": "mydigitalspace|messenger",
+            "displayorder": "2",
+            "guid": "7f3b969b-a27c-4412-9b5d-76177173a066"
+        },
+        {
+            "storetypeid": "5",
+            "value": "Email (IMAP)",
+            "displayorder": "",
+            "guid": "d622135d-1575-4a42-a8dc-9dc2d435ab4e"
+        }
+    ]
+}

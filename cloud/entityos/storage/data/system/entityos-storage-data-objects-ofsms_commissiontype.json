@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "ofsms_commissiontype",
+        "id": "1200059361"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Upfront",
+            "guid": "8c78f3ba-61e7-47e3-a535-f66a39abe4fe"
+        },
+        {
+            "typeid": "2",
+            "value": "Ongoing",
+            "guid": "ef85cfa5-bb9e-4a7f-bd56-e2d8ead13efe"
+        }
+    ]
+}

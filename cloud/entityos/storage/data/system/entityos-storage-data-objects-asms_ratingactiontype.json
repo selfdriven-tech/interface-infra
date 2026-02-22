@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_ratingactiontype",
+        "id": "759673754"
+    },
+    "data": [
+        {
+            "actiontypeid": "1",
+            "value": "Add To Rating",
+            "guid": "e9be18a1-7e60-43e7-b574-c583e63acaff"
+        },
+        {
+            "actiontypeid": "2",
+            "value": "Remove Rating",
+            "guid": "807e6141-cd6a-453c-a6ae-cba49c27d9e1"
+        }
+    ]
+}

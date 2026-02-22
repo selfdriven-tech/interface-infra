@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "ofms_transfergroup",
+        "id": "1456060273"
+    },
+    "data": [
+        {
+            "groupid": "1",
+            "title": "Group By Business",
+            "guid": "a87acbdc-918c-432f-beeb-abdcd3a599d6"
+        },
+        {
+            "groupid": "2",
+            "title": "Group By Person",
+            "guid": "123b95b7-e09d-4014-b258-04d7c6fdab21"
+        },
+        {
+            "groupid": "3",
+            "title": "Don&#39;t Group",
+            "guid": "239d88cc-4ff2-42c6-94eb-9a7aad254c0e"
+        }
+    ]
+}

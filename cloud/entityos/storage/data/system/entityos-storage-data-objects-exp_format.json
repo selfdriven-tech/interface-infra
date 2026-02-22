@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "exp_format",
+        "id": "21575115"
+    },
+    "data": [
+        {
+            "formatid": "1",
+            "value": "Tab Delimited",
+            "guid": "ff296c1b-3f8b-4ac5-90c2-3b173740ae76"
+        },
+        {
+            "formatid": "2",
+            "value": "Comma Delimited",
+            "guid": "4178b6ba-2dac-425d-9227-f30b44e2ba6a"
+        },
+        {
+            "formatid": "3",
+            "value": "OFX",
+            "guid": "81c05041-6ad2-4e14-94d9-cfaefc13aafc"
+        }
+    ]
+}

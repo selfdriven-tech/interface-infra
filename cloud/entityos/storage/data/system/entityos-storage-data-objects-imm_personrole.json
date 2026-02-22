@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "imm_personrole",
+        "id": "1970822083"
+    },
+    "data": [
+        {
+            "roleid": "1",
+            "title": "Owner",
+            "guid": "0a29d288-374e-4d8b-9a15-234d01d9ce3e"
+        },
+        {
+            "roleid": "2",
+            "title": "Person Responsible",
+            "guid": "a9e660a1-4f1d-44b9-8e7b-cd0363426aba"
+        },
+        {
+            "roleid": "3",
+            "title": "Information Only",
+            "guid": "fbf854f5-18db-4ded-81fc-ed6f4b57163e"
+        },
+        {
+            "roleid": "5",
+            "title": "Caused Issue",
+            "guid": "92ab5797-bdb0-4d0e-be5a-441c8ba9a043"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "tran_pickuplocalrequirements",
+        "id": "1099866985"
+    },
+    "data": [
+        {
+            "localrequirementsid": "1",
+            "title": "[Not Set]",
+            "shorttitle": "[Not Set]",
+            "guid": "7d91e2ab-3b28-4727-a25c-dd05e8abfe37"
+        },
+        {
+            "localrequirementsid": "2",
+            "title": "Direct",
+            "shorttitle": "Dir",
+            "guid": "4972294d-fc0a-4c91-a127-3a20cb69223c"
+        },
+        {
+            "localrequirementsid": "3",
+            "title": "Pickup on Local only",
+            "shorttitle": "PU",
+            "guid": "3ad20c95-1583-43d3-829d-d9b24672ab01"
+        },
+        {
+            "localrequirementsid": "4",
+            "title": "Delivery on Local only",
+            "shorttitle": "DEL",
+            "guid": "61dd7e08-e04b-4ee8-aa0d-f4d224335b15"
+        },
+        {
+            "localrequirementsid": "5",
+            "title": "Pickup &amp; Delivery on Local",
+            "shorttitle": "PUD",
+            "guid": "2aef3fea-7514-43f9-befa-a70028531b95"
+        }
+    ]
+}

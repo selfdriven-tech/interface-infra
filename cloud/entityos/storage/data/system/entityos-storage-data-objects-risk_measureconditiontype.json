@@ -1,0 +1,63 @@
+{
+    "object": {
+        "name": "risk_measureconditiontype",
+        "id": "1104423404"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Hide Measure",
+            "guid": "1279da22-d778-48df-aff8-4b1a53ed998a"
+        },
+        {
+            "typeid": "2",
+            "title": "Show Measure",
+            "guid": "c6e8ecdb-c079-4e05-a6a5-707d5e051e6d"
+        },
+        {
+            "typeid": "3",
+            "title": "Hide Tab",
+            "guid": "395deba3-63bb-4670-98ca-37e46e78fbd0"
+        },
+        {
+            "typeid": "4",
+            "title": "Show Tab",
+            "guid": "cb0c0504-1259-4143-86fe-9338e64545d8"
+        },
+        {
+            "typeid": "5",
+            "title": "Set Value",
+            "guid": "cf48fefe-2d95-4255-8c86-40836ad85f1f"
+        },
+        {
+            "typeid": "6",
+            "title": "Disable Measure",
+            "guid": "a319a9f6-734d-4d3f-a46d-d91bfeb8caef"
+        },
+        {
+            "typeid": "7",
+            "title": "Enable Measure",
+            "guid": "18d6571c-1ec7-40e3-b126-b56f2e974afd"
+        },
+        {
+            "typeid": "8",
+            "title": "Hide Measure Value",
+            "guid": "6975043c-d870-4aab-8363-9518c183f517"
+        },
+        {
+            "typeid": "9",
+            "title": "Show Measure Value",
+            "guid": "86157a5e-bcd4-4b60-91d0-3818a1bd9672"
+        },
+        {
+            "typeid": "10",
+            "title": "Open Tab",
+            "guid": "760a0474-d989-4cee-a1e8-3bb4fd95e821"
+        },
+        {
+            "typeid": "11",
+            "title": "Close Tab",
+            "guid": "5df0ccee-3105-441e-8ee8-9d09a91e38e2"
+        }
+    ]
+}

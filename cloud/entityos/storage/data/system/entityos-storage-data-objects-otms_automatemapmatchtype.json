@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "otms_automatemapmatchtype",
+        "id": "291532122"
+    },
+    "data": [
+        {
+            "automatemapmatchtypeid": "1",
+            "description": "Exactly Matches Text",
+            "guid": "931b443b-495b-47f8-b401-d9c71f9c2795"
+        },
+        {
+            "automatemapmatchtypeid": "2",
+            "description": "Contains Text",
+            "guid": "068e3f13-cd44-4737-b2e8-56e0a798f419"
+        }
+    ]
+}

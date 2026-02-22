@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_alertdeliverytype",
+        "id": "473260941"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Nightly Grouped",
+            "guid": "7aa27120-9bdf-4c37-8e05-741f546be70e"
+        },
+        {
+            "typeid": "2",
+            "title": "Immediate",
+            "guid": "fcf6ae5d-c2ba-4165-a21b-e8aa74b72632"
+        }
+    ]
+}

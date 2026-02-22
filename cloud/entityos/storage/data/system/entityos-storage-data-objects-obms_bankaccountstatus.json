@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_bankaccountstatus",
+        "id": "2054298378"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Active",
+            "guid": "2ce86657-d5d3-43de-b788-86262401a255"
+        },
+        {
+            "statusid": "2",
+            "title": "Non-Active",
+            "guid": "87eb35fd-4da4-4023-9489-4a2f617567ff"
+        }
+    ]
+}

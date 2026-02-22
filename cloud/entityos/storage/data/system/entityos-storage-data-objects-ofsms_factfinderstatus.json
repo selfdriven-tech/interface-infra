@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "ofsms_factfinderstatus",
+        "id": "656057423"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "In Progress",
+            "guid": "a337a09f-7473-422e-8f3d-c7fc7423d093"
+        },
+        {
+            "statusid": "2",
+            "value": "Finalised",
+            "guid": "515337e2-014e-4cb0-b9c2-ad0c0bda7bf4"
+        }
+    ]
+}

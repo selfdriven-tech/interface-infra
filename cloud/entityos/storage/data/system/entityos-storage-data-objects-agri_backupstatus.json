@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "agri_backupstatus",
+        "id": "1853770207"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "In Progress",
+            "guid": "93eb7e3f-9c3d-4fb4-94ff-511ca9b31160"
+        },
+        {
+            "statusid": "2",
+            "title": "Completed",
+            "guid": "c5d5cc76-eaf4-4fca-9644-6b8e1b0261de"
+        },
+        {
+            "statusid": "3",
+            "title": "Cancelled",
+            "guid": "d08527b2-9c07-4e2a-83e9-0db8213a19ab"
+        }
+    ]
+}

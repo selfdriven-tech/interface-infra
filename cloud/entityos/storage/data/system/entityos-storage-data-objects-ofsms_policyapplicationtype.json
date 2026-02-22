@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "ofsms_policyapplicationtype",
+        "id": "1907537879"
+    },
+    "data": [
+        {
+            "applicationtypeid": "1",
+            "value": "Paper",
+            "guid": "ab3415fd-dfc0-4261-8598-8920b54256ee"
+        },
+        {
+            "applicationtypeid": "2",
+            "value": "Digital Pen",
+            "guid": "5216f740-28a5-4e2b-afab-a925318ef9ad"
+        },
+        {
+            "applicationtypeid": "3",
+            "value": "Electronic",
+            "guid": "5d7faa2d-1b3e-4939-a3bb-c11c7b10062d"
+        }
+    ]
+}

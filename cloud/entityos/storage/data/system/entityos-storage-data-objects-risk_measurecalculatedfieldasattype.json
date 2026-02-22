@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "risk_measurecalculatedfieldasattype",
+        "id": "1538520960"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Default",
+            "notes": "",
+            "guid": "d4833d30-afe6-4b7c-81ef-516f3f7cab36"
+        },
+        {
+            "typeid": "2",
+            "title": "End of Previous Period",
+            "notes": "",
+            "guid": "35c2e948-8ec9-4d4f-b3d1-2168e3998fb6"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "object": {
+        "name": "pay_employeestatus",
+        "id": "1895013832"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Proposed",
+            "guid": "80e01a28-2e6f-47f0-94fb-2995e7bc1e0e"
+        },
+        {
+            "statusid": "2",
+            "value": "Active",
+            "guid": "3e3c5456-6be0-4e85-a322-0fc7f71c7570"
+        },
+        {
+            "statusid": "3",
+            "value": "Non Active",
+            "guid": "1bf9c473-0a1c-4525-aa5b-a6ef3467d69c"
+        },
+        {
+            "statusid": "4",
+            "value": "Full Time",
+            "guid": "5e63d78b-96db-4c9f-929b-09fd49c97afe"
+        },
+        {
+            "statusid": "5",
+            "value": "Part Time",
+            "guid": "a2157272-a236-4187-88b9-941218aa788d"
+        },
+        {
+            "statusid": "6",
+            "value": "Casual",
+            "guid": "53d9b05b-6dac-4d00-81c6-b2a804b871fd"
+        },
+        {
+            "statusid": "7",
+            "value": "Labour Hire",
+            "guid": "b40c2e49-81a6-4ab5-a847-0777d442d3f9"
+        },
+        {
+            "statusid": "8",
+            "value": "Volunteer",
+            "guid": "c7033b14-8f60-497e-95e8-a88f5d9671b0"
+        },
+        {
+            "statusid": "9",
+            "value": "Death Beneficiary",
+            "guid": "8970d2a0-9575-4112-8316-b1c5d2b40f70"
+        },
+        {
+            "statusid": "10",
+            "value": "Terminated",
+            "guid": "b4f9f37b-ed42-435e-8ddb-283be98699cd"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "object": {
+        "name": "obms_finyear",
+        "id": "1337771823"
+    },
+    "data": [
+        {
+            "finyearid": "1",
+            "finyear": "2001/02",
+            "startdate": "1 Jul 2001",
+            "enddate": "30 Jun 2002",
+            "guid": "efd6db60-e119-41c6-9ce7-7c61ad0e5c16"
+        },
+        {
+            "finyearid": "2",
+            "finyear": "2002/03",
+            "startdate": "1 Jul 2002",
+            "enddate": "30 Jun 2003",
+            "guid": "58774f6e-ea46-4e64-b238-51b1016b3d2a"
+        },
+        {
+            "finyearid": "3",
+            "finyear": "2000/01",
+            "startdate": "1 Jul 2000",
+            "enddate": "30 Jun 2001",
+            "guid": "1edc0b39-3a34-4393-958f-de84de4465eb"
+        },
+        {
+            "finyearid": "4",
+            "finyear": "1999/00",
+            "startdate": "1 Jul 1999",
+            "enddate": "30 Jun 2000",
+            "guid": "fc2cc20a-7df8-4027-8e59-5aa56d4848ec"
+        },
+        {
+            "finyearid": "5",
+            "finyear": "2003/04",
+            "startdate": "1 Jul 2003",
+            "enddate": "30 Jun 2004",
+            "guid": "54600b7f-01bf-4262-801e-bb6ff63a0df5"
+        },
+        {
+            "finyearid": "6",
+            "finyear": "2004/05",
+            "startdate": "1 Jul 2004",
+            "enddate": "30 Jun 2005",
+            "guid": "42a489b2-3843-48fb-b8bf-6e37b9ed66b5"
+        }
+    ]
+}

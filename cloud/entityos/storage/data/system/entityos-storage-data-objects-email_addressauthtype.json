@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "email_addressauthtype",
+        "id": "789577851"
+    },
+    "data": [
+        {
+            "authtypeid": "0",
+            "title": "Standard Login",
+            "guid": "41d8dacc-ea2e-4026-b8e3-023f84bf7f41"
+        },
+        {
+            "authtypeid": "1",
+            "title": "CRAMS/MD5",
+            "guid": "d564f91a-a8b3-452e-a98f-561b56021776"
+        },
+        {
+            "authtypeid": "2",
+            "title": "NTLM",
+            "guid": "82c320e0-d327-470f-9cb5-c25f3ab6f6b9"
+        },
+        {
+            "authtypeid": "3",
+            "title": "OAuth",
+            "guid": "c381008a-ed27-4648-9ca9-6e2018b96a72"
+        }
+    ]
+}

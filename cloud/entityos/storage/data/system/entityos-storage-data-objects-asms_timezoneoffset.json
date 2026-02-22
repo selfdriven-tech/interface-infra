@@ -1,0 +1,208 @@
+{
+    "object": {
+        "name": "asms_timezoneoffset",
+        "id": "1724689342"
+    },
+    "data": [
+        {
+            "offsetid": "1",
+            "timezoneid": "1",
+            "offsetminutes": "720",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "3b6f2e70-1740-4b75-8004-3c049485d246"
+        },
+        {
+            "offsetid": "2",
+            "timezoneid": "2",
+            "offsetminutes": "660",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "aa1c7337-f442-4bc8-80e5-47f8f1426a4e"
+        },
+        {
+            "offsetid": "3",
+            "timezoneid": "3",
+            "offsetminutes": "600",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "80800c2f-afd9-4940-9173-43b40c77a7e8"
+        },
+        {
+            "offsetid": "4",
+            "timezoneid": "4",
+            "offsetminutes": "540",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "1cc08794-9fae-42d5-9acf-9a1accb776a5"
+        },
+        {
+            "offsetid": "5",
+            "timezoneid": "5",
+            "offsetminutes": "480",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "62776b8b-b44f-4a3c-b811-b2e8a29b1d38"
+        },
+        {
+            "offsetid": "6",
+            "timezoneid": "6",
+            "offsetminutes": "420",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "76c61069-9cae-4a5e-b956-f14894a821c9"
+        },
+        {
+            "offsetid": "7",
+            "timezoneid": "7",
+            "offsetminutes": "420",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "23aa0407-e9d8-4974-8f7f-d043bf35548e"
+        },
+        {
+            "offsetid": "8",
+            "timezoneid": "8",
+            "offsetminutes": "420",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "3f71040a-62ae-4041-9135-eb22c453b02c"
+        },
+        {
+            "offsetid": "9",
+            "timezoneid": "9",
+            "offsetminutes": "360",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "64c02f49-8bdd-4469-81e0-20725f13a3a6"
+        },
+        {
+            "offsetid": "10",
+            "timezoneid": "10",
+            "offsetminutes": "360",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "d992b606-a2b2-4264-a2ec-5f5587cc943e"
+        },
+        {
+            "offsetid": "11",
+            "timezoneid": "11",
+            "offsetminutes": "360",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "267f78e8-8d0a-4a9d-aba1-1b452315b2ad"
+        },
+        {
+            "offsetid": "12",
+            "timezoneid": "12",
+            "offsetminutes": "360",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "23bf9ed2-04f5-4c3a-9539-f7215509d4a5"
+        },
+        {
+            "offsetid": "13",
+            "timezoneid": "13",
+            "offsetminutes": "399",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "d0724610-ac79-42cd-847b-9432ccc000cf"
+        },
+        {
+            "offsetid": "14",
+            "timezoneid": "14",
+            "offsetminutes": "300",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "5ed2dbfb-db02-4526-a526-9ce406cd406b"
+        },
+        {
+            "offsetid": "15",
+            "timezoneid": "15",
+            "offsetminutes": "300",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "2b3f023a-f0ec-4a10-a7c3-1565e64aba6b"
+        },
+        {
+            "offsetid": "16",
+            "timezoneid": "16",
+            "offsetminutes": "240",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "3706e906-32be-4b98-bc3d-68179accdb01"
+        },
+        {
+            "offsetid": "17",
+            "timezoneid": "17",
+            "offsetminutes": "240",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "b4cbe86e-9f90-4aae-bb47-aa0e5fad1765"
+        },
+        {
+            "offsetid": "18",
+            "timezoneid": "18",
+            "offsetminutes": "240",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "150d589c-38f9-4b83-bc72-408280badaab"
+        },
+        {
+            "offsetid": "19",
+            "timezoneid": "19",
+            "offsetminutes": "210",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "c06454eb-36ed-4d0f-819c-dd6136991bde"
+        },
+        {
+            "offsetid": "20",
+            "timezoneid": "20",
+            "offsetminutes": "180",
+            "startdate": "1 Jan 2000",
+            "startdatetimezoneid": "68",
+            "enddate": "1 Jan 2050",
+            "enddatetimezoneid": "68",
+            "guid": "ae755035-2c29-43d5-b1a2-5b8df120d0c9"
+        }
+    ]
+}

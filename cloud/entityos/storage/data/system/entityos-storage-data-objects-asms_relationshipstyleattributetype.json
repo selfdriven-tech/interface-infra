@@ -1,0 +1,64 @@
+{
+    "object": {
+        "name": "asms_relationshipstyleattributetype",
+        "id": "1979154096"
+    },
+    "data": [
+        {
+            "styleattributetypeid": "1",
+            "value": "Strength",
+            "providerid": "1",
+            "notes": "",
+            "guid": "8c77512d-7275-4b8c-9fd4-d75f12541ca2"
+        },
+        {
+            "styleattributetypeid": "2",
+            "value": "Weakness",
+            "providerid": "1",
+            "notes": "",
+            "guid": "7b3c371d-ee68-4dd0-93d5-76995e8f460c"
+        },
+        {
+            "styleattributetypeid": "3",
+            "value": "Tips - General",
+            "providerid": "1",
+            "notes": "",
+            "guid": "b1c54232-85c4-4f66-9d47-53459aec2b55"
+        },
+        {
+            "styleattributetypeid": "4",
+            "value": "Tips - Relating",
+            "providerid": "1",
+            "notes": "No Trust",
+            "guid": "977e26e3-6a88-4b11-9cc5-f9b0a5d654fd"
+        },
+        {
+            "styleattributetypeid": "5",
+            "value": "Tips - Discovering",
+            "providerid": "1",
+            "notes": "No Need",
+            "guid": "0ec3e5eb-833a-4fe1-af9d-4a3ca5fc54e2"
+        },
+        {
+            "styleattributetypeid": "6",
+            "value": "Tips - Advocating",
+            "providerid": "1",
+            "notes": "No Help",
+            "guid": "86621431-34d9-48ff-b505-41a046974354"
+        },
+        {
+            "styleattributetypeid": "7",
+            "value": "Tips - Supporting",
+            "providerid": "1",
+            "notes": "No Satisfaction",
+            "guid": "83fb77af-f74a-402a-a2da-91134dc12798"
+        },
+        {
+            "styleattributetypeid": "8",
+            "value": "Skill",
+            "providerid": "-1",
+            "notes": "",
+            "guid": "1af1ccb3-bcce-495d-bc32-dc27eaff8728"
+        }
+    ]
+}

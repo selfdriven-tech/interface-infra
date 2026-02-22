@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "aud_issuestatus",
+        "id": "1422628111"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "To Be Completed",
+            "guid": "4f206129-2bff-4a22-92c6-e91d104dc018"
+        },
+        {
+            "statusid": "2",
+            "value": "Completed",
+            "guid": "8d179cef-6124-4c77-aa55-ec3232ba78ad"
+        },
+        {
+            "statusid": "3",
+            "value": "Cancelled",
+            "guid": "64ce5c38-b794-4ade-9781-f8a879a9a0ed"
+        }
+    ]
+}

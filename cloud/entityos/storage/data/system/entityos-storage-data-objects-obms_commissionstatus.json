@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_commissionstatus",
+        "id": "742293704"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Enabled",
+            "guid": "f516b4f7-f113-4a25-8501-065b53af847c"
+        },
+        {
+            "statusid": "2",
+            "value": "Disabled",
+            "guid": "c027616f-501b-4eca-87a9-de008e6faf0d"
+        }
+    ]
+}

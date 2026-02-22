@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_financialaccountclass",
+        "id": "1689773077"
+    },
+    "data": [
+        {
+            "classid": "1",
+            "value": "Operations",
+            "guid": "2447aef9-aebc-415a-ab89-efec82f54b5e"
+        },
+        {
+            "classid": "2",
+            "value": "Other",
+            "guid": "90666e4c-17eb-4517-ba40-0f8e52647670"
+        },
+        {
+            "classid": "3",
+            "value": "Tax",
+            "guid": "eadebcd5-816c-4908-9789-08afb31988f0"
+        }
+    ]
+}

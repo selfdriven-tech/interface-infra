@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_credittype",
+        "id": "598293191"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "You owe Customer",
+            "guid": "618e4bc6-2a35-4f1f-a8ef-7a2d2d52b24b"
+        },
+        {
+            "typeid": "2",
+            "value": "Supplier owes You",
+            "guid": "6e00822c-0a65-47f8-9605-586736defab7"
+        }
+    ]
+}

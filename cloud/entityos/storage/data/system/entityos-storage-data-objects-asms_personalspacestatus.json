@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_personalspacestatus",
+        "id": "1271675578"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Show",
+            "guid": "3682e071-c8d9-4352-bb02-fe656a8e0b45"
+        },
+        {
+            "statusid": "2",
+            "value": "Don&#39;t Show",
+            "guid": "035fe1de-444c-47aa-9669-9c9798389397"
+        }
+    ]
+}

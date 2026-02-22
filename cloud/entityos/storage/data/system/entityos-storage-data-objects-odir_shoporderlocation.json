@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "odir_shoporderlocation",
+        "id": "1760061356"
+    },
+    "data": [
+        {
+            "shoporderlocationid": "1",
+            "description": "Do Not Show",
+            "guid": "03767061-2264-42e6-951c-fb3bdbf5aba5"
+        },
+        {
+            "shoporderlocationid": "2",
+            "description": "Left Hand Side",
+            "guid": "45eb9090-ff2a-4ba1-8512-2cfbcbaee3c5"
+        },
+        {
+            "shoporderlocationid": "3",
+            "description": "Right Hand Side",
+            "guid": "00310ba1-c053-49ef-8d0e-680b0d65f234"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "ofsms_factfinderbenefitperiod",
+        "id": "1152059190"
+    },
+    "data": [
+        {
+            "periodid": "1",
+            "value": "2 years",
+            "guid": "c40648f7-a516-4a6d-8378-7bb7ddf104ac"
+        },
+        {
+            "periodid": "2",
+            "value": "5 years",
+            "guid": "7a084b76-799b-4b83-9617-39689dc2c7ae"
+        },
+        {
+            "periodid": "3",
+            "value": "to age 55 years",
+            "guid": "e52e1311-9340-42c3-b1ba-0e3c1a26f15f"
+        },
+        {
+            "periodid": "4",
+            "value": "to age 60 years",
+            "guid": "20c94dc9-1f5a-43d6-a84e-ef2b6b46d681"
+        },
+        {
+            "periodid": "5",
+            "value": "to age 65 years",
+            "guid": "2b388ab6-44ec-4def-95fa-55e66df080e7"
+        }
+    ]
+}

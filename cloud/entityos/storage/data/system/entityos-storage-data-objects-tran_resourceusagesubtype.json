@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "tran_resourceusagesubtype",
+        "id": "539864990"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Operations",
+            "guid": "47fce930-e781-43db-9aa5-75359b22c80f"
+        },
+        {
+            "typeid": "2",
+            "title": "Fleet",
+            "guid": "8b12510c-009e-4905-b161-14c649815b71"
+        }
+    ]
+}

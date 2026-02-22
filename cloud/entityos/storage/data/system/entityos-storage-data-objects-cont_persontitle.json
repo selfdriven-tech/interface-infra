@@ -1,0 +1,48 @@
+{
+    "object": {
+        "name": "cont_persontitle",
+        "id": "1650104919"
+    },
+    "data": [
+        {
+            "persontitleid": "1",
+            "value": "Mr",
+            "guid": "e28e3728-893e-4308-80c2-f419ac9a6246"
+        },
+        {
+            "persontitleid": "2",
+            "value": "Mrs",
+            "guid": "94bbd713-b223-41e6-9a83-59665ec4df6b"
+        },
+        {
+            "persontitleid": "3",
+            "value": "Ms",
+            "guid": "cd35a360-0fae-4828-b6b6-58437a7c6646"
+        },
+        {
+            "persontitleid": "4",
+            "value": "Dr",
+            "guid": "e5170d1f-2b1d-4618-b5bb-bc2db017bf6c"
+        },
+        {
+            "persontitleid": "5",
+            "value": "Prof.",
+            "guid": "754a599c-1877-4ae2-b91e-da84c8541399"
+        },
+        {
+            "persontitleid": "6",
+            "value": "[NA]",
+            "guid": "bab3d2aa-7263-4534-88db-60e9f0111483"
+        },
+        {
+            "persontitleid": "7",
+            "value": "Rev.",
+            "guid": "5d203073-bb49-484a-8b8a-3ff3c90b47a5"
+        },
+        {
+            "persontitleid": "8",
+            "value": "Miss",
+            "guid": "3dab9755-9c3e-4a7a-9ae5-ea46299394c6"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "otms_detailrecordstatus",
+        "id": "115531495"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Unmatched",
+            "guid": "5c123af0-7e22-4abd-9a8c-1088989f6012"
+        },
+        {
+            "statusid": "2",
+            "value": "Matched",
+            "guid": "cfb357a7-8299-4ae0-acf5-ec48e4443d8f"
+        },
+        {
+            "statusid": "3",
+            "value": "Ignored",
+            "guid": "f1683f2e-7566-4803-8a7b-82e222bf9d11"
+        }
+    ]
+}

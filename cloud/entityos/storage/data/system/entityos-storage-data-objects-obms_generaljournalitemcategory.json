@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_generaljournalitemcategory",
+        "id": "1273771595"
+    },
+    "data": [
+        {
+            "categoryid": "1",
+            "title": "Revenue",
+            "guid": "984a68c6-d5fb-4409-bfe4-a9200ee19610"
+        },
+        {
+            "categoryid": "2",
+            "title": "Expense",
+            "guid": "f8dde339-a5b4-4c30-9d69-f839b879fb8d"
+        }
+    ]
+}

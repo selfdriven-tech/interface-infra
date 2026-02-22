@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "asms_dataaudittype",
+        "id": "1540616977"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Add",
+            "guid": "519b4fe4-4952-483a-8f4a-bcd90ea62bff"
+        },
+        {
+            "typeid": "2",
+            "title": "Modify",
+            "guid": "b4f97418-91f0-4919-98c6-5457a11ada6d"
+        },
+        {
+            "typeid": "3",
+            "title": "Remove",
+            "guid": "277b5b2a-b4b0-468f-b951-2afe8aa8fffc"
+        },
+        {
+            "typeid": "4",
+            "title": "Remove Request",
+            "guid": "cf3c5f0a-961f-47aa-9d14-99c6cbbe8765"
+        }
+    ]
+}

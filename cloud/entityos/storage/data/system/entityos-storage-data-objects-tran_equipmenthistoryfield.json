@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "tran_equipmenthistoryfield",
+        "id": "1080390918"
+    },
+    "data": [
+        {
+            "fieldid": "1",
+            "title": "Title",
+            "guid": "95de91d9-810b-4f66-97f9-3e4739ca553d"
+        },
+        {
+            "fieldid": "2",
+            "title": "Status",
+            "guid": "76230883-d9fd-41cf-a033-3b484bbe0789"
+        },
+        {
+            "fieldid": "3",
+            "title": "Base Depot",
+            "guid": "331bbe72-b28f-4400-ab7d-222cdba31867"
+        },
+        {
+            "fieldid": "4",
+            "title": "Notes",
+            "guid": "0f77eb99-1818-4f5f-8ffa-ab2f6f6a0388"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "ofsms_commissionpayment",
+        "id": "1264059589"
+    },
+    "data": [
+        {
+            "paymentid": "1",
+            "value": "Percentage",
+            "guid": "a54d8320-808d-4cc1-9ab0-cfb4b975750d"
+        },
+        {
+            "paymentid": "2",
+            "value": "Fixed Amount",
+            "guid": "2dab743a-4cbb-4a3c-b0dc-5f4b58495ce5"
+        }
+    ]
+}

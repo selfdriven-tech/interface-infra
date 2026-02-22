@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "asms_serverlogtype",
+        "id": "1468232681"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Review",
+            "guid": "f9ab7e47-11a6-4f6f-ae53-f5f91dba8146"
+        },
+        {
+            "typeid": "2",
+            "title": "Change",
+            "guid": "97896123-5d94-4076-87b9-def60250442f"
+        },
+        {
+            "typeid": "3",
+            "title": "Issue",
+            "guid": "bfd08d57-d8ce-46ac-9ad8-a7876310bce9"
+        },
+        {
+            "typeid": "4",
+            "title": "Alert",
+            "guid": "9283952c-1336-412d-8c2b-0179529aefcf"
+        },
+        {
+            "typeid": "5",
+            "title": "Other",
+            "guid": "360745ea-623d-42ca-a837-160c896a7902"
+        }
+    ]
+}

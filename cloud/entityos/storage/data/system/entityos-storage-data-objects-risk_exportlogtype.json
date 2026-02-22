@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "risk_exportlogtype",
+        "id": "458484712"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Started",
+            "guid": "676340f6-3374-4a96-941f-1f80cbf6cc93"
+        },
+        {
+            "typeid": "2",
+            "title": "Note",
+            "guid": "87efc6de-3121-496e-8704-daf44344b3df"
+        },
+        {
+            "typeid": "3",
+            "title": "Completed",
+            "guid": "6fff9788-2672-45b4-9a7a-3840065db830"
+        }
+    ]
+}

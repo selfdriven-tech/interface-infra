@@ -1,0 +1,68 @@
+{
+    "object": {
+        "name": "obms_productmeasure",
+        "id": "1357247890"
+    },
+    "data": [
+        {
+            "productmeasureid": "10",
+            "code": "DOZ",
+            "description": "Dozen",
+            "guid": "ab397d5e-22cd-4ce5-8399-e59eebc4328c"
+        },
+        {
+            "productmeasureid": "1",
+            "code": "EA",
+            "description": "Each",
+            "guid": "7c3bd11c-dce1-452f-af5a-a76ebbe11ac5"
+        },
+        {
+            "productmeasureid": "2",
+            "code": "PKT",
+            "description": "Packet",
+            "guid": "79f80e3e-1072-4ae3-b21b-d09849afe2a2"
+        },
+        {
+            "productmeasureid": "4",
+            "code": "BOX",
+            "description": "Box",
+            "guid": "719452d0-2bbf-409d-bb29-3bbc7e5a0bf3"
+        },
+        {
+            "productmeasureid": "5",
+            "code": "kg",
+            "description": "kg",
+            "guid": "d35418ba-9516-4afa-8c04-f9135572d289"
+        },
+        {
+            "productmeasureid": "6",
+            "code": "Thousand",
+            "description": "Thousand",
+            "guid": "c726c31b-916d-45b3-8139-1812e2107699"
+        },
+        {
+            "productmeasureid": "7",
+            "code": "Unit",
+            "description": "Unit",
+            "guid": "009d1fa1-955c-41c0-8d7c-83590c75ad7c"
+        },
+        {
+            "productmeasureid": "8",
+            "code": "Hour",
+            "description": "Hour",
+            "guid": "9436ae0f-57bc-48f7-94ce-833428f72be1"
+        },
+        {
+            "productmeasureid": "9",
+            "code": "PR",
+            "description": "Pair",
+            "guid": "d49879bc-5a7e-4468-a5f9-d810b6ee21c1"
+        },
+        {
+            "productmeasureid": "3",
+            "code": "M",
+            "description": "Metre",
+            "guid": "78736595-b9a2-478a-8d5c-2d7f9fd0dda7"
+        }
+    ]
+}

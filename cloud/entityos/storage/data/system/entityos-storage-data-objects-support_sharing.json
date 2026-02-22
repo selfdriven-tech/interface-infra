@@ -1,0 +1,32 @@
+{
+    "object": {
+        "name": "support_sharing",
+        "id": "36911203"
+    },
+    "data": [
+        {
+            "sharingid": "1",
+            "value": "Internal",
+            "notes": "",
+            "guid": "0d374f21-628c-4723-ace3-69e65ab38bf4"
+        },
+        {
+            "sharingid": "2",
+            "value": "An Advisor",
+            "notes": "",
+            "guid": "1d52d43e-9eb6-4320-9d9a-576e624e90d1"
+        },
+        {
+            "sharingid": "3",
+            "value": "Advisors Based on Type",
+            "notes": "",
+            "guid": "d1c95de4-5e7b-41df-b030-eb4323cbbffa"
+        },
+        {
+            "sharingid": "4",
+            "value": "Network Group",
+            "notes": "",
+            "guid": "1e5162c8-2dd5-45d2-b408-38bd2c4ff2b4"
+        }
+    ]
+}

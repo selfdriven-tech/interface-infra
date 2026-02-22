@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "risk_classinlineheadertype",
+        "id": "159040048"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Show No Entity Headers",
+            "notes": "",
+            "guid": "1e22eabe-e554-4cc6-929d-a9a888c2f519"
+        },
+        {
+            "typeid": "2",
+            "title": "Show Standard Entity Headers",
+            "notes": "",
+            "guid": "019ea009-9bd6-460c-ab12-55f2a256b39a"
+        }
+    ]
+}
