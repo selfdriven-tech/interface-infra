@@ -4,6 +4,17 @@
 {
   "Version": "2012-10-17",
   "Statement": [
+	{
+		"Sid": "RDSServiceLinkedRole",
+		"Effect": "Allow",
+		"Action": "iam:CreateServiceLinkedRole",
+		"Resource": "arn:aws:iam::*:role/aws-service-role/rds.amazonaws.com/*",
+		"Condition": {
+			"StringLike": {
+			"iam:AWSServiceName": "rds.amazonaws.com"
+			}
+		}
+	},
     {
       "Sid": "EC2ReadOnly",
       "Effect": "Allow",
@@ -219,6 +230,9 @@
 ```
 
 ### 2/ AURORA CREATE
+
+Create the AWSServiceRoleForRDS service-linked role required for RDS operations:
+- lambda-local -l index.js -t 9000 -e events/cloud-build/event-aws-iam-rds-service-linked-role-create.json
 
 - Use entityos-aws to create the:
 	- Aurora Cluster (u/p)
