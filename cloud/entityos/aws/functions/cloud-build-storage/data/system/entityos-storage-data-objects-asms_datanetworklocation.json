@@ -1,0 +1,104 @@
+{
+    "object": {
+        "name": "asms_datanetworklocation",
+        "id": "1316199739"
+    },
+    "data": [
+        {
+            "datanetworklocationid": "1",
+            "description": "Canberra",
+            "streetnumber": "",
+            "streetname": "",
+            "suburb": "",
+            "state": "",
+            "postcode": "",
+            "gpslatitude": "-35.28",
+            "gpslongitude": "149.22",
+            "guid": "25452bd0-c2c4-44d1-93b5-dce84c393bb1"
+        },
+        {
+            "datanetworklocationid": "2",
+            "description": "Perth",
+            "streetnumber": "",
+            "streetname": "",
+            "suburb": "",
+            "state": "",
+            "postcode": "",
+            "gpslatitude": "-31.93",
+            "gpslongitude": "115.83",
+            "guid": "f6cb7822-7630-4ea4-a74d-e8a59916dc36"
+        },
+        {
+            "datanetworklocationid": "3",
+            "description": "Melbourne",
+            "streetnumber": "",
+            "streetname": "",
+            "suburb": "",
+            "state": "",
+            "postcode": "",
+            "gpslatitude": "-37.82",
+            "gpslongitude": "144.97",
+            "guid": "bc51ab30-018d-4218-b6c9-fe14b4ffdfb1"
+        },
+        {
+            "datanetworklocationid": "4",
+            "description": "Sydney",
+            "streetnumber": "",
+            "streetname": "",
+            "suburb": "",
+            "state": "",
+            "postcode": "",
+            "gpslatitude": "-33.88",
+            "gpslongitude": "151.22",
+            "guid": "b881b6dd-27d6-4562-829d-b519ac392b0e"
+        },
+        {
+            "datanetworklocationid": "5",
+            "description": "Brisbane",
+            "streetnumber": "",
+            "streetname": "",
+            "suburb": "",
+            "state": "",
+            "postcode": "",
+            "gpslatitude": "-27.50",
+            "gpslongitude": "153.02",
+            "guid": "c8c2d985-bb5a-4a82-9477-4e49198c0364"
+        },
+        {
+            "datanetworklocationid": "6",
+            "description": "Nhil",
+            "streetnumber": "",
+            "streetname": "",
+            "suburb": "",
+            "state": "",
+            "postcode": "",
+            "gpslatitude": "-36.18",
+            "gpslongitude": "141.40",
+            "guid": "f45f219a-4c6d-45f6-9ce4-b2305c2105ed"
+        },
+        {
+            "datanetworklocationid": "7",
+            "description": "Bordertown",
+            "streetnumber": "",
+            "streetname": "",
+            "suburb": "",
+            "state": "",
+            "postcode": "",
+            "gpslatitude": "-36.32",
+            "gpslongitude": "140.77",
+            "guid": "42578faf-47a0-4841-910a-1639d5c7e5a6"
+        },
+        {
+            "datanetworklocationid": "8",
+            "description": "Tarcutta",
+            "streetnumber": "",
+            "streetname": "",
+            "suburb": "",
+            "state": "",
+            "postcode": "",
+            "gpslatitude": "-35.28",
+            "gpslongitude": "147.72",
+            "guid": "12fe20ae-548e-41ff-9f75-06e0a3404b46"
+        }
+    ]
+}

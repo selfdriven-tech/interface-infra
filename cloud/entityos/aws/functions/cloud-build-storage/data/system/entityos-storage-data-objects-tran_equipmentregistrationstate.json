@@ -1,0 +1,53 @@
+{
+    "object": {
+        "name": "tran_equipmentregistrationstate",
+        "id": "744389721"
+    },
+    "data": [
+        {
+            "stateid": "1",
+            "title": "National",
+            "guid": "6d90fb51-a376-4a0b-afaa-ac2709de1e17"
+        },
+        {
+            "stateid": "2",
+            "title": "NSW",
+            "guid": "87928087-25cb-461f-acf4-184d02df72c8"
+        },
+        {
+            "stateid": "3",
+            "title": "Qld",
+            "guid": "c6ccc4e8-740b-41e6-969c-76d362a3e7e8"
+        },
+        {
+            "stateid": "4",
+            "title": "Vic",
+            "guid": "8c634903-0cd9-4942-bbbd-a431cca14623"
+        },
+        {
+            "stateid": "5",
+            "title": "Tas",
+            "guid": "6481c09b-ca8d-471f-af66-4dff5437b161"
+        },
+        {
+            "stateid": "6",
+            "title": "SA",
+            "guid": "64f2b11e-3cbf-4e8d-9f2f-dc9fcebeb654"
+        },
+        {
+            "stateid": "7",
+            "title": "WA",
+            "guid": "325c60c6-e9e2-41b9-901f-dc4dd446bd0b"
+        },
+        {
+            "stateid": "8",
+            "title": "NT",
+            "guid": "51d45491-b46b-4d01-9676-6ed4ee79cc0e"
+        },
+        {
+            "stateid": "9",
+            "title": "ACT",
+            "guid": "48eee55b-bc35-4a5f-8a50-4ab90ea7abf3"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "risk_conditionstatus",
+        "id": "1052335309"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Enabled",
+            "notes": "",
+            "guid": "8a8d7fe2-3055-4ea0-81b5-6d4f2f5e11f1"
+        },
+        {
+            "statusid": "2",
+            "title": "Disabled",
+            "notes": "",
+            "guid": "00253483-fbfe-4fd5-a4c0-ff0d58c11c2b"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "otms_automatemaptotype",
+        "id": "275532065"
+    },
+    "data": [
+        {
+            "automatemaptotypeid": "1",
+            "description": "Transaction Code",
+            "guid": "b97e0934-ada8-47fd-8e85-8bc107d92d4c"
+        },
+        {
+            "automatemaptotypeid": "2",
+            "description": "Financial Account",
+            "guid": "25860f4f-1b9f-4646-a170-bce021517d22"
+        }
+    ]
+}

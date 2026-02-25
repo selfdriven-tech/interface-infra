@@ -1,0 +1,128 @@
+{
+    "object": {
+        "name": "asms_membershipproviderservice",
+        "id": "1911677858"
+    },
+    "data": [
+        {
+            "membershipproviderserviceid": "2",
+            "membership": "13",
+            "providerservice": "7",
+            "guid": "66d3eb05-cc1a-47e7-b60d-66f5ae800c30"
+        },
+        {
+            "membershipproviderserviceid": "3",
+            "membership": "2",
+            "providerservice": "6",
+            "guid": "9ce3e397-2cfe-436d-92f8-18485b5ebbb3"
+        },
+        {
+            "membershipproviderserviceid": "4",
+            "membership": "2",
+            "providerservice": "5",
+            "guid": "12c31cb8-e5e0-42f0-ab1c-951a654194db"
+        },
+        {
+            "membershipproviderserviceid": "5",
+            "membership": "3",
+            "providerservice": "5",
+            "guid": "b16f3585-e384-4f65-bc68-a60032fee4bd"
+        },
+        {
+            "membershipproviderserviceid": "6",
+            "membership": "4",
+            "providerservice": "5",
+            "guid": "2c14cabf-8aff-4d31-b8b3-4063f8bfc136"
+        },
+        {
+            "membershipproviderserviceid": "7",
+            "membership": "6",
+            "providerservice": "5",
+            "guid": "47c39f39-28f2-4c24-8907-feb72691c137"
+        },
+        {
+            "membershipproviderserviceid": "8",
+            "membership": "10",
+            "providerservice": "8",
+            "guid": "52c28397-827d-4f12-8a0b-8abede3f1079"
+        },
+        {
+            "membershipproviderserviceid": "9",
+            "membership": "9",
+            "providerservice": "8",
+            "guid": "387e516a-a155-4c25-9707-b30e83e9ebb2"
+        },
+        {
+            "membershipproviderserviceid": "10",
+            "membership": "21",
+            "providerservice": "9",
+            "guid": "e9aca5b6-3d9b-4702-b747-e92ab7d83844"
+        },
+        {
+            "membershipproviderserviceid": "11",
+            "membership": "24",
+            "providerservice": "7",
+            "guid": "7168eb51-6b50-4e99-866f-4eaeb6795832"
+        },
+        {
+            "membershipproviderserviceid": "12",
+            "membership": "25",
+            "providerservice": "10",
+            "guid": "78ee1528-ed55-43a4-bb0f-d15b48f8af37"
+        },
+        {
+            "membershipproviderserviceid": "13",
+            "membership": "27",
+            "providerservice": "11",
+            "guid": "7beeafd9-c866-4d82-86a5-7a664f3a8b31"
+        },
+        {
+            "membershipproviderserviceid": "14",
+            "membership": "30",
+            "providerservice": "12",
+            "guid": "d4bd57f8-9c6e-435c-8b4b-905ba9c50000"
+        },
+        {
+            "membershipproviderserviceid": "15",
+            "membership": "33",
+            "providerservice": "13",
+            "guid": "cf58ef4c-8d63-4f0d-9eb1-ec6ca987744a"
+        },
+        {
+            "membershipproviderserviceid": "16",
+            "membership": "34",
+            "providerservice": "13",
+            "guid": "e9a6f00e-1868-4e6f-b73b-fb1ae9c2b2f4"
+        },
+        {
+            "membershipproviderserviceid": "17",
+            "membership": "35",
+            "providerservice": "14",
+            "guid": "39fd0b85-56a3-4bae-b7bb-bd04fa321150"
+        },
+        {
+            "membershipproviderserviceid": "18",
+            "membership": "35",
+            "providerservice": "15",
+            "guid": "95e8d7f4-8c5e-4178-a1a5-dd0c538a1e0b"
+        },
+        {
+            "membershipproviderserviceid": "19",
+            "membership": "38",
+            "providerservice": "14",
+            "guid": "9bd3dd90-d3d1-4ce0-841a-bbbe6a4137f0"
+        },
+        {
+            "membershipproviderserviceid": "20",
+            "membership": "39",
+            "providerservice": "16",
+            "guid": "744cdb3f-6523-4394-a5e7-42031c6de2b9"
+        },
+        {
+            "membershipproviderserviceid": "21",
+            "membership": "42",
+            "providerservice": "18",
+            "guid": "d6fb1e0a-8893-406b-b1b1-73fbf0f09ff7"
+        }
+    ]
+}

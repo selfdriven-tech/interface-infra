@@ -1,0 +1,40 @@
+{
+    "object": {
+        "name": "obms_basfrequency",
+        "id": "1734297238"
+    },
+    "data": [
+        {
+            "frequencyid": "1",
+            "title": "Monthly",
+            "gstavailable": "Y",
+            "ewtavailable": "Y",
+            "btiavailable": "N",
+            "guid": "5ab4ba61-44c7-451d-a890-3bb838e1a589"
+        },
+        {
+            "frequencyid": "2",
+            "title": "Quarterly",
+            "gstavailable": "Y",
+            "ewtavailable": "Y",
+            "btiavailable": "Y",
+            "guid": "dcae63b8-204b-4115-95fb-fc9c6f53f0b4"
+        },
+        {
+            "frequencyid": "3",
+            "title": "Yearly",
+            "gstavailable": "Y",
+            "ewtavailable": "N",
+            "btiavailable": "N",
+            "guid": "0a55da91-e428-46ef-a2b9-312a5c3593b3"
+        },
+        {
+            "frequencyid": "4",
+            "title": "Never",
+            "gstavailable": "Y",
+            "ewtavailable": "Y",
+            "btiavailable": "Y",
+            "guid": "29371428-1062-4f51-8aab-ae5087c4caf5"
+        }
+    ]
+}

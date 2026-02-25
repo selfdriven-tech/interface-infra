@@ -1,0 +1,56 @@
+{
+    "object": {
+        "name": "asms_sitetheme",
+        "id": "507148852"
+    },
+    "data": [
+        {
+            "sitethemeid": "1",
+            "title": "Light Blue",
+            "colourcode": "LightBlue",
+            "guid": "18b38004-052b-4c06-b649-49d47a0a1f5b"
+        },
+        {
+            "sitethemeid": "2",
+            "title": "Dark Blue",
+            "colourcode": "DarkBlue",
+            "guid": "64bc9453-0bed-4991-bc30-29a368a2fd3d"
+        },
+        {
+            "sitethemeid": "3",
+            "title": "Light Green",
+            "colourcode": "LightGreen",
+            "guid": "139330d9-1060-4c80-9e99-2c962fe680af"
+        },
+        {
+            "sitethemeid": "4",
+            "title": "Dark Green",
+            "colourcode": "DarkGreen",
+            "guid": "d1bb9a5c-309c-47de-8e3e-5d8c773af2b8"
+        },
+        {
+            "sitethemeid": "5",
+            "title": "Light Red",
+            "colourcode": "LightRed",
+            "guid": "f3294853-3b64-4409-91df-27a157138912"
+        },
+        {
+            "sitethemeid": "6",
+            "title": "Dark Red",
+            "colourcode": "DarkRed",
+            "guid": "5cef5665-c2f7-4276-8a61-ecf5616dbb48"
+        },
+        {
+            "sitethemeid": "7",
+            "title": "Dark Purple",
+            "colourcode": "DarkPurple",
+            "guid": "65c3608c-4132-48d8-a412-ff22ca2cec25"
+        },
+        {
+            "sitethemeid": "8",
+            "title": "Mustard",
+            "colourcode": "Mustard",
+            "guid": "cca61ea3-d895-4e5d-be33-7646ab030f2b"
+        }
+    ]
+}

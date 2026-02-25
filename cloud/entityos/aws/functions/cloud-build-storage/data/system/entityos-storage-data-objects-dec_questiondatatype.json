@@ -1,0 +1,43 @@
+{
+    "object": {
+        "name": "dec_questiondatatype",
+        "id": "530100929"
+    },
+    "data": [
+        {
+            "datatypeid": "1",
+            "title": "Text - Multi Line",
+            "guid": "3f7ee687-4833-44fd-b77a-6f7acb190d66"
+        },
+        {
+            "datatypeid": "2",
+            "title": "Select / Choice",
+            "guid": "749df736-42d5-4c91-baeb-4c714225621b"
+        },
+        {
+            "datatypeid": "3",
+            "title": "Date",
+            "guid": "ce68bfb1-98c4-4da1-b4fd-0776e1c8b451"
+        },
+        {
+            "datatypeid": "4",
+            "title": "Text - Single Line",
+            "guid": "b81cad39-0d36-4067-9a53-2b186fd7fedb"
+        },
+        {
+            "datatypeid": "5",
+            "title": "Numeric",
+            "guid": "361834d0-027e-4c3b-8d13-5d1c4bb21793"
+        },
+        {
+            "datatypeid": "6",
+            "title": "Multi Select / Choice",
+            "guid": "3911ea1b-a98a-42c7-8272-fda115d0b632"
+        },
+        {
+            "datatypeid": "7",
+            "title": "DateTime",
+            "guid": "91279ab5-4257-4592-bdff-4b1a270ab27a"
+        }
+    ]
+}

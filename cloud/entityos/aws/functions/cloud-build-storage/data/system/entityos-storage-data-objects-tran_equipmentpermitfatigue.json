@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "tran_equipmentpermitfatigue",
+        "id": "936390405"
+    },
+    "data": [
+        {
+            "fatigueid": "1",
+            "title": "Basic (14hr)",
+            "guid": "409da19d-4e72-4afd-bd2c-d4f831b1bed9"
+        },
+        {
+            "fatigueid": "2",
+            "title": "Standard (12hr)",
+            "guid": "7550c234-7977-4be1-9fab-5e126b3d9869"
+        },
+        {
+            "fatigueid": "3",
+            "title": "Advanced",
+            "guid": "7460659b-66b5-4671-8c9d-70b1ddd79ce7"
+        },
+        {
+            "fatigueid": "4",
+            "title": "N/A",
+            "guid": "eade4742-2899-4779-bad2-7eecf7c659cf"
+        }
+    ]
+}

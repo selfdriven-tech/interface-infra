@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "dash_location",
+        "id": "1010102639"
+    },
+    "data": [
+        {
+            "locationid": "1",
+            "title": "Dashboard Browser",
+            "guid": "6db521bc-7802-4861-b6dd-7c9550835f01"
+        },
+        {
+            "locationid": "2",
+            "title": "My Start Page",
+            "guid": "f92291eb-5c00-4a5d-8067-8329d876a974"
+        },
+        {
+            "locationid": "3",
+            "title": "Side Bar - Alerts",
+            "guid": "494c0a54-a072-4d22-900c-ed5d3a7c9504"
+        },
+        {
+            "locationid": "4",
+            "title": "Express",
+            "guid": "e7b07ab6-da4f-4d8f-9a19-56d2016e3b26"
+        },
+        {
+            "locationid": "5",
+            "title": "Daily News Alert",
+            "guid": "6ffcf6c7-4358-4a9c-b3bc-2248fd167f6f"
+        }
+    ]
+}

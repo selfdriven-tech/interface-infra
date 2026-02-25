@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "cont_actionrecurringtype",
+        "id": "942886676"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "No",
+            "guid": "4f73ec5d-36cf-4240-b834-e697670ad436"
+        },
+        {
+            "typeid": "2",
+            "title": "Monthly",
+            "guid": "47a9ea25-b4f8-46cd-9712-a36111325331"
+        },
+        {
+            "typeid": "3",
+            "title": "Quarterly",
+            "guid": "8d779265-ecd5-4938-b0ff-77dc69d71d40"
+        },
+        {
+            "typeid": "4",
+            "title": "Annually",
+            "guid": "010cfe6b-2593-4afc-b3f6-197d92b655b7"
+        },
+        {
+            "typeid": "5",
+            "title": "Automatically generated",
+            "guid": "b5c783d6-37c9-4ae9-842e-23af86c571be"
+        }
+    ]
+}

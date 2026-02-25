@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "tran_offsetlevytype",
+        "id": "1531868524"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Percentage",
+            "guid": "c3739d8f-c144-4dad-8a54-69a3f5d3355d"
+        },
+        {
+            "typeid": "2",
+            "title": "Flat Fee",
+            "guid": "0eb5ec81-45f3-499c-aca4-47178cecfc49"
+        }
+    ]
+}

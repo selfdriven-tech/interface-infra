@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_businessrequestresponseformat",
+        "id": "1126295072"
+    },
+    "data": [
+        {
+            "responseformatid": "1",
+            "title": "[Basic Information &amp; Link]",
+            "guid": "b39e7f26-1836-48b9-adbb-69a8984577ea"
+        },
+        {
+            "responseformatid": "2",
+            "title": "Full Information &amp; Link",
+            "guid": "11f55cb0-02fd-479c-8daf-4ff3f9caf0de"
+        },
+        {
+            "responseformatid": "3",
+            "title": "Full Information &amp; No Link",
+            "guid": "d4010e89-f7c8-4271-b8af-c5565a735965"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "ofsms_factfindercommissionreferraltype",
+        "id": "1088058962"
+    },
+    "data": [
+        {
+            "referraltypeid": "1",
+            "description": "Initial and Servicing",
+            "guid": "7a306087-0de1-4b3c-9cd0-bff58e829649"
+        },
+        {
+            "referraltypeid": "2",
+            "description": "Initial Only",
+            "guid": "3cc52c41-bd18-4ff2-88a2-336c0786e4df"
+        },
+        {
+            "referraltypeid": "3",
+            "description": "Flat Fee",
+            "guid": "5e6fac94-41f9-4e0a-96ba-231b0fb9a89b"
+        }
+    ]
+}

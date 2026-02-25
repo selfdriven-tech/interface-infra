@@ -1,0 +1,14 @@
+{
+    "object": {
+        "name": "asms_templateconfig",
+        "id": "379148396"
+    },
+    "data": [
+        {
+            "templateconfigid": "1",
+            "title": "Config",
+            "notes": "Note: There should only be one of these records.  It is used to attach standard template images",
+            "guid": "34d632e8-8d03-48c6-bae7-57ddcdbba451"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "asms_servertype",
+        "id": "1915153868"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Database Service",
+            "guid": "b162522c-1b29-4a92-96a5-9858ef6d63d1"
+        },
+        {
+            "typeid": "2",
+            "title": "Application Service",
+            "guid": "6571fac7-2365-413a-ab5b-688223159015"
+        },
+        {
+            "typeid": "3",
+            "title": "Secure File/Attachment Service",
+            "guid": "020f2a75-fa95-46c9-8ea4-bccaed6fbc62"
+        },
+        {
+            "typeid": "4",
+            "title": "Public File/Attachment Service",
+            "guid": "d9465feb-0c81-47c0-95cd-35e299a63949"
+        },
+        {
+            "typeid": "5",
+            "title": "Website File/Attachment Service",
+            "guid": "a0c6758a-31d6-4a20-9933-17be22a4db6b"
+        },
+        {
+            "typeid": "6",
+            "title": "Load Balancer",
+            "guid": "af397efe-7eae-4636-8fb2-3a87a025d594"
+        }
+    ]
+}

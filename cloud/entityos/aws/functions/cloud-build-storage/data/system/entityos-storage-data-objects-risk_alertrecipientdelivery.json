@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "risk_alertrecipientdelivery",
+        "id": "1818489557"
+    },
+    "data": [
+        {
+            "deliveryid": "1",
+            "title": "Warning",
+            "guid": "44d921bd-3b35-4e46-a634-466df4353ab9"
+        },
+        {
+            "deliveryid": "2",
+            "title": "Email",
+            "guid": "5dda5014-9bf5-4393-aca4-3039c52166df"
+        },
+        {
+            "deliveryid": "3",
+            "title": "Activity",
+            "guid": "75795e1e-37d0-4244-94d5-e3ad89e972d7"
+        }
+    ]
+}

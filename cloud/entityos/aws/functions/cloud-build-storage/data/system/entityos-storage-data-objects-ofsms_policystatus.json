@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "ofsms_policystatus",
+        "id": "1715537195"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Active",
+            "guid": "d151142c-2580-45db-82f6-46054cd8f5ac"
+        },
+        {
+            "statusid": "2",
+            "value": "Inactive",
+            "guid": "3138bc05-c0cd-4ddf-ac36-b60b3d2265d0"
+        },
+        {
+            "statusid": "3",
+            "value": "In Suspense",
+            "guid": "2ee710e7-aa6a-4eba-9276-14f41fcf6f1d"
+        },
+        {
+            "statusid": "4",
+            "value": "Terminated/Cancelled",
+            "guid": "8e47f589-08fa-487b-aa74-05cb39d8c837"
+        }
+    ]
+}

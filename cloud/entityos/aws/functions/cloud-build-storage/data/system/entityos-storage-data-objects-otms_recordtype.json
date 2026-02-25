@@ -1,0 +1,93 @@
+{
+    "object": {
+        "name": "otms_recordtype",
+        "id": "2039014345"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Credit",
+            "guid": "3e527e3c-d839-44af-ae04-2ccbfdcad2ea"
+        },
+        {
+            "typeid": "2",
+            "value": "Debit",
+            "guid": "74034e97-e135-4b8d-9871-5243e8040577"
+        },
+        {
+            "typeid": "3",
+            "value": "Int",
+            "guid": "fb008e93-a95c-4d3a-afb8-3fe9b1ef90f7"
+        },
+        {
+            "typeid": "4",
+            "value": "Div",
+            "guid": "4d222f29-a471-4731-b1ab-b06cbfcad478"
+        },
+        {
+            "typeid": "5",
+            "value": "Fee",
+            "guid": "7315002f-9332-4f0e-8b57-bb99f6d2563c"
+        },
+        {
+            "typeid": "6",
+            "value": "SrvChg",
+            "guid": "3e97c757-6165-49bb-9f7f-2d04f559c432"
+        },
+        {
+            "typeid": "7",
+            "value": "Dep",
+            "guid": "fd380e62-56d9-4c16-b8a6-c0f1f36fb74c"
+        },
+        {
+            "typeid": "8",
+            "value": "ATM",
+            "guid": "a3215d6f-2106-4faa-973f-1439c7f904ce"
+        },
+        {
+            "typeid": "9",
+            "value": "POS",
+            "guid": "9b07a481-c343-4ca3-9059-ab8d027f8f49"
+        },
+        {
+            "typeid": "10",
+            "value": "XFer",
+            "guid": "c54ca31a-f913-4f8c-b889-07d88c8c273a"
+        },
+        {
+            "typeid": "11",
+            "value": "Cheque",
+            "guid": "e6a50e16-18b2-4eaa-a691-fb473ac74cbd"
+        },
+        {
+            "typeid": "12",
+            "value": "Payment",
+            "guid": "b0290122-bce5-459d-ae77-8b7a914dfaaa"
+        },
+        {
+            "typeid": "13",
+            "value": "Cadh",
+            "guid": "ed7d7640-f8ff-4a19-9d90-8ab9e1265dea"
+        },
+        {
+            "typeid": "14",
+            "value": "Direct Deposit",
+            "guid": "5de1e35c-74f9-4549-90d9-a1bb958f8a9d"
+        },
+        {
+            "typeid": "15",
+            "value": "Direct Debit",
+            "guid": "022cf3f0-8e9a-499c-99ac-2e711a7e3887"
+        },
+        {
+            "typeid": "16",
+            "value": "Repeat Payment",
+            "guid": "6d9c2baa-137d-429c-b91d-13b527af85a9"
+        },
+        {
+            "typeid": "17",
+            "value": "Other",
+            "guid": "e160228d-1594-449c-9387-c4fbe9864d54"
+        }
+    ]
+}

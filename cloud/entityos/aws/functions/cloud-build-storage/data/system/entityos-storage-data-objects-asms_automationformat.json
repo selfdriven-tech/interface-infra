@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_automationformat",
+        "id": "1828201563"
+    },
+    "data": [
+        {
+            "formatid": "1",
+            "title": "HTML",
+            "guid": "58a96a80-1557-4ced-88c2-7fbed80a4539"
+        },
+        {
+            "formatid": "2",
+            "title": "PDF",
+            "guid": "5800e273-0992-41d4-b8f2-712a8d622a26"
+        }
+    ]
+}

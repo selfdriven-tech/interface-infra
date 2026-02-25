@@ -1,0 +1,58 @@
+{
+    "object": {
+        "name": "pay_leavetype",
+        "id": "1703013148"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Annual",
+            "guid": "47614cdb-3b1c-4e02-8d38-1a465fa2d709"
+        },
+        {
+            "typeid": "2",
+            "title": "Sick",
+            "guid": "8639693f-4c5d-46ca-9b48-b3004d45a036"
+        },
+        {
+            "typeid": "3",
+            "title": "Long Service",
+            "guid": "15d216bb-16c6-48e8-bfa1-2c922727a48f"
+        },
+        {
+            "typeid": "4",
+            "title": "Leave Without Pay",
+            "guid": "eb4a7264-373e-4a61-8342-acdbd1d2861a"
+        },
+        {
+            "typeid": "5",
+            "title": "Cash Out",
+            "guid": "ac0f33d6-6bb5-4bcf-a885-719a8c2c20d4"
+        },
+        {
+            "typeid": "6",
+            "title": "Unused Leave On Termination",
+            "guid": "14a63cde-cd49-4822-842b-f2c4035a94c1"
+        },
+        {
+            "typeid": "7",
+            "title": "Parental",
+            "guid": "b5faabbb-c83b-474d-bedb-38232367f413"
+        },
+        {
+            "typeid": "8",
+            "title": "Workers Compensation",
+            "guid": "7cab64ed-15c0-404d-8cf2-07455a25d821"
+        },
+        {
+            "typeid": "9",
+            "title": "Ancillary &amp; Defence Leave",
+            "guid": "8b12847c-5227-4319-a20a-9e20e92a895e"
+        },
+        {
+            "typeid": "10",
+            "title": "Other",
+            "guid": "3d3b127c-3e4e-48bc-aeb6-c80a579817d7"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "tran_manifeststatus",
+        "id": "1675869037"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "In Progress",
+            "guid": "0e402304-1dc8-4928-be1c-cb234cf77a70"
+        },
+        {
+            "statusid": "2",
+            "title": "Completed",
+            "guid": "c4d2b0cd-4719-49aa-b096-9ee6cbfba01f"
+        }
+    ]
+}

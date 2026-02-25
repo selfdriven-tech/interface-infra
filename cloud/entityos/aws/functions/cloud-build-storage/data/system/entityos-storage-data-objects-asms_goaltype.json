@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_goaltype",
+        "id": "1140199112"
+    },
+    "data": [
+        {
+            "goaltypeid": "1",
+            "value": "Business",
+            "guid": "b5af6688-e844-465e-89f9-756dce8c0c13"
+        },
+        {
+            "goaltypeid": "2",
+            "value": "Personal",
+            "guid": "02ea7459-2127-4cdd-aa00-8575d843faa3"
+        }
+    ]
+}

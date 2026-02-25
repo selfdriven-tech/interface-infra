@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "edu_trn_paymentstatus",
+        "id": "949578421"
+    },
+    "data": [
+        {
+            "paymentstatusid": "1",
+            "value": "No Payment",
+            "guid": "2324350c-31f9-41be-8a96-c34d594886e4"
+        },
+        {
+            "paymentstatusid": "2",
+            "value": "Deposit Paid",
+            "guid": "e1ee58a8-a220-4124-8f04-5a17a4da3a07"
+        },
+        {
+            "paymentstatusid": "3",
+            "value": "Paid In Full",
+            "guid": "ab805e75-c8f7-4c7f-a3ce-d5c28e255135"
+        }
+    ]
+}

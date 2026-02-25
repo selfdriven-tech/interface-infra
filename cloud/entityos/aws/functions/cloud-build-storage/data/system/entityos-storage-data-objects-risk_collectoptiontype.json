@@ -1,0 +1,92 @@
+{
+    "object": {
+        "name": "risk_collectoptiontype",
+        "id": "1066486878"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Add New Site",
+            "displayorder": "1",
+            "guid": "7151590d-e82d-47d0-a391-f2d8b18acd4d",
+            "reference": "1"
+        },
+        {
+            "typeid": "2",
+            "title": "Site Search",
+            "displayorder": "2",
+            "guid": "a96eb81d-2280-487f-b839-2b5e4f709fe5",
+            "reference": "2"
+        },
+        {
+            "typeid": "3",
+            "title": "Entity Search",
+            "displayorder": "3",
+            "guid": "69c71656-d27b-457d-afd1-b14797f120eb",
+            "reference": "3"
+        },
+        {
+            "typeid": "4",
+            "title": "Add New Entity",
+            "displayorder": "4",
+            "guid": "5689b6e3-44be-4ddf-926f-6b5d8ea23ca9",
+            "reference": "4"
+        },
+        {
+            "typeid": "5",
+            "title": "Delegate Questions",
+            "displayorder": "5",
+            "guid": "6ff331ad-111b-4a9d-aaf1-421503b49265",
+            "reference": "5"
+        },
+        {
+            "typeid": "6",
+            "title": "Add New User",
+            "displayorder": "6",
+            "guid": "13f17e34-e7e8-48fd-8eca-e8653b7c2103",
+            "reference": "6"
+        },
+        {
+            "typeid": "7",
+            "title": "Entity Report",
+            "displayorder": "8",
+            "guid": "5ea4472b-bb53-4ae5-8c37-bbb3ca14b58a",
+            "reference": "7"
+        },
+        {
+            "typeid": "8",
+            "title": "Edit User Details",
+            "displayorder": "7",
+            "guid": "9e724033-115b-4e68-a323-2b0e88569f71",
+            "reference": "8"
+        },
+        {
+            "typeid": "9",
+            "title": "Entity Delegation Report",
+            "displayorder": "9",
+            "guid": "7e104462-1129-4a51-9c33-ce7c3e96dec4",
+            "reference": "9"
+        },
+        {
+            "typeid": "10",
+            "title": "Entity Attachment Report",
+            "displayorder": "10",
+            "guid": "e4918a74-789e-4fbe-9eb0-4be44d862463",
+            "reference": "10"
+        },
+        {
+            "typeid": "11",
+            "title": "Site Attachment Report",
+            "displayorder": "11",
+            "guid": "2bdd84ba-a30f-4137-92ba-59b9eca247a6",
+            "reference": "11"
+        },
+        {
+            "typeid": "12",
+            "title": "Alerts Report",
+            "displayorder": "12",
+            "guid": "644cd274-0e1e-4bea-89bc-50b56b2069da",
+            "reference": "12"
+        }
+    ]
+}

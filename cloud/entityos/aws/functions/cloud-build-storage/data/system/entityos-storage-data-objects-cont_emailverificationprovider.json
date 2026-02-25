@@ -1,0 +1,16 @@
+{
+    "object": {
+        "name": "cont_emailverificationprovider",
+        "id": "469680821"
+    },
+    "data": [
+        {
+            "providerid": "1",
+            "title": "BriteVerification"
+        },
+        {
+            "providerid": "2",
+            "title": "Internal"
+        }
+    ]
+}

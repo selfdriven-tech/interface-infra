@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "risk_entityschedulestatus",
+        "id": "714485624"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Not Started",
+            "description": "",
+            "guid": "96b9dde3-8351-484d-a9a5-f7387ce05fa0"
+        },
+        {
+            "statusid": "2",
+            "title": "Part Completed",
+            "description": "",
+            "guid": "ba2565eb-46c2-497f-b635-d3b0847677b1"
+        },
+        {
+            "statusid": "3",
+            "title": "Completed",
+            "description": "",
+            "guid": "517bd911-9044-4d24-8eb9-8969d92c44e4"
+        },
+        {
+            "statusid": "4",
+            "title": "Completed and Checked",
+            "description": "",
+            "guid": "98947b9b-e829-40f5-ae32-283167bd3e4f"
+        },
+        {
+            "statusid": "5",
+            "title": "Completed by Delegate",
+            "description": "",
+            "guid": "ed12ee49-5741-4c28-99c4-0a5fbefc9a0f"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "aud_auditremotecomponenttype",
+        "id": "968090935"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Remote Only",
+            "notes": "",
+            "guid": "7bc43fbc-08f0-4ff9-ad48-9b2a4d3bac41"
+        },
+        {
+            "typeid": "2",
+            "title": "Remote and On-Site",
+            "notes": "",
+            "guid": "cac0e857-2e35-4e13-9f11-3115ba063bfd"
+        },
+        {
+            "typeid": "3",
+            "title": "On Site Only",
+            "notes": "",
+            "guid": "26dcd621-2934-4745-af9c-47b2802eec4a"
+        }
+    ]
+}

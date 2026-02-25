@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "ref_referralprocessstatustype",
+        "id": "215007847"
+    },
+    "data": [
+        {
+            "statustypeid": "1",
+            "title": "Call Answered",
+            "guid": "22c689b1-816b-4e87-ad65-3ef282d8d636"
+        },
+        {
+            "statustypeid": "2",
+            "title": "Call Not Answered",
+            "guid": "f9b891a2-4971-407f-a5d5-aba1313c2079"
+        },
+        {
+            "statustypeid": "3",
+            "title": "[Not Set]",
+            "guid": "e70f58e3-93c7-478d-983b-b9b4e8da9b35"
+        }
+    ]
+}

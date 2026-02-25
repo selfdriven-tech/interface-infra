@@ -1,0 +1,74 @@
+{
+    "object": {
+        "name": "tran_variabletype",
+        "id": "43863223"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Commercial Adjustment",
+            "reference": "1",
+            "guid": "4047df17-666b-4a83-9234-5d8825882c44"
+        },
+        {
+            "typeid": "2",
+            "title": "Volume Adjustment",
+            "reference": "2",
+            "guid": "ee7025b1-c54f-4e8d-ace3-ff48dc45d6c7"
+        },
+        {
+            "typeid": "3",
+            "title": "Return Adjustment",
+            "reference": "3",
+            "guid": "dd44ca04-63fa-4c80-9af2-0cf07e77d733"
+        },
+        {
+            "typeid": "4",
+            "title": "Contract Adjustment",
+            "reference": "4",
+            "guid": "5e21dcf7-518c-4610-9fa0-d0e708a5ad78"
+        },
+        {
+            "typeid": "5",
+            "title": "Goods Warranty",
+            "reference": "5",
+            "guid": "86cdf40e-c207-48ac-b4a6-4395f4406ff3"
+        },
+        {
+            "typeid": "6",
+            "title": "Time Critical",
+            "reference": "6",
+            "guid": "1db2f2ca-a9fa-4898-85b6-8680facec86d"
+        },
+        {
+            "typeid": "7",
+            "title": "Demurrage",
+            "reference": "7",
+            "guid": "e0c92819-47ae-4836-860d-b5a74d8d9170"
+        },
+        {
+            "typeid": "8",
+            "title": "Hand/Tail gate Unload",
+            "reference": "8",
+            "guid": "da2789e3-17b9-471e-a2d9-33163b603a93"
+        },
+        {
+            "typeid": "9",
+            "title": "Frequency",
+            "reference": "9",
+            "guid": "0606e169-9290-4ec8-8237-29dc2e94798a"
+        },
+        {
+            "typeid": "10",
+            "title": "Pallets",
+            "reference": "10",
+            "guid": "e85745ea-3e7d-46c0-85e3-4af666903f7c"
+        },
+        {
+            "typeid": "11",
+            "title": "Fuel Levy",
+            "reference": "11",
+            "guid": "0f7ddc26-e615-4144-895d-6ca0f8885417"
+        }
+    ]
+}

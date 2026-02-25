@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "odir_invitestatus",
+        "id": "188579760"
+    },
+    "data": [
+        {
+            "directoryinvitestatusid": "1",
+            "value": "Invite",
+            "guid": "ec2e9a08-38a6-4ae4-a741-06196fa9eea4"
+        },
+        {
+            "directoryinvitestatusid": "2",
+            "value": "Don&#39;t Invite",
+            "guid": "3061d46a-79aa-4174-b2a9-cd6b7b162262"
+        },
+        {
+            "directoryinvitestatusid": "3",
+            "value": "Invited",
+            "guid": "800374e9-2241-4ae8-a25e-1848e49b4192"
+        }
+    ]
+}

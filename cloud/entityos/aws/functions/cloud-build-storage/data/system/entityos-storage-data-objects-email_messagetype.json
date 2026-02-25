@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "email_messagetype",
+        "id": "341576255"
+    },
+    "data": [
+        {
+            "messagetypeid": "1",
+            "value": "EMail",
+            "guid": "2b441038-afb8-4bef-9dc5-be7e1c5d1ab5"
+        },
+        {
+            "messagetypeid": "2",
+            "value": "SMS",
+            "guid": "5b84154c-3064-48f4-aedb-c673320db383"
+        },
+        {
+            "messagetypeid": "3",
+            "value": "EMail and SMS",
+            "guid": "c252b250-2da7-47ca-ab87-12adcee06b92"
+        }
+    ]
+}

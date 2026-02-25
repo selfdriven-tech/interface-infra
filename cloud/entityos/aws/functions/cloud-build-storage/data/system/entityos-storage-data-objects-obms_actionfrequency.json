@@ -1,0 +1,62 @@
+{
+    "object": {
+        "name": "obms_actionfrequency",
+        "id": "258815984"
+    },
+    "data": [
+        {
+            "frequencyid": "1",
+            "frequency_desc": "Daily",
+            "displayorder": "1",
+            "guid": "6776e66a-411b-4eb5-9b55-66c725c69bc5"
+        },
+        {
+            "frequencyid": "2",
+            "frequency_desc": "Weekly",
+            "displayorder": "2",
+            "guid": "29c7d5f3-8f1f-4fcf-b781-76c71330a96a"
+        },
+        {
+            "frequencyid": "4",
+            "frequency_desc": "Monthly",
+            "displayorder": "4",
+            "guid": "a1849f95-49ca-428b-8277-92880497b394"
+        },
+        {
+            "frequencyid": "6",
+            "frequency_desc": "Half Yearly",
+            "displayorder": "7",
+            "guid": "38c8c9ed-8b41-4675-82db-43573c6f336a"
+        },
+        {
+            "frequencyid": "7",
+            "frequency_desc": "Yearly",
+            "displayorder": "8",
+            "guid": "d112678b-6b21-40b4-9553-6fc832b492da"
+        },
+        {
+            "frequencyid": "8",
+            "frequency_desc": "Every Second Month",
+            "displayorder": "5",
+            "guid": "203cea9c-e3fb-4590-8a3b-b1ff02c99cd9"
+        },
+        {
+            "frequencyid": "3",
+            "frequency_desc": "Fortnightly",
+            "displayorder": "3",
+            "guid": "3495120d-ecc9-4a26-a9a8-8cf322e8b470"
+        },
+        {
+            "frequencyid": "5",
+            "frequency_desc": "Quarterly",
+            "displayorder": "6",
+            "guid": "1dea0464-ee3c-48c6-8932-6840797da820"
+        },
+        {
+            "frequencyid": "9",
+            "frequency_desc": "[Never]",
+            "displayorder": "0",
+            "guid": "67a11544-8645-42d6-a09f-bb78d9915df1"
+        }
+    ]
+}

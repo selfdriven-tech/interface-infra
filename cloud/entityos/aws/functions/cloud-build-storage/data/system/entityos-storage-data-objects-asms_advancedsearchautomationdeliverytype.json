@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "asms_advancedsearchautomationdeliverytype",
+        "id": "1833369896"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Email",
+            "guid": "98235a00-a61c-4929-86ca-6481732e0e15"
+        },
+        {
+            "typeid": "2",
+            "title": "SMS",
+            "guid": "b51f4b7a-3cf9-4f37-873b-9711c9cb9253"
+        },
+        {
+            "typeid": "3",
+            "title": "URL",
+            "guid": "7d7d8878-442d-4277-8c4b-d7e80e59e465"
+        },
+        {
+            "typeid": "4",
+            "title": "Custom",
+            "guid": "45cf77f1-93fb-4477-b999-c150024b2da2"
+        }
+    ]
+}

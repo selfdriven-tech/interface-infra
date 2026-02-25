@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "exp_what",
+        "id": "2137058649"
+    },
+    "data": [
+        {
+            "whatid": "1",
+            "value": "Expenses",
+            "guid": "52057023-4678-4e20-a3ee-b45912ce23bb"
+        },
+        {
+            "whatid": "2",
+            "value": "Payments",
+            "guid": "66cf29e8-7ebc-459e-8a18-f35264ed3500"
+        },
+        {
+            "whatid": "3",
+            "value": "Invoices",
+            "guid": "a734b325-be2b-4a12-a2b0-e60d5591706f"
+        },
+        {
+            "whatid": "4",
+            "value": "Receipts",
+            "guid": "570db4ff-6208-4006-9a49-136a2b59b20b"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "oims_creditcardtype",
+        "id": "626153326"
+    },
+    "data": [
+        {
+            "creditcardtypeid": "1",
+            "value": "Mastercard",
+            "guid": "809b2a51-0745-4348-b607-25c95b09b384"
+        },
+        {
+            "creditcardtypeid": "2",
+            "value": "Visa",
+            "guid": "944e1ee9-aadc-4052-8f4b-79550b1d0caf"
+        },
+        {
+            "creditcardtypeid": "3",
+            "value": "Amex",
+            "guid": "98541807-2c9a-4f7d-a0d6-ce92162102b0"
+        }
+    ]
+}

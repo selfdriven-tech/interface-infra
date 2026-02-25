@@ -1,0 +1,127 @@
+{
+    "object": {
+        "name": "ofsms_feetype",
+        "id": "544057024"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "linktype": "-1",
+            "value": "[Other]",
+            "reference": "",
+            "guid": "8cfbe906-3e3e-4cbd-8763-e281f305a087"
+        },
+        {
+            "typeid": "2",
+            "linktype": "71",
+            "value": "Entry Fee",
+            "reference": "",
+            "guid": "c4a82711-2a3c-4872-8b5c-a72d0b132ab3"
+        },
+        {
+            "typeid": "3",
+            "linktype": "71",
+            "value": "Service Fee",
+            "reference": "",
+            "guid": "a106693a-28a6-4e7d-a6b7-05249dfd7ab0"
+        },
+        {
+            "typeid": "4",
+            "linktype": "71",
+            "value": "Plan Fee",
+            "reference": "",
+            "guid": "1b26c549-a03f-4f3d-a9fc-4a3a0123e7a8"
+        },
+        {
+            "typeid": "5",
+            "linktype": "71",
+            "value": "Annual Flat Fee",
+            "reference": "",
+            "guid": "ec4a3be4-afa6-4f2a-900a-843800f1300f"
+        },
+        {
+            "typeid": "6",
+            "linktype": "73",
+            "value": "Valuation Fee",
+            "reference": "",
+            "guid": "f7a30e21-c10d-4cdf-9f74-edc4a0f23af5"
+        },
+        {
+            "typeid": "7",
+            "linktype": "73",
+            "value": "Legal Fee",
+            "reference": "",
+            "guid": "0deda1d4-6974-4560-89ab-841521e53286"
+        },
+        {
+            "typeid": "8",
+            "linktype": "73",
+            "value": "Annual Fee",
+            "reference": "",
+            "guid": "621f25b9-ee08-427f-a1de-465c0e6d7ac8"
+        },
+        {
+            "typeid": "9",
+            "linktype": "74",
+            "value": "Policy Fee",
+            "reference": "",
+            "guid": "31d6bc53-2e71-4b37-9714-9a6574531d53"
+        },
+        {
+            "typeid": "10",
+            "linktype": "74",
+            "value": "Stamp Duty",
+            "reference": "",
+            "guid": "ca32cfca-ff6b-48ee-bacd-37a57f5e1a45"
+        },
+        {
+            "typeid": "11",
+            "linktype": "92",
+            "value": "Establishment Fee",
+            "reference": "1",
+            "guid": "ce6ebd8e-6570-464d-b62e-8af43f740102"
+        },
+        {
+            "typeid": "12",
+            "linktype": "92",
+            "value": "Contribution Fee",
+            "reference": "2",
+            "guid": "fe60ff7e-78a5-4718-ad81-16f03e5ab2fc"
+        },
+        {
+            "typeid": "13",
+            "linktype": "92",
+            "value": "Withdrawal Fee",
+            "reference": "3",
+            "guid": "c98ebe86-0b51-4977-a3d9-9c112ae14659"
+        },
+        {
+            "typeid": "14",
+            "linktype": "92",
+            "value": "Member Fee - per annum",
+            "reference": "4",
+            "guid": "41bde7b9-8365-4fcf-b99b-68fe37eb1f46"
+        },
+        {
+            "typeid": "15",
+            "linktype": "92",
+            "value": "Administration Fee",
+            "reference": "5",
+            "guid": "93a6e08e-1836-4171-adec-a96966d9df20"
+        },
+        {
+            "typeid": "16",
+            "linktype": "92",
+            "value": "Investment Management Fee",
+            "reference": "6",
+            "guid": "1f422338-312e-4125-b40b-b12c86750007"
+        },
+        {
+            "typeid": "17",
+            "linktype": "92",
+            "value": "Performance Fee",
+            "reference": "7",
+            "guid": "9a1b689b-345b-4eed-9ccb-4e4f1061cbd0"
+        }
+    ]
+}

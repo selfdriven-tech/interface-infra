@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "tran_equipmentpermitnamestatus",
+        "id": "872390177"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Active",
+            "guid": "e43f3bf3-b498-47e4-8e08-69f8a2393446"
+        },
+        {
+            "statusid": "2",
+            "title": "Inactive",
+            "guid": "aa586316-58da-44fe-9841-9d2a25d76e5e"
+        }
+    ]
+}

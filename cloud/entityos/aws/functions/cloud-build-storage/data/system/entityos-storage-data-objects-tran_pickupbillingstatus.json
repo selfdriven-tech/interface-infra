@@ -1,0 +1,43 @@
+{
+    "object": {
+        "name": "tran_pickupbillingstatus",
+        "id": "1243867498"
+    },
+    "data": [
+        {
+            "billingstatusid": "1",
+            "title": "Unknown (1)",
+            "guid": "fc86a7c0-4ada-4f5b-82ff-6aab43ad2c02"
+        },
+        {
+            "billingstatusid": "2",
+            "title": "To Be Checked",
+            "guid": "07538637-9adc-419a-91db-9972d0693a5b"
+        },
+        {
+            "billingstatusid": "3",
+            "title": "Price Checked",
+            "guid": "63b5644a-6e18-4efe-9efb-dfd7f3ffa2f0"
+        },
+        {
+            "billingstatusid": "4",
+            "title": "Invoiced",
+            "guid": "e1478ec0-f334-4028-914d-c03e9afe44ea"
+        },
+        {
+            "billingstatusid": "5",
+            "title": "Recharging",
+            "guid": "c5657b30-4f4f-466d-81db-71d865182957"
+        },
+        {
+            "billingstatusid": "6",
+            "title": "No Charge",
+            "guid": "50f520c9-546f-4745-a2dd-1be127698e00"
+        },
+        {
+            "billingstatusid": "7",
+            "title": "Processing",
+            "guid": "3df64a62-b56a-4960-9503-b8d139a0f045"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_entitytabcompletionstatus",
+        "id": "191808241"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Complete",
+            "guid": "9928395d-f22c-4860-8ff5-f27e09d30049"
+        },
+        {
+            "statusid": "2",
+            "title": "Incomplete",
+            "guid": "38fc0814-fe0f-467b-934b-5931ee72c37c"
+        }
+    ]
+}

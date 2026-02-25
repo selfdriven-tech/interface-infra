@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_classdisplaytype",
+        "id": "1301996115"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Standard",
+            "guid": "0d52abff-0267-4e3f-a17d-67254b2b2dd3"
+        },
+        {
+            "typeid": "2",
+            "title": "Single Column",
+            "guid": "b897cae2-163c-4f29-800f-b7892dcbac9c"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "object": {
+        "name": "imm_issuestatus",
+        "id": "2066822425"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Not Started",
+            "sessiond": "",
+            "guid": "d2fa071f-dac2-4f76-b3e2-dec1526a5b20"
+        },
+        {
+            "statusid": "2",
+            "title": "In Progress",
+            "sessiond": "",
+            "guid": "25d79686-181e-4d40-94c0-872e90057847"
+        },
+        {
+            "statusid": "3",
+            "title": "Completed",
+            "sessiond": "",
+            "guid": "211f4efd-92c5-4e90-93e6-83528ad3bf64"
+        },
+        {
+            "statusid": "4",
+            "title": "Archived",
+            "sessiond": "",
+            "guid": "9e740af6-5c82-4931-a8f6-6b699bb5b144"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+	"entityos": {
+		"email": "???",
+		"testing": {
+			"status": "true",
+			"showData": "true",
+			"break": "-"
+		},
+		"convert": "true"
+	},
+	"build": {
+		"storage": {
+			"default": {
+				"cluster": {
+					"id": "cluster-???.?region?.rds.amazonaws.com",
+					"port": 3306,
+					"user": "admin",
+					"password": "???"
+				},
+				"instance": {
+					"id": "lab-rds-cluster-001-aurora-serverless-v2",
+					"url": "lab-rds-cluster-001-aurora-serverless-v2.cluster-???.ap-southeast-2.rds.amazonaws.com",
+					"type": "write,read"
+				}
+			},
+			"folder": "schema/model"
+		}
+	}
+}

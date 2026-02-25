@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "dec_surveytype",
+        "id": "2069582411"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Full Survey",
+            "guid": "3fb37477-9950-435a-a1cc-bc3adced002a"
+        },
+        {
+            "typeid": "2",
+            "title": "Quick Survey/Poll - Single Choice",
+            "guid": "96c5717e-3697-4481-96ce-a230140a2a3e"
+        },
+        {
+            "typeid": "3",
+            "title": "Quick Survey/Poll - Paired Choice",
+            "guid": "0faf4bc0-6893-4542-a46d-5987d1c1a9de"
+        }
+    ]
+}

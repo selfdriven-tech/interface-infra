@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_debtorscreditorsprocessingstatus",
+        "id": "2031398356"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Processing",
+            "guid": "ff7036ce-feed-46a3-9c0a-74a59079c46a"
+        },
+        {
+            "statusid": "2",
+            "title": "Completed",
+            "guid": "fcbee95f-7316-4689-90d0-47c51d214011"
+        },
+        {
+            "statusid": "3",
+            "title": "Cancelled",
+            "guid": "c3184687-fdfe-482f-a32d-c9dc22768fd1"
+        }
+    ]
+}

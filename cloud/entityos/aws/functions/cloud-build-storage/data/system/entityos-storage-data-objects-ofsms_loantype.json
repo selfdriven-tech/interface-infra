@@ -1,0 +1,63 @@
+{
+    "object": {
+        "name": "ofsms_loantype",
+        "id": "2131538677"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Construction",
+            "guid": "7c5ab080-fd08-4f3c-8667-3ba723861d57"
+        },
+        {
+            "typeid": "2",
+            "value": "Purchase Property",
+            "guid": "042660c5-c984-4470-a71c-0cdebae8a665"
+        },
+        {
+            "typeid": "3",
+            "value": "Refinance Property",
+            "guid": "2f308dcf-08c2-43dc-9166-b4c92428bb9f"
+        },
+        {
+            "typeid": "4",
+            "value": "Equity Release",
+            "guid": "1b9149c0-c47b-4e3e-b426-6a00182dff90"
+        },
+        {
+            "typeid": "5",
+            "value": "Purchase Vehicle or Equipment",
+            "guid": "1b5f55b2-74b1-47d9-b299-790a98d61947"
+        },
+        {
+            "typeid": "6",
+            "value": "Debt Free Equity Release",
+            "guid": "767310f4-0ad6-408a-a378-013d9d06d4ce"
+        },
+        {
+            "typeid": "7",
+            "value": "Investment",
+            "guid": "f5bc5d66-793b-4a67-8e5a-a1d3c6446010"
+        },
+        {
+            "typeid": "8",
+            "value": "[Not Applicable]",
+            "guid": "7bdfa59b-1b0e-4b10-935e-e72539be0fc0"
+        },
+        {
+            "typeid": "9",
+            "value": "Debt Consolidation",
+            "guid": "3b143b7a-b271-4339-9196-3f262645cad2"
+        },
+        {
+            "typeid": "10",
+            "value": "Unsecured",
+            "guid": "a738e85a-6070-41bb-9858-224042802bac"
+        },
+        {
+            "typeid": "11",
+            "value": "Increase",
+            "guid": "d484216c-9b45-4f86-8b45-bdee4b92fbfd"
+        }
+    ]
+}

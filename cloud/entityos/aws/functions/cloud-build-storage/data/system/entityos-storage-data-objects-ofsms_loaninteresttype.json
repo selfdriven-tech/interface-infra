@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "ofsms_loaninteresttype",
+        "id": "48055257"
+    },
+    "data": [
+        {
+            "interesttypeid": "1",
+            "value": "[Not Set]",
+            "guid": "c3898283-4e16-4a8c-bf7c-473eb2c09b92"
+        },
+        {
+            "interesttypeid": "2",
+            "value": "Fixed",
+            "guid": "e5b9f589-b634-45eb-82c3-ac72322d4a75"
+        },
+        {
+            "interesttypeid": "3",
+            "value": "Variable",
+            "guid": "be99d4a4-695d-4255-be84-2dea19cfa11f"
+        }
+    ]
+}

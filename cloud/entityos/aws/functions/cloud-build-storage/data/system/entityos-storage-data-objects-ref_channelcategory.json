@@ -1,0 +1,13 @@
+{
+    "object": {
+        "name": "ref_channelcategory",
+        "id": "631009329"
+    },
+    "data": [
+        {
+            "categoryid": "1",
+            "title": "Loan",
+            "guid": "5294706e-164e-4714-9493-f66c80940b07"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "asms_protectciphertexttype",
+        "id": "322868267"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Signature",
+            "guid": "2e0686ee-5053-49eb-9bcd-525b4a864f26"
+        },
+        {
+            "typeid": "2",
+            "title": "Data",
+            "guid": "c2e2b4b1-9fb2-4fdf-b879-b12cf436ce78"
+        },
+        {
+            "typeid": "3",
+            "title": "Data (TOTP Protected)",
+            "guid": "2b438911-1771-4a6b-ac83-78aeaa3a2db5"
+        }
+    ]
+}

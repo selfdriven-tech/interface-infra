@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "news_newsletterstatus",
+        "id": "466816725"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Draft",
+            "guid": "6f7cc870-98f6-4340-903b-a4e77eda80fc"
+        },
+        {
+            "statusid": "2",
+            "value": "Approved",
+            "guid": "c6a06817-3b1c-45c1-b6b0-d57a4347f4df"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "imm_alertrecipientdelivery",
+        "id": "559341057"
+    },
+    "data": [
+        {
+            "deliveryid": "1",
+            "title": "Warning",
+            "guid": "1cd5e137-ec63-462b-b6a2-717d895d0a25"
+        },
+        {
+            "deliveryid": "2",
+            "title": "eMail",
+            "guid": "fd5d4192-f542-4305-b3c9-0d1563f4f0ce"
+        },
+        {
+            "deliveryid": "3",
+            "title": "Activity",
+            "guid": "94ccc16d-fc4c-4550-8056-278adc4504a7"
+        },
+        {
+            "deliveryid": "4",
+            "title": "Escalation",
+            "guid": "c25ac19f-4481-481f-bdfa-99224f4d9c14"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_alertfilternumerictype",
+        "id": "1910662250"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Equal To",
+            "guid": "5797a428-8684-4a55-a795-92171849372a"
+        },
+        {
+            "typeid": "2",
+            "title": "Not Equal To",
+            "guid": "158494aa-48c5-4c56-bbd4-88b4b268918b"
+        }
+    ]
+}

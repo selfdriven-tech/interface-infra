@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "otms_recordcreditdebit",
+        "id": "2103014573"
+    },
+    "data": [
+        {
+            "creditdebitid": "1",
+            "title": "Credit",
+            "guid": "f0985975-68b2-4506-a3fc-07e57a52fa94"
+        },
+        {
+            "creditdebitid": "2",
+            "title": "Debit",
+            "guid": "1772ab59-bb0f-4d93-bcdc-389f719a7f76"
+        }
+    ]
+}

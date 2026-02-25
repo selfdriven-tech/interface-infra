@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "ofx_accounttype",
+        "id": "1283535656"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Cheque",
+            "guid": "b5a2aafb-0f9c-4b99-8233-39fff909889a"
+        },
+        {
+            "typeid": "2",
+            "value": "Savings",
+            "guid": "7b3ff117-b771-4614-9ed4-5c212e39bdec"
+        },
+        {
+            "typeid": "3",
+            "value": "Money Market",
+            "guid": "519fd05e-8c5b-4f9a-a010-b57a79181cae"
+        },
+        {
+            "typeid": "4",
+            "value": "Credit",
+            "guid": "5229914f-c141-4f11-bba3-ae1c97024c26"
+        }
+    ]
+}

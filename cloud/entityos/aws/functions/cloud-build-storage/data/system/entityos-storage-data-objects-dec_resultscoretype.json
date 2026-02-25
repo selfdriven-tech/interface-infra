@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "dec_resultscoretype",
+        "id": "210099789"
+    },
+    "data": [
+        {
+            "resultscoretypeid": "1",
+            "title": "[Current Result]",
+            "guid": "1de31e37-e3b1-4411-8c3c-d5bb52590b28"
+        },
+        {
+            "resultscoretypeid": "2",
+            "title": "Group By Contact",
+            "guid": "5e17b99a-b5fa-47d4-ada0-24e5dc75af1b"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "object": {
+        "name": "asms_advancedsearchautomationschedule",
+        "id": "1961370352"
+    },
+    "data": [
+        {
+            "scheduleid": "1",
+            "title": "Sunday",
+            "guid": "a92ff9b1-56dc-4a00-9d96-6b1c77e4357d"
+        },
+        {
+            "scheduleid": "2",
+            "title": "Monday",
+            "guid": "fcd3e36d-cd50-4d1a-8e58-091e9a860880"
+        },
+        {
+            "scheduleid": "3",
+            "title": "Tuesday",
+            "guid": "f63fdb71-1367-40eb-9092-47d6f0d24fa5"
+        },
+        {
+            "scheduleid": "4",
+            "title": "Wednesday",
+            "guid": "755767f4-5690-40f7-859a-17a0facf2bce"
+        },
+        {
+            "scheduleid": "5",
+            "title": "Thursday",
+            "guid": "459c83ad-0f32-4d7b-bc70-37d4e79d5efd"
+        },
+        {
+            "scheduleid": "6",
+            "title": "Friday",
+            "guid": "a597626b-e0e5-46d6-8d93-39eae2cf05f8"
+        },
+        {
+            "scheduleid": "7",
+            "title": "Saturday",
+            "guid": "24c60a16-245f-48ac-9d73-a3587416a12a"
+        },
+        {
+            "scheduleid": "8",
+            "title": "All Week days",
+            "guid": "928d4c48-65bf-4b71-ab04-2e64ff86cc31"
+        },
+        {
+            "scheduleid": "9",
+            "title": "Every day",
+            "guid": "b5736a87-6d4e-4977-b20c-038551ca03c5"
+        }
+    ]
+}

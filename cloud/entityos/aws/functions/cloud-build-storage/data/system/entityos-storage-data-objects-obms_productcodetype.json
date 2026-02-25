@@ -1,0 +1,99 @@
+{
+    "object": {
+        "name": "obms_productcodetype",
+        "id": "1684617490"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Code 39",
+            "categoryid": "1",
+            "notes": "",
+            "guid": "7f7bd854-27b0-40d7-98c0-787fb258631b"
+        },
+        {
+            "typeid": "2",
+            "title": "UPC",
+            "categoryid": "1",
+            "notes": "",
+            "guid": "5b85493d-7b20-40fb-8ac6-9e551c8b0b48"
+        },
+        {
+            "typeid": "3",
+            "title": "EAN",
+            "categoryid": "1",
+            "notes": "",
+            "guid": "e9123f9a-fb19-4e39-bbc8-fb8d4dbfa7c0"
+        },
+        {
+            "typeid": "4",
+            "title": "Code 128",
+            "categoryid": "1",
+            "notes": "",
+            "guid": "c6577737-772a-4e37-a6c3-98c13ce2d220"
+        },
+        {
+            "typeid": "5",
+            "title": "IFY",
+            "categoryid": "1",
+            "notes": "",
+            "guid": "c2a28e2f-a6db-480a-b220-74171c7c5ca8"
+        },
+        {
+            "typeid": "6",
+            "title": "Code 93",
+            "categoryid": "1",
+            "notes": "",
+            "guid": "d1b2357d-97d8-4897-bacc-451ffdfa1912"
+        },
+        {
+            "typeid": "7",
+            "title": "Codebar",
+            "categoryid": "1",
+            "notes": "",
+            "guid": "08384b14-b1b8-4dee-985d-42e1331598e7"
+        },
+        {
+            "typeid": "8",
+            "title": "GS1 Databar",
+            "categoryid": "1",
+            "notes": "",
+            "guid": "2721895e-d2ce-4821-98d4-d5c445770b16"
+        },
+        {
+            "typeid": "9",
+            "title": "MSI Plessey",
+            "categoryid": "1",
+            "notes": "",
+            "guid": "f73a8faa-80eb-474e-a694-e42aa5075b67"
+        },
+        {
+            "typeid": "10",
+            "title": "QR Code",
+            "categoryid": "2",
+            "notes": "",
+            "guid": "f1d83bac-9774-4486-9fc5-96ebc91fc11f"
+        },
+        {
+            "typeid": "11",
+            "title": "Data Matrix",
+            "categoryid": "2",
+            "notes": "",
+            "guid": "b7eed7cf-5381-423f-bd9c-2e4060f0b1ff"
+        },
+        {
+            "typeid": "12",
+            "title": "PDF417",
+            "categoryid": "2",
+            "notes": "",
+            "guid": "89964c09-49d5-4407-9593-cf1963de343a"
+        },
+        {
+            "typeid": "13",
+            "title": "Aztec",
+            "categoryid": "2",
+            "notes": "",
+            "guid": "8f594a52-4505-4a2f-92f0-54cfbeb9ef06"
+        }
+    ]
+}

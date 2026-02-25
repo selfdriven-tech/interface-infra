@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "risk_alertrulecomparison",
+        "id": "1690489101"
+    },
+    "data": [
+        {
+            "comparisonid": "1",
+            "title": "Equal To",
+            "guid": "286d74c3-4d55-472f-b494-2c687fafeacd"
+        },
+        {
+            "comparisonid": "2",
+            "title": "Greater Than",
+            "guid": "bbbf94e3-dd97-4832-b83a-372bbb04ba80"
+        },
+        {
+            "comparisonid": "3",
+            "title": "Less Than",
+            "guid": "e7796137-b1de-4a89-ab3e-aba7ed447665"
+        },
+        {
+            "comparisonid": "4",
+            "title": "Not Equal To",
+            "guid": "88240cd3-60f6-46f8-865e-e5a6f1a2ef03"
+        },
+        {
+            "comparisonid": "5",
+            "title": "Is Blank",
+            "guid": "bbf97551-cc0f-4262-8813-a35af56be8b4"
+        }
+    ]
+}

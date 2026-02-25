@@ -1,0 +1,13 @@
+{
+    "object": {
+        "name": "obms_commissiontype",
+        "id": "710293590"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Percentage of Actual Receipts",
+            "guid": "b36f419a-e089-4e6b-ad22-c86a92ba6bf0"
+        }
+    ]
+}

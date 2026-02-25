@@ -1,0 +1,43 @@
+{
+    "object": {
+        "name": "pay_taxscale",
+        "id": "1111011039"
+    },
+    "data": [
+        {
+            "scaleid": "1",
+            "title": "1 - Where tax-free threshold NOT claimed in Tax file number declaration",
+            "guid": "1b6169fe-d2f9-4ed8-8136-21c9fe024035"
+        },
+        {
+            "scaleid": "2",
+            "title": "2 - Where payee is eligible to receive leave loading and has claimed tax-free threshold",
+            "guid": "cf548d25-7394-429d-a194-e43ec92e4feb"
+        },
+        {
+            "scaleid": "3",
+            "title": "3 - Foreign residents",
+            "guid": "e9899b49-8279-4e6b-97ca-f7b0a2086f9d"
+        },
+        {
+            "scaleid": "4",
+            "title": "4 - Where tax file number not provided by payee",
+            "guid": "eb76d944-f22a-4a65-915e-c4fbfe59c46a"
+        },
+        {
+            "scaleid": "5",
+            "title": "5 - Where payee claimed FULL exemption from Medicare levy in Medicare levy variation declaration",
+            "guid": "f101e334-30dc-413b-9bc5-587312d948dd"
+        },
+        {
+            "scaleid": "6",
+            "title": "6 - Where payee claimed HALF exemption from Medicare levy in Medicare levy variation declaration",
+            "guid": "9113ebdd-dbe1-479b-b04b-5b0310b37b46"
+        },
+        {
+            "scaleid": "7",
+            "title": "7 - Where payee not eligible to receive leave loading and has claimed tax-free threshold",
+            "guid": "7985a58f-7d97-49f7-8f30-db62dbd80915"
+        }
+    ]
+}

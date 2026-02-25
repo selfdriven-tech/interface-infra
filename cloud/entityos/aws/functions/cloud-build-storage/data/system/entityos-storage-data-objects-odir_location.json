@@ -1,0 +1,64 @@
+{
+    "object": {
+        "name": "odir_location",
+        "id": "124579532"
+    },
+    "data": [
+        {
+            "locationid": "1",
+            "value": "Footer",
+            "description": "",
+            "baserate": "",
+            "guid": "863bc3d4-e2f6-4b7a-9cfe-290de4c2ae97"
+        },
+        {
+            "locationid": "2",
+            "value": "My Start Page",
+            "description": "",
+            "baserate": "",
+            "guid": "ca533827-6f23-41b8-89ff-33e1a3d39309"
+        },
+        {
+            "locationid": "3",
+            "value": "Messaging",
+            "description": "",
+            "baserate": "",
+            "guid": "5e43b0a0-9473-47ec-954c-f958b6e222c8"
+        },
+        {
+            "locationid": "4",
+            "value": "Directory Home Page - Side",
+            "description": "",
+            "baserate": "",
+            "guid": "eaf8c202-79a5-4613-ad79-3f0295d74300"
+        },
+        {
+            "locationid": "5",
+            "value": "Directory Home Page - Footer",
+            "description": "",
+            "baserate": "",
+            "guid": "75c81a13-d0a3-4893-a564-a685f2f4e6f2"
+        },
+        {
+            "locationid": "6",
+            "value": "Directory Search - In Context",
+            "description": "",
+            "baserate": "",
+            "guid": "f269c890-9b0c-49c2-b65d-9bc5ab3aa689"
+        },
+        {
+            "locationid": "7",
+            "value": "On Page - Status Message",
+            "description": "",
+            "baserate": "",
+            "guid": "e0416a39-e283-4ffe-bcc9-cf165f3333dd"
+        },
+        {
+            "locationid": "8",
+            "value": "Directory - Public / biziio.com",
+            "description": "",
+            "baserate": "",
+            "guid": "4e60b565-0b95-41a4-894c-33b9865614b5"
+        }
+    ]
+}

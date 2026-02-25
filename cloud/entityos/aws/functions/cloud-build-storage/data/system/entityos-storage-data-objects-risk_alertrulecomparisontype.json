@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_alertrulecomparisontype",
+        "id": "2038662706"
+    },
+    "data": [
+        {
+            "typeid": "-1",
+            "title": "Compared to Measure",
+            "guid": "22894748-1b45-4c68-8dda-655e4b6936b2"
+        },
+        {
+            "typeid": "1",
+            "title": "Compared to Value",
+            "guid": "439e3936-b37a-4e37-a0e2-cedb941f7d5d"
+        }
+    ]
+}

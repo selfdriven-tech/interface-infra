@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "okms_providerserviceleavetype",
+        "id": "723533661"
+    },
+    "data": [
+        {
+            "leavetypeid": "1",
+            "title": "Can&#39;t Leave",
+            "notes": "",
+            "guid": "52e2398f-5d28-453c-8a7c-fa7aa164487b"
+        },
+        {
+            "leavetypeid": "2",
+            "title": "Can Leave",
+            "notes": "",
+            "guid": "7cc8c350-c81a-454e-a112-ba50a37ca9da"
+        }
+    ]
+}

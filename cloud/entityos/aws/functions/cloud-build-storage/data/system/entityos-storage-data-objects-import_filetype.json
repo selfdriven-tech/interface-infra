@@ -1,0 +1,188 @@
+{
+    "object": {
+        "name": "import_filetype",
+        "id": "1906821855"
+    },
+    "data": [
+        {
+            "filetypeid": "1",
+            "value": "ACT!",
+            "processurl": "doImportACT.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "b38af926-d476-4c05-b44a-5c34b5f6b185"
+        },
+        {
+            "filetypeid": "2",
+            "value": "MYOB - Chart Of Accounts",
+            "processurl": "doImportMYOBCOA.asp",
+            "standardimport": "N",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "ee99e048-a917-412e-a33d-75ec418a51f8"
+        },
+        {
+            "filetypeid": "3",
+            "value": "MYOB - Chart Of Accounts &amp; Balances",
+            "processurl": "doImportMYOBCOA.asp?bal=1",
+            "standardimport": "N",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "165ce5f5-863d-4d2f-9a9c-c5ff52182218"
+        },
+        {
+            "filetypeid": "4",
+            "value": "MYOB - Customers",
+            "processurl": "doImportMYOBCustomers.asp",
+            "standardimport": "N",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "5f9d0e28-e8e0-4853-8ff5-ed334de76086"
+        },
+        {
+            "filetypeid": "5",
+            "value": "MYOB - Suppliers",
+            "processurl": "doImportMYOBSuppliers.asp",
+            "standardimport": "N",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "b3f303e1-404b-4268-b200-0a33dcd597db"
+        },
+        {
+            "filetypeid": "6",
+            "value": "MYOB - Suppliers",
+            "processurl": "doImportMYOBSuppliers.asp",
+            "standardimport": "N",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "b383507c-e6ff-4405-aeda-610d2c6410b2"
+        },
+        {
+            "filetypeid": "7",
+            "value": "MYOB - Employees",
+            "processurl": "doImportMYOBEmployees.asp",
+            "standardimport": "N",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "29fe5f6e-f62a-41c8-ad4b-ca324dc2e41f"
+        },
+        {
+            "filetypeid": "8",
+            "value": "businessSmart - Clients",
+            "processurl": "doImportBSClients.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "d1a25120-e4cd-4a7a-8705-5652750c1cd0"
+        },
+        {
+            "filetypeid": "9",
+            "value": "ING - Clients &amp; Policies",
+            "processurl": "doImportINGClientsPolicies.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "b48c6753-e0a6-4eaa-9ae5-ae521b302039"
+        },
+        {
+            "filetypeid": "10",
+            "value": "One Life Person &amp; Policy Load",
+            "processurl": "doImportOneLifePolicies.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "6ca72224-5da8-4341-b35f-1b05cbb924d8"
+        },
+        {
+            "filetypeid": "11",
+            "value": "businessSmart - Clients Part 2",
+            "processurl": "doImportBSClientsPart2.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "fad996f4-2ef0-458b-a527-6a70a7037040"
+        },
+        {
+            "filetypeid": "13",
+            "value": "businessSmart - Umbrella Funds",
+            "processurl": "doImportBSUmbrellaFunds.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "a33878e8-04e4-4005-bb0a-cfc858e28b9a"
+        },
+        {
+            "filetypeid": "14",
+            "value": "businessSmart - Investments",
+            "processurl": "doImportBSInvestment.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "32a97ced-cc4a-4f37-a47d-350e7a1f061e"
+        },
+        {
+            "filetypeid": "15",
+            "value": "businessSmart - Policy",
+            "processurl": "doImportBSPolicy.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "bf9eae1b-b8b4-474d-9ad3-9424dcbcde27"
+        },
+        {
+            "filetypeid": "16",
+            "value": "Retire Secure Clients",
+            "processurl": "doImportRetireSecure.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "982fcbef-6180-43ba-aaf8-62fbcf1449b5"
+        },
+        {
+            "filetypeid": "17",
+            "value": "Xplore Capital",
+            "processurl": "doImportXploreCapital.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "dc3bd2b2-9cda-4960-8508-b0d696eaddb6"
+        },
+        {
+            "filetypeid": "18",
+            "value": "Chameleon - Security Contacts",
+            "processurl": "doImportChameleon_Security.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "2039cffa-2961-483c-a2eb-aeb6bb57b26a"
+        },
+        {
+            "filetypeid": "19",
+            "value": "Lorralie Angency - Clients",
+            "processurl": "doImportLorralieClients.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "b8abe877-8b88-4686-9a48-f23e799098d4"
+        },
+        {
+            "filetypeid": "20",
+            "value": "Lorralie Angency - Clients Address",
+            "processurl": "doImportLorralieClientsAddress.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "2be48829-f5d7-4a7f-a349-62a9301a2e66"
+        },
+        {
+            "filetypeid": "21",
+            "value": "Lorralie Angency - Clients FileNotes",
+            "processurl": "doImportLorralieClientsFileNotes.asp",
+            "standardimport": "",
+            "transactiondateavailable": "N",
+            "helpdocumentid": "",
+            "guid": "9bdd9184-8697-43a1-83ef-a4b11f707eb2"
+        }
+    ]
+}

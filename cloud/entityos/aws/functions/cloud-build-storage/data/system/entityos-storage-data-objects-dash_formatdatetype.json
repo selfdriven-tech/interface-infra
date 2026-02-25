@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "dash_formatdatetype",
+        "id": "1266103551"
+    },
+    "data": [
+        {
+            "formatdatetypeid": "1",
+            "title": "Totals",
+            "guid": "7e359882-71dd-432f-a4f9-f9d428fedab5"
+        },
+        {
+            "formatdatetypeid": "2",
+            "title": "Incrementatal Change",
+            "guid": "8756d785-2670-450c-b1ff-d5b4a7df57d5"
+        }
+    ]
+}

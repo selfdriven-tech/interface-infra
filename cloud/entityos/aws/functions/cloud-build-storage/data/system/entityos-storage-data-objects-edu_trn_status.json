@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "edu_trn_status",
+        "id": "933578364"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Scheduled",
+            "guid": "cc76e4f4-0548-4437-b862-1a15577ea8f6"
+        },
+        {
+            "statusid": "2",
+            "value": "Completed",
+            "guid": "77126297-983a-43fd-9f84-68f2fe2517e6"
+        },
+        {
+            "statusid": "3",
+            "value": "Cancelled",
+            "guid": "240dc3a1-67d4-4104-8e99-fab0ec6fea9d"
+        }
+    ]
+}

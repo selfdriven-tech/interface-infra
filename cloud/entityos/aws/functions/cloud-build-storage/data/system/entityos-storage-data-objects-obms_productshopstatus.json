@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "obms_productshopstatus",
+        "id": "957246465"
+    },
+    "data": [
+        {
+            "productshopstatusid": "1",
+            "description": "Show In Shop",
+            "guid": "941961cb-832a-4416-8d25-2555a7f0c323"
+        },
+        {
+            "productshopstatusid": "2",
+            "description": "Do Not Show In Shop",
+            "guid": "762c2f1f-f004-4b37-a261-1aa7a79c2d07"
+        },
+        {
+            "productshopstatusid": "4",
+            "description": "Show In Shop As New Product",
+            "guid": "20dbf309-016b-4f22-93d9-ddc7df200d3e"
+        },
+        {
+            "productshopstatusid": "5",
+            "description": "Coming Soon",
+            "guid": "5910ed52-a8bc-44dc-b796-8775d8362f44"
+        },
+        {
+            "productshopstatusid": "3",
+            "description": "Show In Shop As Special",
+            "guid": "f41de792-97d8-4ac9-8e4d-d1bab3a627c6"
+        }
+    ]
+}

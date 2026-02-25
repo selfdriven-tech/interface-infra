@@ -1,0 +1,48 @@
+{
+    "object": {
+        "name": "cont_personcommunication",
+        "id": "1810105489"
+    },
+    "data": [
+        {
+            "communicationid": "7",
+            "value": "Facebook",
+            "guid": "80c95ec2-ebf5-46ae-a6b7-43a9a2f02298"
+        },
+        {
+            "communicationid": "8",
+            "value": "Instagram",
+            "guid": "45a4e16f-4f3d-4bb8-adb3-7716b8409ec5"
+        },
+        {
+            "communicationid": "1",
+            "value": "eMail",
+            "guid": "fae69189-ae88-4173-9811-d22106e286b0"
+        },
+        {
+            "communicationid": "2",
+            "value": "Fax",
+            "guid": "4d948263-c86e-4c65-81e8-c85a4f8dc10f"
+        },
+        {
+            "communicationid": "3",
+            "value": "Phone - Home",
+            "guid": "5886cecb-2ba6-4b4d-8add-889833b2b1dd"
+        },
+        {
+            "communicationid": "4",
+            "value": "Phone - Work",
+            "guid": "0401ef5a-fe56-4428-b595-784b69a6ad44"
+        },
+        {
+            "communicationid": "5",
+            "value": "Phone - Mobile",
+            "guid": "fc85062f-372d-4c27-bde2-d1c0f5dad50c"
+        },
+        {
+            "communicationid": "6",
+            "value": "Mail",
+            "guid": "c9811321-c37f-424f-8f68-5c4d4274518e"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "pay_employmenttype",
+        "id": "1799013490"
+    },
+    "data": [
+        {
+            "employmenttypeid": "1",
+            "value": "Full-time",
+            "displayorder": "1",
+            "guid": "331a27ab-af49-4ad1-aed1-1f93d94f2cfe"
+        },
+        {
+            "employmenttypeid": "2",
+            "value": "Part-time",
+            "displayorder": "2",
+            "guid": "0b969be4-756a-49b7-904c-f1dc042e5f1f"
+        },
+        {
+            "employmenttypeid": "3",
+            "value": "Casual",
+            "displayorder": "3",
+            "guid": "90f8ae32-0b6f-4307-a5fe-63756532f10e"
+        }
+    ]
+}

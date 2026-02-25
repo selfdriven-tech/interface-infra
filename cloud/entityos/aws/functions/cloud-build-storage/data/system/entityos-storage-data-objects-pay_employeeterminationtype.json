@@ -1,0 +1,56 @@
+{
+    "object": {
+        "name": "pay_employeeterminationtype",
+        "id": "1154571647"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "[N/A]",
+            "notes": "",
+            "guid": "a910a181-ecd7-4966-9986-0b459bcac6cc"
+        },
+        {
+            "typeid": "2",
+            "title": "Ill Health",
+            "notes": "",
+            "guid": "5b1226dd-9560-45cc-b09d-82e01abde5d7"
+        },
+        {
+            "typeid": "3",
+            "title": "Deceased",
+            "notes": "",
+            "guid": "2b4242dc-db5b-424c-b390-b28d5dbb7ba4"
+        },
+        {
+            "typeid": "4",
+            "title": "Redundancy",
+            "notes": "",
+            "guid": "7b14b365-ab7a-4914-9b2c-26a4dd3de447"
+        },
+        {
+            "typeid": "5",
+            "title": "Dismissal",
+            "notes": "",
+            "guid": "7c6921a0-8e39-4825-88a2-fe9fe7e83514"
+        },
+        {
+            "typeid": "6",
+            "title": "Contract Ended",
+            "notes": "",
+            "guid": "7f35e034-e8a1-4b70-80c1-40e3e3e951cc"
+        },
+        {
+            "typeid": "7",
+            "title": "Transfer",
+            "notes": "",
+            "guid": "5826d3dd-6c4a-43ca-a219-21a7f635bdd0"
+        },
+        {
+            "typeid": "8",
+            "title": "Voluntary",
+            "notes": "",
+            "guid": "ce64776d-6900-478d-b3c8-3655e815db93"
+        }
+    ]
+}

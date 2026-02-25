@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "tran_equipmentregistrationtype",
+        "id": "712389607"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Local",
+            "guid": "382d4871-68ad-41dc-8819-103b49776956"
+        },
+        {
+            "typeid": "2",
+            "title": "FIRS",
+            "guid": "9c970638-c715-4919-b3ca-9cb78a1b40b2"
+        },
+        {
+            "typeid": "3",
+            "title": "Not Registered",
+            "guid": "840cb473-56ff-41e4-85c0-bf3f2066d1bf"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "risk_adhocmeasurefunction",
+        "id": "2074490469"
+    },
+    "data": [
+        {
+            "functionid": "1",
+            "title": "Total",
+            "guid": "a60255bf-9542-4d93-8dd4-105118e94958"
+        },
+        {
+            "functionid": "2",
+            "title": "Average",
+            "guid": "66654c67-fedb-4bdd-9508-a6aaad8c32b1"
+        },
+        {
+            "functionid": "3",
+            "title": "Minimum",
+            "guid": "e3dfd0cf-817c-45be-b3f2-4804455715dc"
+        },
+        {
+            "functionid": "4",
+            "title": "Maximum",
+            "guid": "5fd02630-42ce-42d7-87ea-7f54c5a676e7"
+        },
+        {
+            "functionid": "5",
+            "title": "Count",
+            "guid": "445d8928-4916-4ff4-99bd-7258ccb0d4a9"
+        }
+    ]
+}

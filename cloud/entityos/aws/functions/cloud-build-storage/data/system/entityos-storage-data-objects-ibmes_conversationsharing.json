@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "ibmes_conversationsharing",
+        "id": "847342083"
+    },
+    "data": [
+        {
+            "sharingid": "1",
+            "value": "Selected Particpants &amp; Network Groups",
+            "guid": "8e6938af-3fc2-44da-a930-aa2379cd0b51"
+        },
+        {
+            "sharingid": "2",
+            "value": "Everyone",
+            "guid": "2360ee4b-e8c6-4ad2-aa3c-25e2f837b334"
+        },
+        {
+            "sharingid": "3",
+            "value": "Internal",
+            "guid": "f62430ba-29d4-4443-85ac-e466d3a48a9f"
+        }
+    ]
+}

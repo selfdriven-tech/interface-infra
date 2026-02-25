@@ -1,0 +1,36 @@
+{
+    "object": {
+        "name": "mem_reportingperiod",
+        "id": "978818549"
+    },
+    "data": [
+        {
+            "reportingperiodid": "1",
+            "value": "A",
+            "startperiod": "1 Jan",
+            "endperiod": "31 Mar",
+            "guid": "0ae8252a-20db-4d01-b99f-8ff5cfa9fec0"
+        },
+        {
+            "reportingperiodid": "2",
+            "value": "B",
+            "startperiod": "1 Apr",
+            "endperiod": "30 Jun",
+            "guid": "5e8b40a8-2621-4ad0-aa0d-547493e1781d"
+        },
+        {
+            "reportingperiodid": "3",
+            "value": "C",
+            "startperiod": "1 Jul",
+            "endperiod": "30 Sep",
+            "guid": "de90b9e5-7ca9-4dd3-b96a-046dda827bcd"
+        },
+        {
+            "reportingperiodid": "4",
+            "value": "D",
+            "startperiod": "1 Oct",
+            "endperiod": "30 Jun",
+            "guid": "808b0b93-6dee-456e-83cb-b41535993f2d"
+        }
+    ]
+}

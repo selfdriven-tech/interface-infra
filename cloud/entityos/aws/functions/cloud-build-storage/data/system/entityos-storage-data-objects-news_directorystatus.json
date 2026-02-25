@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "news_directorystatus",
+        "id": "738817694"
+    },
+    "data": [
+        {
+            "directorystatusid": "1",
+            "value": "[Not Applicable]",
+            "guid": "67bdd962-88ea-407a-a44a-efe1851a3d32"
+        },
+        {
+            "directorystatusid": "2",
+            "value": "Submit",
+            "guid": "425c989a-458c-4e19-ad65-a5d2a3cef273"
+        },
+        {
+            "directorystatusid": "3",
+            "value": "Approved",
+            "guid": "d6afa20d-f4cf-4d48-9f21-ff0ec4303514"
+        },
+        {
+            "directorystatusid": "4",
+            "value": "Declined",
+            "guid": "cfd3413b-67c9-467a-a860-2fea62761786"
+        }
+    ]
+}

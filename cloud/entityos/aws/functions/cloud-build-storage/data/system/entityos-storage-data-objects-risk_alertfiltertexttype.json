@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "risk_alertfiltertexttype",
+        "id": "1942662364"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Contains",
+            "guid": "c0220440-5816-42cb-af40-f5217a6f9a88"
+        },
+        {
+            "typeid": "2",
+            "title": "Not Equal To",
+            "guid": "21155ad2-2762-4b3a-b2b8-52dceb8a139d"
+        },
+        {
+            "typeid": "3",
+            "title": "Equal To",
+            "guid": "bf0d33d9-1b67-4230-9dd9-05a810245c5f"
+        },
+        {
+            "typeid": "4",
+            "title": "Starts With",
+            "guid": "8fc52d05-290a-45b5-9d8a-aca12c505210"
+        }
+    ]
+}

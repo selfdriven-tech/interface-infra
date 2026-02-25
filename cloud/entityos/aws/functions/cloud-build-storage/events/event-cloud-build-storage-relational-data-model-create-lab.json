@@ -1,0 +1,31 @@
+{
+	"method": "storage-relational-data-model-create",
+	"storage": {
+		"simulate": true,
+		"cluster":
+		{
+			"id": "cluster-ctqe76w42vxr.ap-southeast-2.rds.amazonaws.com",
+			"port": 3306
+		},
+		"instance": {
+			"id": "lab-rds-cluster-001-aurora-serverless-v2",
+			"url": "lab-rds-cluster-001-aurora-serverless-v2.cluster-ctqe76w42vxr.ap-southeast-2.rds.amazonaws.com",
+			"type": "write,read"
+		},
+		"model":
+		{
+			"filename": "entityos-storage-model-objects-processed-latest.json",
+			"process": {
+				"start": 0,
+				"end": 500
+			},
+			"_object": {"name": "cont_business"}
+		},
+		"database":
+		{
+			"name":"lab_datastore_001",
+			"engine": "mysql"
+		}
+	},
+	"notes": []
+}

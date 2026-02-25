@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_subscriptiontype",
+        "id": "475148738"
+    },
+    "data": [
+        {
+            "subscriptiontypeid": "1",
+            "value": "Single",
+            "guid": "541e2d61-65d0-40fa-b431-0921e4e7a99d"
+        },
+        {
+            "subscriptiontypeid": "2",
+            "value": "Bulk",
+            "guid": "f61475c9-59ae-4b4e-958d-2766e3c6e814"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "risk_alertruleoperation",
+        "id": "1658488987"
+    },
+    "data": [
+        {
+            "operationid": "1",
+            "title": "+",
+            "guid": "e529bc5b-02a7-45ea-91d7-ec718d9c910d"
+        },
+        {
+            "operationid": "2",
+            "title": "-",
+            "guid": "58213da6-9fb0-433c-a8c5-ad2c39dd260b"
+        },
+        {
+            "operationid": "3",
+            "title": "*",
+            "guid": "e1f74772-b95f-4f9b-aed3-af931ef614f2"
+        },
+        {
+            "operationid": "4",
+            "title": "/",
+            "guid": "1dd23784-c97c-424d-83d6-d9ab320204bd"
+        }
+    ]
+}

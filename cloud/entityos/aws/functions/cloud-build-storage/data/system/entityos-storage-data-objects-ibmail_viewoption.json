@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "ibmail_viewoption",
+        "id": "1327343793"
+    },
+    "data": [
+        {
+            "viewoptionid": "1",
+            "value": "[Standard]",
+            "guid": "8a548daf-2507-450a-9b38-1c00da427a8b"
+        },
+        {
+            "viewoptionid": "2",
+            "value": "Group By From (Sender)",
+            "guid": "d1b7f029-5f01-4681-81dd-4813da4ad12e"
+        },
+        {
+            "viewoptionid": "3",
+            "value": "Group By Date",
+            "guid": "d5e7e33f-a61a-46d9-9346-3a3e8ba6bd9d"
+        },
+        {
+            "viewoptionid": "4",
+            "value": "Group By Read/Unread",
+            "guid": "89636284-ad56-454d-a9a7-527af0398605"
+        },
+        {
+            "viewoptionid": "5",
+            "value": "Group By Unsolicited",
+            "guid": "5aeb0a36-358f-4535-86d6-da6757be68af"
+        },
+        {
+            "viewoptionid": "6",
+            "value": "Group By Favourite",
+            "guid": "8b12915c-a3a4-49db-9b8d-9fbd12759105"
+        }
+    ]
+}

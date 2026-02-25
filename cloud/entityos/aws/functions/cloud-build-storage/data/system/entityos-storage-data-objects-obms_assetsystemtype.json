@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_assetsystemtype",
+        "id": "66815300"
+    },
+    "data": [
+        {
+            "systemtypeid": "1",
+            "title": "Vehicle",
+            "guid": "a8a0dec8-ed34-437e-904f-81d95c850dee"
+        },
+        {
+            "systemtypeid": "2",
+            "title": "Hazardous Substance",
+            "guid": "098fa6b3-9be1-4e5a-b6cc-2cd48cf6243b"
+        }
+    ]
+}

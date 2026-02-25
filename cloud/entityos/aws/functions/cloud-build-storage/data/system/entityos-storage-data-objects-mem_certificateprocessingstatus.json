@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "mem_certificateprocessingstatus",
+        "id": "1138819119"
+    },
+    "data": [
+        {
+            "processingstatusid": "1",
+            "value": "Application Received",
+            "notes": "",
+            "guid": "2c88590d-61fa-4a60-95d9-9ba54c611ce6"
+        },
+        {
+            "processingstatusid": "2",
+            "value": "Under Review",
+            "notes": "",
+            "guid": "8334b094-a82f-48a6-84f1-c8f968133b06"
+        },
+        {
+            "processingstatusid": "3",
+            "value": "No Progress",
+            "notes": "",
+            "guid": "3a3aab93-cb3e-42c2-b424-799adca2aa6f"
+        },
+        {
+            "processingstatusid": "4",
+            "value": "Declined",
+            "notes": "",
+            "guid": "ba8f7edb-1a30-47a2-85eb-7e0cb5502ee0"
+        },
+        {
+            "processingstatusid": "5",
+            "value": "Approved",
+            "notes": "",
+            "guid": "e930c1ea-a5ac-4f0e-8c4e-276a3399c951"
+        }
+    ]
+}

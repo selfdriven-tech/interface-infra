@@ -1,0 +1,48 @@
+{
+    "object": {
+        "name": "ref_loanpurpose",
+        "id": "375008417"
+    },
+    "data": [
+        {
+            "purposeid": "1",
+            "title": "Property Purchase",
+            "guid": "19931645-9cec-48d4-94cd-50e9ffa0f76b"
+        },
+        {
+            "purposeid": "2",
+            "title": "Property Refinance",
+            "guid": "265822ef-e49b-4d87-a248-8d3d83bad0ba"
+        },
+        {
+            "purposeid": "3",
+            "title": "Equity Release",
+            "guid": "592d4d91-863f-4c3d-905e-084390860640"
+        },
+        {
+            "purposeid": "4",
+            "title": "Construction",
+            "guid": "680ee824-f9d6-47de-bf2f-2f7f60657344"
+        },
+        {
+            "purposeid": "5",
+            "title": "Vehicle Purchase",
+            "guid": "8e312e17-0794-46e9-b643-6ec20b2834b9"
+        },
+        {
+            "purposeid": "6",
+            "title": "[Not Set]",
+            "guid": "3a21dc58-dba4-4e7f-a24c-e423ee9ca013"
+        },
+        {
+            "purposeid": "7",
+            "title": "Review",
+            "guid": "1569fbce-5a80-49fc-9263-a1170e368567"
+        },
+        {
+            "purposeid": "8",
+            "title": "Other",
+            "guid": "9af68acc-fcc1-4bfd-827b-45f5b839ef85"
+        }
+    ]
+}

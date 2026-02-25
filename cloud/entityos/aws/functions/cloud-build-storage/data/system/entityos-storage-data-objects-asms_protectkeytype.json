@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_protectkeytype",
+        "id": "258868039"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Public",
+            "guid": "c64e55f8-740b-4dad-a0cb-71a3224aae7f"
+        },
+        {
+            "typeid": "2",
+            "title": "Private",
+            "guid": "b13c8de8-0046-4b86-b065-0493f3bea357"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "asms_timerstatus",
+        "id": "283148054"
+    },
+    "data": [
+        {
+            "timerstatusid": "1",
+            "title": "Started",
+            "guid": "7274ee2f-fd0f-4613-ae04-acedc3822868"
+        },
+        {
+            "timerstatusid": "2",
+            "title": "Paused",
+            "guid": "67438328-e710-41f1-b877-c482a2f0c807"
+        },
+        {
+            "timerstatusid": "3",
+            "title": "Stopped",
+            "guid": "0abfdde5-403f-4e32-9cac-03f4b6f002be"
+        }
+    ]
+}

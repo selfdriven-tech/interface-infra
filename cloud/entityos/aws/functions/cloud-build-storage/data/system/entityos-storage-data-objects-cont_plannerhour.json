@@ -1,0 +1,108 @@
+{
+    "object": {
+        "name": "cont_plannerhour",
+        "id": "1586104691"
+    },
+    "data": [
+        {
+            "hourid": "0",
+            "value": "0:00 AM",
+            "guid": "26d0e7a7-40f3-4b6a-9077-4fcf81eb4ef7"
+        },
+        {
+            "hourid": "1",
+            "value": "1:00",
+            "guid": "ba73ec25-8580-43f8-b790-335ac8731aa7"
+        },
+        {
+            "hourid": "2",
+            "value": "2:00",
+            "guid": "a23fcafc-af3b-424d-a813-91cf793e48da"
+        },
+        {
+            "hourid": "3",
+            "value": "3:00",
+            "guid": "95b37ecd-dfdc-4459-8241-767f7e1ea263"
+        },
+        {
+            "hourid": "4",
+            "value": "4:00",
+            "guid": "f66ed17b-c5f4-41ec-bf80-2f463eb019e0"
+        },
+        {
+            "hourid": "5",
+            "value": "5:00",
+            "guid": "8583782d-76da-42fb-bc08-de129c91f18b"
+        },
+        {
+            "hourid": "6",
+            "value": "6:00",
+            "guid": "a4073cec-91f1-40f9-958a-74a8f395e121"
+        },
+        {
+            "hourid": "7",
+            "value": "7:00",
+            "guid": "d9d2846c-d467-401d-8839-160b1531c748"
+        },
+        {
+            "hourid": "8",
+            "value": "8:00",
+            "guid": "bca583d8-2495-4b65-8079-efbbd1211dd1"
+        },
+        {
+            "hourid": "9",
+            "value": "9:00",
+            "guid": "0992858b-0fae-4724-9a51-5106c30b7de7"
+        },
+        {
+            "hourid": "10",
+            "value": "10:00",
+            "guid": "a1ad8b65-b7b3-42d9-ac74-284e7a726ffc"
+        },
+        {
+            "hourid": "11",
+            "value": "11:00",
+            "guid": "f7cac1a9-108b-4edf-9fdc-d3086f8754be"
+        },
+        {
+            "hourid": "12",
+            "value": "12:00 PM",
+            "guid": "98839a20-b9e6-494b-8e4c-c137ddfe3c9f"
+        },
+        {
+            "hourid": "13",
+            "value": "1:00",
+            "guid": "88a502f2-19da-4746-b696-702372cfc6c4"
+        },
+        {
+            "hourid": "14",
+            "value": "2:00",
+            "guid": "6d56f8b1-bf33-41b9-b236-432ad18f778e"
+        },
+        {
+            "hourid": "15",
+            "value": "3:00",
+            "guid": "2a8d4ca2-ad34-4500-ad37-7ae00956cd37"
+        },
+        {
+            "hourid": "16",
+            "value": "4:00",
+            "guid": "3b8afdc2-aabb-4a25-813f-ea7df8411a52"
+        },
+        {
+            "hourid": "17",
+            "value": "5:00",
+            "guid": "567d560e-b1cd-4079-929f-612546416d8e"
+        },
+        {
+            "hourid": "18",
+            "value": "6:00",
+            "guid": "9cb2c4fa-b753-4c5e-a447-771e870d15d2"
+        },
+        {
+            "hourid": "19",
+            "value": "7:00",
+            "guid": "82f30431-e59d-4821-a635-5f8431a5521d"
+        }
+    ]
+}

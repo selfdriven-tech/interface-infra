@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "tran_linehaulstatus",
+        "id": "2091870519"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Pending",
+            "guid": "097103e0-6f8c-4483-a719-12eb181977e7"
+        },
+        {
+            "statusid": "2",
+            "title": "Allocated",
+            "guid": "53e17bfc-d6b6-4f6f-a8fc-60b4a1f0667c"
+        },
+        {
+            "statusid": "3",
+            "title": "Loaded",
+            "guid": "033a641e-38fc-465b-bd75-09a5fe81d5ac"
+        },
+        {
+            "statusid": "4",
+            "title": "In Transit",
+            "guid": "5b97b66a-7e0f-48e0-88fa-629c9ce6ee90"
+        },
+        {
+            "statusid": "5",
+            "title": "Completed",
+            "guid": "bf2941bd-b457-4a12-a53a-5c38d10b9487"
+        }
+    ]
+}

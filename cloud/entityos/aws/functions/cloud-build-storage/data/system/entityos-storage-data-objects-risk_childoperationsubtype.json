@@ -1,0 +1,32 @@
+{
+    "object": {
+        "name": "risk_childoperationsubtype",
+        "id": "603669744"
+    },
+    "data": [
+        {
+            "subtypeid": "1",
+            "title": "Site",
+            "notes": "",
+            "guid": "ca6ca783-9ac8-4d31-bf5f-d1d11616c5bf"
+        },
+        {
+            "subtypeid": "2",
+            "title": "Site and Policy Year",
+            "notes": "",
+            "guid": "b1a4ca4a-22c9-4cf4-9424-eb1fb6cd33f9"
+        },
+        {
+            "subtypeid": "3",
+            "title": "Site and Policy Class",
+            "notes": "",
+            "guid": "ad656fb4-2738-4337-9def-4ff8b267acd3"
+        },
+        {
+            "subtypeid": "4",
+            "title": "Site and Policy Year and Policy Class",
+            "notes": "",
+            "guid": "e349f257-9946-4ed9-8191-fd5ee9ebf3dc"
+        }
+    ]
+}

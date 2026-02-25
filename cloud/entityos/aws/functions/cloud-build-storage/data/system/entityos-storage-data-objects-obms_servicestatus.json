@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "obms_servicestatus",
+        "id": "1616724812"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "description": "Available Now",
+            "guid": "7835fc07-8fd0-42d9-9f6d-c3f8c5f2ff31"
+        },
+        {
+            "statusid": "2",
+            "description": "Coming Soon",
+            "guid": "8b9cc10e-5966-48a0-bbc4-9b5d54717070"
+        },
+        {
+            "statusid": "3",
+            "description": "In Development",
+            "guid": "355a0e99-096b-4a1c-85c1-d5c3a19e1f42"
+        },
+        {
+            "statusid": "4",
+            "description": "Coming Soon - Preview Available",
+            "guid": "9957655b-f5cc-4009-9cca-cd0e0b19ceb3"
+        },
+        {
+            "statusid": "5",
+            "description": "Internal",
+            "guid": "45fceca9-1417-4727-8bea-b8397e6a40a3"
+        },
+        {
+            "statusid": "6",
+            "description": "Discontinued",
+            "guid": "5618cacf-a300-419d-8d63-7392541b16e3"
+        }
+    ]
+}

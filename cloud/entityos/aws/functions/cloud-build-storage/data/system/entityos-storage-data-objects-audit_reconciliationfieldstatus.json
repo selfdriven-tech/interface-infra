@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "audit_reconciliationfieldstatus",
+        "id": "1221331861"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Active",
+            "notes": "",
+            "guid": "44d9dd67-2ff9-45de-8a72-2468d31b6634"
+        },
+        {
+            "statusid": "2",
+            "title": "Inactive",
+            "notes": "",
+            "guid": "d30f6fbe-61a9-4e7c-9b53-dcec2c7624fb"
+        },
+        {
+            "statusid": "3",
+            "title": "Do Not Compare",
+            "notes": "",
+            "guid": "111af384-2f3e-44ce-9a67-98ccf48f3758"
+        }
+    ]
+}

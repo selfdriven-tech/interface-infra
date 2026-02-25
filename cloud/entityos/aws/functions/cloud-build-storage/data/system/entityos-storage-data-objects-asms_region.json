@@ -1,0 +1,36 @@
+{
+    "object": {
+        "name": "asms_region",
+        "id": "903726322"
+    },
+    "data": [
+        {
+            "regionid": "1",
+            "reference": "AU",
+            "title": "Australia",
+            "statusid": "1",
+            "guid": "9754fc3a-79cd-4591-baf2-f09af58d042c"
+        },
+        {
+            "regionid": "2",
+            "reference": "AS",
+            "title": "Asia",
+            "statusid": "2",
+            "guid": "704f796e-7085-4fe1-ad49-91dc67594f93"
+        },
+        {
+            "regionid": "3",
+            "reference": "AM",
+            "title": "America",
+            "statusid": "2",
+            "guid": "50cb3171-7981-412e-8dca-ed2ba14ff1e1"
+        },
+        {
+            "regionid": "4",
+            "reference": "EU",
+            "title": "Europe",
+            "statusid": "2",
+            "guid": "2c283344-c21e-4c55-83aa-0f689091f867"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "tran_manifeststrictness",
+        "id": "1659868980"
+    },
+    "data": [
+        {
+            "strictnessid": "1",
+            "title": "Loose - Can choose any Equipment",
+            "guid": "038c05f5-3bfb-41b8-a39f-bcb189d8fa80"
+        },
+        {
+            "strictnessid": "2",
+            "title": "Medium - Defaults to Tight, but can be overriden",
+            "guid": "e932c7f4-89a5-4065-a192-61a77c5188cd"
+        },
+        {
+            "strictnessid": "3",
+            "title": "Tight - Can only choose Equipment at Hub",
+            "guid": "01794657-d3a6-4330-a521-fd84173aa5aa"
+        }
+    ]
+}

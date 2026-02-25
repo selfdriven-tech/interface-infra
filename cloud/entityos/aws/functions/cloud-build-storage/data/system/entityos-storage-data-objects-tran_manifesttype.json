@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "tran_manifesttype",
+        "id": "1595868752"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Pickup",
+            "guid": "a6ac69dd-cec1-42c3-8c9f-0ceb7f666d52"
+        },
+        {
+            "typeid": "2",
+            "title": "Linehaul",
+            "guid": "9fe5f836-9c69-4ebc-9547-4664bcf2fbec"
+        },
+        {
+            "typeid": "3",
+            "title": "Delivery",
+            "guid": "73deadbd-d696-40f1-89cb-75b08fd7a8cf"
+        },
+        {
+            "typeid": "4",
+            "title": "Local",
+            "guid": "2779c755-7a38-491b-af8a-9c9004a6532b"
+        }
+    ]
+}

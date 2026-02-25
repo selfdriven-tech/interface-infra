@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_worktaskstatus",
+        "id": "1052582838"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Active",
+            "guid": "2892b9e7-e713-4d6c-8ebd-4a9c4b538e39"
+        },
+        {
+            "statusid": "2",
+            "value": "Inactive",
+            "guid": "0a4311b7-8d11-46f1-862a-9c5d3953e3f4"
+        }
+    ]
+}

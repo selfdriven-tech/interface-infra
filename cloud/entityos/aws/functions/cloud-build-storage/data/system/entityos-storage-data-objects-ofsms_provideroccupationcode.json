@@ -1,0 +1,148 @@
+{
+    "object": {
+        "name": "ofsms_provideroccupationcode",
+        "id": "1379535998"
+    },
+    "data": [
+        {
+            "occupationid": "1",
+            "providerserviceid": "65",
+            "code": "1",
+            "description": "Abalone Diver",
+            "guid": "484307ac-629c-46bb-93f0-67ecd880e85a"
+        },
+        {
+            "occupationid": "2",
+            "providerserviceid": "65",
+            "code": "2",
+            "description": "Abalone diver - licensed JH",
+            "guid": "d9cfe8ee-3fe8-44df-b90d-b6df41d6ee4e"
+        },
+        {
+            "occupationid": "3",
+            "providerserviceid": "65",
+            "code": "3",
+            "description": "Abalone diver - licensed, shallow water, &lt; 15 metres",
+            "guid": "e6ad207d-3545-4822-b9fa-3fadf1783fde"
+        },
+        {
+            "occupationid": "4",
+            "providerserviceid": "65",
+            "code": "4",
+            "description": "Abattoir Supervisor - no manual work",
+            "guid": "6876c5f6-0e1f-4602-9b78-3ba6cd36270f"
+        },
+        {
+            "occupationid": "5",
+            "providerserviceid": "65",
+            "code": "5",
+            "description": "Abattoir Worker",
+            "guid": "e14d2253-13ec-4777-9c79-9b36622ee744"
+        },
+        {
+            "occupationid": "6",
+            "providerserviceid": "65",
+            "code": "6",
+            "description": "Abattoir Worker - butcher / boner",
+            "guid": "fc157409-9184-4878-84b9-5af43e706a20"
+        },
+        {
+            "occupationid": "7",
+            "providerserviceid": "65",
+            "code": "2404",
+            "description": "Account Executive - degree, average earnings &lt;= $100K for last 3 yrs",
+            "guid": "70037033-4a26-4cb3-8ad9-972b124e8373"
+        },
+        {
+            "occupationid": "9",
+            "providerserviceid": "65",
+            "code": "2405",
+            "description": "Account Executive - no degree, average earnings &gt;= $100K for last 3 yrs",
+            "guid": "5c6da762-4f95-4cb7-83c9-c59fc4f57c18"
+        },
+        {
+            "occupationid": "10",
+            "providerserviceid": "65",
+            "code": "7",
+            "description": "Account Manager",
+            "guid": "9cf80eba-8e03-447a-ae68-b65769b216f9"
+        },
+        {
+            "occupationid": "11",
+            "providerserviceid": "65",
+            "code": "8",
+            "description": "Accountant - degree or CPA / CA, average earnings &lt; $125k for last 3 yrs",
+            "guid": "c5c7e753-7458-4def-98c5-39c5d460be6d"
+        },
+        {
+            "occupationid": "12",
+            "providerserviceid": "65",
+            "code": "2409",
+            "description": "Accountant - degree or CPA / CA, average earnings &lt;= $100k for last 3 yrs",
+            "guid": "a3304276-2a02-49ff-9578-d9c0e0808595"
+        },
+        {
+            "occupationid": "13",
+            "providerserviceid": "65",
+            "code": "2415",
+            "description": "Accountant - degree or CPA / CA, average earnings &lt;= $80k for last 3 yrs",
+            "guid": "086226bf-b475-43f5-a45d-04f31a2ec94c"
+        },
+        {
+            "occupationid": "15",
+            "providerserviceid": "65",
+            "code": "9",
+            "description": "Accountant - degree or CPA / CA, average earnings &gt;= $125k for last 3 yrs",
+            "guid": "b94e9715-3a98-42af-98b6-8a5deb6cefe1"
+        },
+        {
+            "occupationid": "17",
+            "providerserviceid": "65",
+            "code": "10",
+            "description": "Accountant - manages &gt;= 5 staff; salary &gt; $120k",
+            "guid": "2c77f050-2cea-4ca5-be6e-ccb973248934"
+        },
+        {
+            "occupationid": "19",
+            "providerserviceid": "65",
+            "code": "2416",
+            "description": "Accountant - no degree or CPA / CA, average earnings &lt;= $80k for last 3 yrs",
+            "guid": "5c06c082-35f7-47b5-a9c5-b5ece33fdf71"
+        },
+        {
+            "occupationid": "20",
+            "providerserviceid": "65",
+            "code": "2408",
+            "description": "Accountant - no degree or CPA / CA, average earnings &gt;= $100k for last 3 yrs",
+            "guid": "32a3b007-961a-41af-aced-c5d0fb3684eb"
+        },
+        {
+            "occupationid": "21",
+            "providerserviceid": "65",
+            "code": "11",
+            "description": "Accountant - no degree or CPA / CA, average earnings &gt;= $125k for last 3 yrs",
+            "guid": "5e7176b3-5714-4156-a30b-5e29b94482f4"
+        },
+        {
+            "occupationid": "22",
+            "providerserviceid": "65",
+            "code": "2413",
+            "description": "Accountant - no degree or CPA / CA, average earnings &gt;= $80k  for last 3 yrs",
+            "guid": "0d2e5274-84da-4976-a82a-80fd27b398c0"
+        },
+        {
+            "occupationid": "23",
+            "providerserviceid": "65",
+            "code": "2414",
+            "description": "Accountant - no degree or CPA / CA, average earnings &gt;= $80k for last 3 yrs",
+            "guid": "ea5fabae-eae7-4a62-a348-d44142459be9"
+        },
+        {
+            "occupationid": "24",
+            "providerserviceid": "65",
+            "code": "12",
+            "description": "Accounts Clerk",
+            "guid": "c75a6b66-10e1-462d-9f45-910a0d3ed573"
+        }
+    ]
+}

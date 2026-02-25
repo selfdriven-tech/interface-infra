@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_productpricediscounttype",
+        "id": "1005246636"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Customer Orders",
+            "guid": "ac59abb6-e24f-474c-86ff-c1beaaae0317"
+        },
+        {
+            "typeid": "2",
+            "title": "Supplier Orders",
+            "guid": "71ca8a8b-f190-4439-ac3b-9e0de3be0698"
+        },
+        {
+            "typeid": "3",
+            "title": "Both",
+            "guid": "18b9507d-5634-40f1-a154-22a7609aeaa8"
+        }
+    ]
+}

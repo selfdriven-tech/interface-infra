@@ -1,0 +1,108 @@
+{
+    "object": {
+        "name": "ofsms_loanstatus",
+        "id": "16055143"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Application",
+            "guid": "2744ae4a-e9a6-4bc5-b7fa-e5e5f8391ff8"
+        },
+        {
+            "statusid": "2",
+            "value": "Current Loan",
+            "guid": "66cb63dd-6fc1-4828-8446-1538ab4fb375"
+        },
+        {
+            "statusid": "3",
+            "value": "Loan In Default",
+            "guid": "fb12e8a6-58fc-421d-a13f-839b954f9f69"
+        },
+        {
+            "statusid": "4",
+            "value": "Paid Out Loan (Closed)",
+            "guid": "1eba24f9-4b6a-43d9-8d69-f536d562839b"
+        },
+        {
+            "statusid": "5",
+            "value": "Enquiry",
+            "guid": "945f9a7d-bbe7-412f-bb60-6bbaf585f3fe"
+        },
+        {
+            "statusid": "6",
+            "value": "Approved (Formally)",
+            "guid": "77e06a01-9f5c-4aa8-ab8f-f37798e4df9f"
+        },
+        {
+            "statusid": "7",
+            "value": "Declined",
+            "guid": "9f84f587-6dca-45cc-a28b-4601d56111dd"
+        },
+        {
+            "statusid": "8",
+            "value": "Submitted",
+            "guid": "b7a2c7ab-6dfa-43cc-9e85-6e4a03aaad05"
+        },
+        {
+            "statusid": "9",
+            "value": "Settled",
+            "guid": "5b3787d4-6e6e-4b25-aa8d-c8bf48ec2180"
+        },
+        {
+            "statusid": "10",
+            "value": "Withdrawn",
+            "guid": "758d375b-6be7-4393-bef1-a1b2583f5c2e"
+        },
+        {
+            "statusid": "11",
+            "value": "Approved (Conditionally)",
+            "guid": "39392814-baa8-47cb-b312-35e51adf1f1c"
+        },
+        {
+            "statusid": "12",
+            "value": "Pre-Approved",
+            "guid": "753eaa4a-2dad-4458-ba59-8add658086a9"
+        },
+        {
+            "statusid": "13",
+            "value": "Closed Internally",
+            "guid": "a1ab9c37-c4a9-4e76-a263-1056cd317c8a"
+        },
+        {
+            "statusid": "14",
+            "value": "Commission Claimed",
+            "guid": "f2900899-bc1b-4d28-a3ad-d4b4252093dc"
+        },
+        {
+            "statusid": "15",
+            "value": "Commission Received",
+            "guid": "be277052-8396-429f-8460-c6c0104c4ebc"
+        },
+        {
+            "statusid": "16",
+            "value": "Commission Queried",
+            "guid": "324a9969-3220-47b9-9e19-f7dc9873c32f"
+        },
+        {
+            "statusid": "17",
+            "value": "Trailer Current",
+            "guid": "f55ba2cb-e968-4e63-9201-43fb730b378d"
+        },
+        {
+            "statusid": "18",
+            "value": "Trailer Due",
+            "guid": "6b1f0eb6-0d0c-423e-86d2-edb18ef0bac4"
+        },
+        {
+            "statusid": "19",
+            "value": "Trailer Stopped",
+            "guid": "816ed602-3775-4a7c-b9d1-0e181edd2963"
+        },
+        {
+            "statusid": "20",
+            "value": "Trailer Queried",
+            "guid": "6654d35c-ee2a-485b-b5b0-cd123a900c98"
+        }
+    ]
+}

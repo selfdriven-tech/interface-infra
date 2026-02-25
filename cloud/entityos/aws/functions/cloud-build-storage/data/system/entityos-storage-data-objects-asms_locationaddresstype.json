@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_locationaddresstype",
+        "id": "20195122"
+    },
+    "data": [
+        {
+            "locationaddresstypeid": "1",
+            "title": "Street",
+            "guid": "b338cb3b-c561-4e12-ae54-8e70b3b6c06c"
+        },
+        {
+            "locationaddresstypeid": "2",
+            "title": "Mailing",
+            "guid": "a31e536b-2fa2-4c78-bb05-df1c0b0ed14b"
+        }
+    ]
+}

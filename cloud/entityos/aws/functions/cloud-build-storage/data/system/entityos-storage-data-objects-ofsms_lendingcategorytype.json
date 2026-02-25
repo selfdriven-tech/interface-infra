@@ -1,0 +1,63 @@
+{
+    "object": {
+        "name": "ofsms_lendingcategorytype",
+        "id": "160055656"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Home",
+            "guid": "3464a1e2-afa0-4cc7-af0e-8799e26de814"
+        },
+        {
+            "typeid": "2",
+            "value": "Commercial",
+            "guid": "1cbea228-a1d0-45f7-a9d7-cd0d9da65160"
+        },
+        {
+            "typeid": "3",
+            "value": "Line Of Credit",
+            "guid": "d3e7c9fd-fe19-4f40-ac6a-50780bd5a0d3"
+        },
+        {
+            "typeid": "4",
+            "value": "Investment",
+            "guid": "4e71da94-e3a4-4029-b4e9-5e50ade9bd01"
+        },
+        {
+            "typeid": "5",
+            "value": "Vehicle",
+            "guid": "370b6271-73c9-479e-b2f7-4059b960624d"
+        },
+        {
+            "typeid": "6",
+            "value": "Personal",
+            "guid": "667dcd38-e33d-499b-88d8-30b3cd74d6e6"
+        },
+        {
+            "typeid": "7",
+            "value": "Machinery",
+            "guid": "32281a70-df33-4973-b343-1c2aeb78f6a8"
+        },
+        {
+            "typeid": "8",
+            "value": "Rental",
+            "guid": "53d9afbf-9799-4038-9c56-96944f9f4960"
+        },
+        {
+            "typeid": "9",
+            "value": "Lease",
+            "guid": "7ce17a17-70f5-494c-985d-ead28bab4af0"
+        },
+        {
+            "typeid": "10",
+            "value": "Operating Lease",
+            "guid": "10c0a9a2-0b6b-4181-8244-84b827ced1dd"
+        },
+        {
+            "typeid": "11",
+            "value": "Security Bond",
+            "guid": "d162b8d5-1e45-4995-8c1a-6bdab5318d13"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "object": {
+        "name": "dash_formatdate",
+        "id": "1330103779"
+    },
+    "data": [
+        {
+            "formatdateid": "1",
+            "title": "[All]",
+            "displayorder": "1",
+            "guid": "f1fa3c94-beee-4f69-bae1-dfb16de39a8c"
+        },
+        {
+            "formatdateid": "2",
+            "title": "Today",
+            "displayorder": "2",
+            "guid": "371b44d6-0010-4156-906a-2a0f8db121eb"
+        },
+        {
+            "formatdateid": "3",
+            "title": "Yesterday",
+            "displayorder": "3",
+            "guid": "2484e57d-6f1d-40f4-b83f-75cb736ec6bc"
+        },
+        {
+            "formatdateid": "4",
+            "title": "Calendar Week",
+            "displayorder": "4",
+            "guid": "266937bc-7839-4266-acab-d24234c462b3"
+        },
+        {
+            "formatdateid": "5",
+            "title": "Month",
+            "displayorder": "5",
+            "guid": "025cefd8-509b-40d6-aeb7-1d34869e1ecf"
+        },
+        {
+            "formatdateid": "6",
+            "title": "Quarter (3 Months)",
+            "displayorder": "7",
+            "guid": "6803847c-37b3-41e0-ad70-9c3624aff779"
+        },
+        {
+            "formatdateid": "7",
+            "title": "Half Year (6 Months)",
+            "displayorder": "7",
+            "guid": "8f84848c-b37b-43f3-93a2-2906d13208f0"
+        },
+        {
+            "formatdateid": "8",
+            "title": "Year",
+            "displayorder": "9",
+            "guid": "0c9fa73d-fdd1-4221-8120-36e07b15ac20"
+        },
+        {
+            "formatdateid": "9",
+            "title": "Calendar Month",
+            "displayorder": "6",
+            "guid": "c78c5e03-ce27-4ab3-96c2-505022dd9517"
+        }
+    ]
+}

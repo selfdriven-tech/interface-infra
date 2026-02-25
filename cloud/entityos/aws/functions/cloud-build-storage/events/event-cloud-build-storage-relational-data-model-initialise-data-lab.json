@@ -1,0 +1,45 @@
+{
+	"method": "storage-relational-data-model-initialise-data",
+	"storage": {
+		"simulate": true,
+		"cluster": {
+			"id": "cluster-ctqe76w42vxr.ap-southeast-2.rds.amazonaws.com",
+			"port": 3306
+		},
+		"instance": {
+			"id": "lab-rds-cluster-001-aurora-serverless-v2",
+			"url": "lab-rds-cluster-001-aurora-serverless-v2.cluster-ctqe76w42vxr.ap-southeast-2.rds.amazonaws.com",
+			"type": "write,read"
+		},
+		"model": {
+			"folder": "schema/model",
+			"filename": "entityos-storage-model-objects-processed-system.json"
+		},
+		"database": {
+			"name": "lab_datastore_001",
+			"engine": "mysql"
+		},
+		"initialise": {
+			"notes": [
+				""
+			],
+			"data": {
+				"folder": "data/tobeprocessed",
+				"_filenames": ["entityos-storage-data-objects-16719112-asms_alerttypesite.json"]
+			},
+			"processing": {
+				"folder": "data/processing"
+			},
+			"check": true
+		},
+		"process":
+		{
+			"startindex": 2,
+			"maximum": 10
+		}
+	},
+	"notes": [
+		"Data",
+		"Intialise the storage data - system."
+	]
+}

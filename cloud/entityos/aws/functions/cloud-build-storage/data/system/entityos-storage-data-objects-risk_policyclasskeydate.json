@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_policyclasskeydate",
+        "id": "1143167318"
+    },
+    "data": [
+        {
+            "keydateid": "1",
+            "title": "Incident Date",
+            "guid": "e9ca2192-ea24-4323-81fa-94165f5a960a"
+        },
+        {
+            "keydateid": "2",
+            "title": "Date Reported",
+            "guid": "fb69c019-9244-41b6-9fc0-be3a45cb6171"
+        }
+    ]
+}

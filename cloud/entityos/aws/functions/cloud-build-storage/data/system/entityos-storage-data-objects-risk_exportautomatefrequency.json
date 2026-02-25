@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "risk_exportautomatefrequency",
+        "id": "586485168"
+    },
+    "data": [
+        {
+            "automatefrequencyid": "1",
+            "title": "None",
+            "guid": "d5b997f6-e443-4070-b41f-c3f6f9309c5a"
+        },
+        {
+            "automatefrequencyid": "2",
+            "title": "Daily",
+            "guid": "014e4142-b363-4a68-b199-f7bd52f539b4"
+        },
+        {
+            "automatefrequencyid": "3",
+            "title": "Weekly",
+            "guid": "18cd2608-a57b-4bed-822b-d36c68293c78"
+        },
+        {
+            "automatefrequencyid": "4",
+            "title": "Monthly",
+            "guid": "7750d7ec-ab7c-408b-aac4-f6355defecd0"
+        },
+        {
+            "automatefrequencyid": "5",
+            "title": "Once Only",
+            "guid": "4915822f-1157-4cb0-a5f5-c63b43017ba4"
+        }
+    ]
+}

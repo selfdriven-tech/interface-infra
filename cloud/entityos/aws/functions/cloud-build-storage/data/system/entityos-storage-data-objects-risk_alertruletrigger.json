@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "risk_alertruletrigger",
+        "id": "2006662592"
+    },
+    "data": [
+        {
+            "triggerid": "1",
+            "title": "Entity added",
+            "guid": "6ce7edbf-a8c3-4d81-bcde-c8359cda16ae"
+        },
+        {
+            "triggerid": "2",
+            "title": "Entity Updated",
+            "guid": "d32c58b5-2280-4d1f-9b89-eb1329d56556"
+        },
+        {
+            "triggerid": "3",
+            "title": "Measure - Updated",
+            "guid": "44182d2b-7e18-43ea-b1f4-18f1d5046afc"
+        },
+        {
+            "triggerid": "4",
+            "title": "Measure - Comparison",
+            "guid": "611ef642-7525-4504-b636-128bb1566f4d"
+        },
+        {
+            "triggerid": "5",
+            "title": "Measure - Value",
+            "guid": "a2fb695e-7b14-42cb-82cf-48a9b1151c27"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "object": {
+        "name": "risk_activitytype",
+        "id": "1239532045"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Main Search",
+            "guid": "9df6f67d-a21b-40d3-a487-7d17a5f70073"
+        },
+        {
+            "typeid": "2",
+            "title": "Main View",
+            "guid": "e338a772-8c1c-40f2-a5a1-15f91ae7b730"
+        },
+        {
+            "typeid": "3",
+            "title": "Main Save",
+            "guid": "30e9bfee-7ab2-4099-ab27-a42b169db4a6"
+        },
+        {
+            "typeid": "4",
+            "title": "Report - Risk Class Summary",
+            "guid": "1c93bb35-2482-4d00-b6cb-bb8a77688347"
+        },
+        {
+            "typeid": "5",
+            "title": "Report - Detailed Period Comparison",
+            "guid": "6611db92-f8f1-4d07-96a1-b03af5637e09"
+        },
+        {
+            "typeid": "6",
+            "title": "Report - Alerts",
+            "guid": "86bc278e-6149-44c6-9d06-b17e406e8790"
+        },
+        {
+            "typeid": "7",
+            "title": "Report - Completion Status Summary",
+            "guid": "a93ef2c7-6618-43a3-ae19-6a1cb4748566"
+        },
+        {
+            "typeid": "8",
+            "title": "Report - User Responsibility &amp; Completion",
+            "guid": "b1bb33b7-b4cf-4625-bf7f-5fe49676b185"
+        },
+        {
+            "typeid": "9",
+            "title": "Manage",
+            "guid": "debc0138-abcc-4b08-a333-2a3e92016488"
+        },
+        {
+            "typeid": "10",
+            "title": "Export Entities",
+            "guid": "92e86cb1-cf20-49fb-9184-0c2e36a340c7"
+        },
+        {
+            "typeid": "11",
+            "title": "Reports",
+            "guid": "e482611a-fa65-44c2-8da4-d3df80683675"
+        },
+        {
+            "typeid": "12",
+            "title": "Export Report",
+            "guid": "29f460ef-eea5-4054-b5d3-5f9e5fc93608"
+        },
+        {
+            "typeid": "13",
+            "title": "Switch Into",
+            "guid": "539736cb-9764-4b0c-8dec-0c876425652b"
+        },
+        {
+            "typeid": "14",
+            "title": "My Profile",
+            "guid": "13900a2e-d187-483f-a52e-38b80291676b"
+        },
+        {
+            "typeid": "15",
+            "title": "Configuration",
+            "guid": "5928864a-11ec-4238-891b-168b7e80be6f"
+        },
+        {
+            "typeid": "16",
+            "title": "Email",
+            "guid": "f75c3333-9994-40b4-ac5d-62c45a7fce85"
+        },
+        {
+            "typeid": "17",
+            "title": "Dashboard Configuration",
+            "guid": "ac3bd114-646a-4035-af2a-cf258d5744f2"
+        },
+        {
+            "typeid": "18",
+            "title": "Import Search",
+            "guid": "cf47cdb2-fb32-4021-ba62-283f05df1205"
+        },
+        {
+            "typeid": "19",
+            "title": "Import View",
+            "guid": "83f13b2e-3452-4906-8cba-82877a19c5bb"
+        },
+        {
+            "typeid": "20",
+            "title": "Import Save",
+            "guid": "07df1770-74be-446f-abfb-fa54f3b83394"
+        }
+    ]
+}

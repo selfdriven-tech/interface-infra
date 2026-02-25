@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "risk_reportsharetype",
+        "id": "912422720"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Private - Only Person Responsible and Creator can access",
+            "guid": "aabd0064-a31f-41cc-aa73-04ea82a1c20d"
+        },
+        {
+            "typeid": "2",
+            "title": "Public - Anyone can access",
+            "guid": "74a93472-8df7-4d35-8241-31fa54f218b0"
+        },
+        {
+            "typeid": "3",
+            "title": "By Business - 1 / User Group",
+            "guid": "aff17d85-05e7-41f4-8945-bf8d25e39d2a"
+        },
+        {
+            "typeid": "4",
+            "title": "Specific Users",
+            "guid": "06c719a4-221d-42a4-95d9-a3d1a68b5ee8"
+        }
+    ]
+}

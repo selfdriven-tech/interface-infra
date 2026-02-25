@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "email_addresscachetype",
+        "id": "725577623"
+    },
+    "data": [
+        {
+            "cachetypeid": "1",
+            "title": "Headers",
+            "guid": "00c482d1-8a4b-4d93-876c-94225c1d5505"
+        },
+        {
+            "cachetypeid": "2",
+            "title": "Full",
+            "guid": "f8cf3642-18a3-44a8-b9c8-9455cacf4894"
+        }
+    ]
+}

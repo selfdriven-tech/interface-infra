@@ -1,0 +1,48 @@
+{
+    "object": {
+        "name": "tran_requestformat",
+        "id": "603865218"
+    },
+    "data": [
+        {
+            "requestformatid": "1",
+            "value": "Fax",
+            "guid": "c7cd011e-9da0-446a-a28c-e1ebf4122aea"
+        },
+        {
+            "requestformatid": "2",
+            "value": "Phone",
+            "guid": "8893477c-7461-418a-addb-6c57cb2645b0"
+        },
+        {
+            "requestformatid": "3",
+            "value": "Email",
+            "guid": "7c099020-e982-4b71-9645-213ac8627a7a"
+        },
+        {
+            "requestformatid": "4",
+            "value": "Web",
+            "guid": "9d176b1a-c384-41c5-8200-2eaed5d3f357"
+        },
+        {
+            "requestformatid": "5",
+            "value": "Drop In",
+            "guid": "22a803d0-495c-4772-81ef-8a39c1d87394"
+        },
+        {
+            "requestformatid": "6",
+            "value": "[Not Set]",
+            "guid": "f800d831-bfd3-4373-93e4-18a14ac22a36"
+        },
+        {
+            "requestformatid": "7",
+            "value": "Permanent Booking - Drop In",
+            "guid": "b3acebfc-06fb-487c-b622-5b7588e8e371"
+        },
+        {
+            "requestformatid": "8",
+            "value": "Permanent Booking",
+            "guid": "b4403ea4-7265-4652-9823-febd7d2a4fdf"
+        }
+    ]
+}

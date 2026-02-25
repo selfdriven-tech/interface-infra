@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "support_type",
+        "id": "2120394623"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Help Required",
+            "notes": "",
+            "guid": "1658eae8-95a5-4ad0-996f-70dc7e529e43"
+        },
+        {
+            "typeid": "2",
+            "value": "Suggestion",
+            "notes": "",
+            "guid": "23c0245f-a202-4bf5-84b7-5711b684e92d"
+        },
+        {
+            "typeid": "3",
+            "value": "General Comment",
+            "notes": "",
+            "guid": "1b6f560d-a519-44b1-ae6d-7ffd8134c774"
+        }
+    ]
+}

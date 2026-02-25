@@ -1,0 +1,48 @@
+{
+    "object": {
+        "name": "news_headerlinkformat",
+        "id": "610817238"
+    },
+    "data": [
+        {
+            "headerlinkformatid": "1",
+            "value": "[None]",
+            "guid": "341d8853-1aff-4fed-a0b4-1f29654d4bf6"
+        },
+        {
+            "headerlinkformatid": "2",
+            "value": "Browser",
+            "guid": "78e5cdf9-f52c-4b7a-9ff3-365c48512915"
+        },
+        {
+            "headerlinkformatid": "3",
+            "value": "Blog",
+            "guid": "880889b2-7df5-4fa7-a627-f13da03cba72"
+        },
+        {
+            "headerlinkformatid": "4",
+            "value": "RSS",
+            "guid": "5ec261f0-b773-4b0e-b36f-81f1ed9df55c"
+        },
+        {
+            "headerlinkformatid": "5",
+            "value": "Browser &amp; Blog",
+            "guid": "ea058171-6b40-41e5-9d20-fe9161c667ba"
+        },
+        {
+            "headerlinkformatid": "6",
+            "value": "Browser &amp; RSS",
+            "guid": "720e1bc9-3dfc-494c-a8e8-54c302c090a2"
+        },
+        {
+            "headerlinkformatid": "7",
+            "value": "Blog &amp; RSS",
+            "guid": "c28a080c-c083-4366-8e51-6a1474b64972"
+        },
+        {
+            "headerlinkformatid": "8",
+            "value": "Browser, Blog &amp; RSS",
+            "guid": "f9b95864-9d86-4dff-be2d-cb145f2bf06a"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "otms_filetype",
+        "id": "51531267"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Bank",
+            "guid": "b16f31aa-4e03-44ec-872d-aedf1902279f"
+        },
+        {
+            "typeid": "2",
+            "value": "Merchant",
+            "guid": "d767a532-6b8d-4179-8e01-8d6b7c10e952"
+        }
+    ]
+}

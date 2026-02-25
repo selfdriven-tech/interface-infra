@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_businessareastatus",
+        "id": "1462296269"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Active",
+            "guid": "f0aaa91a-f23b-4993-99fc-baf517f5898c"
+        },
+        {
+            "statusid": "2",
+            "value": "In-Active",
+            "guid": "4b609042-35e0-4bd6-b903-7f7a6af686e2"
+        }
+    ]
+}

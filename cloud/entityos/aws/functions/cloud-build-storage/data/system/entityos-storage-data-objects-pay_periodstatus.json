@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "pay_periodstatus",
+        "id": "1367011951"
+    },
+    "data": [
+        {
+            "periodstatusid": "1",
+            "value": "In Progress",
+            "displayorder": "1",
+            "guid": "13d81123-3d1a-4bf9-8d39-bfee6aa6e744"
+        },
+        {
+            "periodstatusid": "2",
+            "value": "Completed",
+            "displayorder": "2",
+            "guid": "5c8be5c1-4982-4efe-9da9-42acb8c82446"
+        }
+    ]
+}

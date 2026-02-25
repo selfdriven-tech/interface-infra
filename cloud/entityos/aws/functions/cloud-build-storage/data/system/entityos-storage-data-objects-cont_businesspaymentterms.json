@@ -1,0 +1,63 @@
+{
+    "object": {
+        "name": "cont_businesspaymentterms",
+        "id": "2146106686"
+    },
+    "data": [
+        {
+            "paymenttermsid": "1",
+            "title": "Manually Set",
+            "guid": "9e3e774b-134f-4f7c-810b-8b529d244b29"
+        },
+        {
+            "paymenttermsid": "2",
+            "title": "7 Days from Invoice Date",
+            "guid": "419608a4-9a72-41e2-bdd0-d46125851da0"
+        },
+        {
+            "paymenttermsid": "3",
+            "title": "14 Days from Invoice Date",
+            "guid": "07e4f273-42a9-4885-8101-604ddc91955e"
+        },
+        {
+            "paymenttermsid": "4",
+            "title": "30 Days from Invoice date",
+            "guid": "af477809-5594-478c-b0a2-79b3a0147f95"
+        },
+        {
+            "paymenttermsid": "5",
+            "title": "60 Days from Invoice Date",
+            "guid": "8cf1d2c1-ed91-4ac2-8688-db074ce70d17"
+        },
+        {
+            "paymenttermsid": "6",
+            "title": "7 Days from End of Month",
+            "guid": "65afcc08-02c6-4ed8-8c9f-047e23299605"
+        },
+        {
+            "paymenttermsid": "7",
+            "title": "14 Days from End of Month",
+            "guid": "761064e2-8767-4eab-99a5-72b73f809b92"
+        },
+        {
+            "paymenttermsid": "8",
+            "title": "30 Days from End of Month",
+            "guid": "564df8f4-4ebe-4172-8a90-8974b9910ff4"
+        },
+        {
+            "paymenttermsid": "9",
+            "title": "COD",
+            "guid": "34f9ed58-b26b-4cbf-9f3d-72a045867a87"
+        },
+        {
+            "paymenttermsid": "10",
+            "title": "21 days from End of Month",
+            "guid": "1e061902-110d-44a4-8a33-6c9691bec3a1"
+        },
+        {
+            "paymenttermsid": "11",
+            "title": "90 Days from Invoice Date",
+            "guid": "07630edb-4b0d-4951-9537-a77de9ed4f93"
+        }
+    ]
+}

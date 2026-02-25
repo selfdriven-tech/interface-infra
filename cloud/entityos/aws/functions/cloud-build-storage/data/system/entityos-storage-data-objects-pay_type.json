@@ -1,0 +1,53 @@
+{
+    "object": {
+        "name": "pay_type",
+        "id": "1047010811"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Work",
+            "guid": "097a94b0-e8b2-4ec9-a068-4cbb843ae309"
+        },
+        {
+            "typeid": "2",
+            "value": "Leave",
+            "guid": "fd005505-9e22-4ba0-9692-161171d046d7"
+        },
+        {
+            "typeid": "3",
+            "value": "Leave - No Pay",
+            "guid": "5f1593a3-1b52-44a1-a664-c1fd3409f968"
+        },
+        {
+            "typeid": "4",
+            "value": "Sick Leave",
+            "guid": "050c9e8b-536a-4929-a9b6-d0a4396a06b3"
+        },
+        {
+            "typeid": "5",
+            "value": "TIL",
+            "guid": "db8ea91b-072c-4893-bf75-3075f4b49226"
+        },
+        {
+            "typeid": "6",
+            "value": "Public Holidays",
+            "guid": "a5ca8699-9ea2-4ae3-9103-a707e9b54cad"
+        },
+        {
+            "typeid": "7",
+            "value": "Higher Duties",
+            "guid": "004be458-e5e7-41b0-8ec5-1013247dd8c6"
+        },
+        {
+            "typeid": "8",
+            "value": "Sick Leave - No Pay",
+            "guid": "0a837ed3-b4f2-4c9f-bcd7-5e856ac69ab0"
+        },
+        {
+            "typeid": "9",
+            "value": "SNSS",
+            "guid": "455dd761-4fb1-4741-8738-6de95f35c8cf"
+        }
+    ]
+}

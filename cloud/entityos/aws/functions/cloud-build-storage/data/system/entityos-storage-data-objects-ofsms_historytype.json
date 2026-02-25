@@ -1,0 +1,148 @@
+{
+    "object": {
+        "name": "ofsms_historytype",
+        "id": "448056682"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "linktype": "-1",
+            "value": "[Other]",
+            "reference": "1",
+            "guid": "8ef787a3-0b95-4c5c-8c0e-ed2a997b244c"
+        },
+        {
+            "typeid": "2",
+            "linktype": "92",
+            "value": "Investment Started",
+            "reference": "2",
+            "guid": "49412d04-45c2-4100-9436-004b30d395a9"
+        },
+        {
+            "typeid": "3",
+            "linktype": "92",
+            "value": "Investment Ended",
+            "reference": "3",
+            "guid": "58e15bdc-752a-40e0-ae01-6206bdef9b66"
+        },
+        {
+            "typeid": "4",
+            "linktype": "92",
+            "value": "Investment Lodged",
+            "reference": "4",
+            "guid": "c6d6b230-2868-4bd3-a0fb-53a51a812f40"
+        },
+        {
+            "typeid": "5",
+            "linktype": "92",
+            "value": "Investment Accepted",
+            "reference": "5",
+            "guid": "01b455c3-5779-4168-90cb-88bcd4648a05"
+        },
+        {
+            "typeid": "6",
+            "linktype": "73",
+            "value": "Loan Lodged",
+            "reference": "6",
+            "guid": "4a08839e-c46d-4230-a748-5e8cf1b59fdb"
+        },
+        {
+            "typeid": "7",
+            "linktype": "73",
+            "value": "Loan Drawn",
+            "reference": "7",
+            "guid": "dbfa7314-58dd-4ef0-93fc-a4074dcef9a0"
+        },
+        {
+            "typeid": "8",
+            "linktype": "73",
+            "value": "Loan Paid Out",
+            "reference": "8",
+            "guid": "34c39f73-7f0b-47d4-a2e8-c76952ca3752"
+        },
+        {
+            "typeid": "9",
+            "linktype": "73",
+            "value": "Anticipated Settlement",
+            "reference": "9",
+            "guid": "c10c310a-3cff-499a-a2a7-ce49e2b13474"
+        },
+        {
+            "typeid": "10",
+            "linktype": "73",
+            "value": "Valuation Ordered",
+            "reference": "10",
+            "guid": "c599be5a-89db-42a6-96d2-2d3e7d299c56"
+        },
+        {
+            "typeid": "11",
+            "linktype": "73",
+            "value": "Valuation Received",
+            "reference": "11",
+            "guid": "ad2f8e8d-12eb-4eef-b2c4-37aab32d650e"
+        },
+        {
+            "typeid": "12",
+            "linktype": "33",
+            "value": "Policy Lodged",
+            "reference": "12",
+            "guid": "f9f4d6fd-10bc-452f-b09a-7fae88c32ccf"
+        },
+        {
+            "typeid": "13",
+            "linktype": "33",
+            "value": "Policy Accepted",
+            "reference": "13",
+            "guid": "775c291c-1d51-4018-af6e-b56b8dbafbb2"
+        },
+        {
+            "typeid": "14",
+            "linktype": "33",
+            "value": "Risk Commencement Date",
+            "reference": "14",
+            "guid": "c080afec-60d1-4f6a-9389-312f6bdaa4b0"
+        },
+        {
+            "typeid": "15",
+            "linktype": "73",
+            "value": "Enquiry",
+            "reference": "",
+            "guid": "6e435abe-5c64-4b29-9c15-97171c36ce4a"
+        },
+        {
+            "typeid": "16",
+            "linktype": "33",
+            "value": "Policy Alterations",
+            "reference": "",
+            "guid": "e1c85988-d174-4be6-82cf-de736e6e2ae2"
+        },
+        {
+            "typeid": "18",
+            "linktype": "33",
+            "value": "Special Conditions",
+            "reference": "",
+            "guid": "5df21a3a-287f-49cd-bfa7-00ffbfd1d936"
+        },
+        {
+            "typeid": "19",
+            "linktype": "33",
+            "value": "Policy Ceased",
+            "reference": "19",
+            "guid": "47944091-8871-44bd-ab9a-7810e145cee8"
+        },
+        {
+            "typeid": "20",
+            "linktype": "33",
+            "value": "Benefit Cease Date",
+            "reference": "",
+            "guid": "c3bc23c8-ef50-4a57-9393-a1b36c75e8e5"
+        },
+        {
+            "typeid": "21",
+            "linktype": "73",
+            "value": "Awaiting Decision",
+            "reference": "",
+            "guid": "23504edd-c75c-4ba4-833e-f5b59c5c00a8"
+        }
+    ]
+}

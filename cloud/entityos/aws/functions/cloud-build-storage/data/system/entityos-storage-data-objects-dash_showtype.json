@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "dash_showtype",
+        "id": "882102183"
+    },
+    "data": [
+        {
+            "showtypeid": "1",
+            "title": "All Information",
+            "guid": "3dc75618-26ec-4341-8bcf-55916a017f38"
+        },
+        {
+            "showtypeid": "2",
+            "title": "Only If Relates To User",
+            "guid": "651b193a-80ef-46b2-ac1e-5dc0e877fe02"
+        }
+    ]
+}

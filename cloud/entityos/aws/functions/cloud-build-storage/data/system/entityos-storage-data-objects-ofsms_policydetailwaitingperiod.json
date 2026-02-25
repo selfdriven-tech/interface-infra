@@ -1,0 +1,48 @@
+{
+    "object": {
+        "name": "ofsms_policydetailwaitingperiod",
+        "id": "1747537309"
+    },
+    "data": [
+        {
+            "waitingperiodid": "1",
+            "value": "[None]",
+            "guid": "426787ac-02bf-41aa-9d30-17ad60f2f9b0"
+        },
+        {
+            "waitingperiodid": "2",
+            "value": "14 days",
+            "guid": "3cdc8cbe-3cff-4288-8147-362f493fd6a3"
+        },
+        {
+            "waitingperiodid": "3",
+            "value": "30 days",
+            "guid": "5749fcb9-4561-416e-a9da-f6b684b4c378"
+        },
+        {
+            "waitingperiodid": "4",
+            "value": "60 days",
+            "guid": "05f5395d-8e5e-4b54-aea2-2d0c6c687b82"
+        },
+        {
+            "waitingperiodid": "5",
+            "value": "90 days",
+            "guid": "8c4ef5ad-6d66-46da-a529-feff139f17e9"
+        },
+        {
+            "waitingperiodid": "6",
+            "value": "1 year",
+            "guid": "0ee23924-95be-47a5-ab4c-f7adc70f9404"
+        },
+        {
+            "waitingperiodid": "7",
+            "value": "2 years",
+            "guid": "8326e48d-cd42-430a-92aa-97fd65b35ec9"
+        },
+        {
+            "waitingperiodid": "8",
+            "value": "180 days",
+            "guid": "6a426f5a-a469-4a2a-ad93-b1c1bde5e70e"
+        }
+    ]
+}

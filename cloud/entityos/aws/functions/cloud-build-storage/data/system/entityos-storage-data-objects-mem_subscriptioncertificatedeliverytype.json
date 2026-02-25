@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "mem_subscriptioncertificatedeliverytype",
+        "id": "1706905598"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Email",
+            "notes": "",
+            "guid": "a1f82125-b212-4b00-a2d1-317096e3e53f"
+        },
+        {
+            "typeid": "2",
+            "title": "Printed",
+            "notes": "",
+            "guid": "a0757f56-7964-4424-b1c9-72e3df5e2d00"
+        },
+        {
+            "typeid": "3",
+            "title": "Emailed &amp; Printed",
+            "notes": "",
+            "guid": "e1e3fea8-c66f-4b7e-8912-7d05d2b3115c"
+        }
+    ]
+}

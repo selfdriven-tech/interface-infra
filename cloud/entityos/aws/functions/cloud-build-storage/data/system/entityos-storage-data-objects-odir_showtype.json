@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "odir_showtype",
+        "id": "1728061242"
+    },
+    "data": [
+        {
+            "showtypeid": "1",
+            "value": "As Link",
+            "guid": "55c7ab35-ca41-4bdf-a379-830a01f0d242"
+        },
+        {
+            "showtypeid": "2",
+            "value": "On Page",
+            "guid": "b762f3e3-7ac5-4744-bcdb-6fae508d2aad"
+        },
+        {
+            "showtypeid": "3",
+            "value": "[Don&#39;t Show]",
+            "guid": "d2e864b8-4df4-4a30-8fc7-891b0c46de22"
+        }
+    ]
+}

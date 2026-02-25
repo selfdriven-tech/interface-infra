@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "asms_registrationstatus",
+        "id": "119671474"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Unregistered",
+            "guid": "43be6aaf-a893-4ca1-b112-8bedf790c416"
+        },
+        {
+            "statusid": "2",
+            "value": "Registered",
+            "guid": "00279dd1-3563-417b-b7b5-01599deab783"
+        },
+        {
+            "statusid": "3",
+            "value": "Error",
+            "guid": "9e77a39f-e2fb-4289-aa3a-19e40bd9d85d"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "otms_automatestatus",
+        "id": "195531780"
+    },
+    "data": [
+        {
+            "automatestatusid": "1",
+            "description": "Proposed",
+            "guid": "075d4d4e-ec6d-407a-9a83-0ab03a428972"
+        },
+        {
+            "automatestatusid": "2",
+            "description": "Active",
+            "guid": "ac5006b4-8b5a-4b71-8598-cb48201fb16e"
+        }
+    ]
+}

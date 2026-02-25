@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "obms_financialaccounttype",
+        "id": "1641772906"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Outgoing (Expense)",
+            "guid": "183c04eb-f3de-493c-8b2f-06c225367685"
+        },
+        {
+            "typeid": "2",
+            "value": "Revenue (Income)",
+            "guid": "2261f7fb-f063-4064-9d4f-e90181a561cc"
+        },
+        {
+            "typeid": "3",
+            "value": "Asset",
+            "guid": "fc706265-bd00-4198-8de1-cb92c63e0260"
+        },
+        {
+            "typeid": "4",
+            "value": "Liability",
+            "guid": "194d1089-d6a5-4509-af16-3b3c7f478e7d"
+        },
+        {
+            "typeid": "5",
+            "value": "Equity",
+            "guid": "ea48db9b-0306-4878-bcff-80b682413141"
+        }
+    ]
+}

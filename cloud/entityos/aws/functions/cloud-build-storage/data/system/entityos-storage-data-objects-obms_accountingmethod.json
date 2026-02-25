@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "obms_accountingmethod",
+        "id": "274816041"
+    },
+    "data": [
+        {
+            "accountingmethodid": "1",
+            "value": "C",
+            "description": "Cash",
+            "guid": "0948a3fd-c396-4422-9fc2-c4cbee3232ef"
+        },
+        {
+            "accountingmethodid": "2",
+            "value": "A",
+            "description": "Accrual (Non-Cash)",
+            "guid": "b3ea0429-e78a-47fa-a0a5-1cb649b946b3"
+        }
+    ]
+}

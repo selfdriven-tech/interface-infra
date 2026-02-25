@@ -1,0 +1,56 @@
+{
+    "object": {
+        "name": "cont_communicationtype",
+        "id": "1874105717"
+    },
+    "data": [
+        {
+            "communicationtypeid": "1",
+            "value": "Other",
+            "linktypeid": "",
+            "guid": "65479c50-8f76-4b52-83c8-91d2172118b4"
+        },
+        {
+            "communicationtypeid": "2",
+            "value": "Email",
+            "linktypeid": "-1",
+            "guid": "fa067020-a291-43d4-b8cd-b5377c32f27c"
+        },
+        {
+            "communicationtypeid": "3",
+            "value": "SMS",
+            "linktypeid": "-2",
+            "guid": "71d4b438-3253-4d0f-a2dc-933347c481f9"
+        },
+        {
+            "communicationtypeid": "4",
+            "value": "Twitter",
+            "linktypeid": "7",
+            "guid": "5fb5a739-16e7-43a3-a33f-e9d5ddf66b0f"
+        },
+        {
+            "communicationtypeid": "5",
+            "value": "Facebook",
+            "linktypeid": "8",
+            "guid": "a7bdde7c-8787-4410-a2d0-aa3d195c96dc"
+        },
+        {
+            "communicationtypeid": "6",
+            "value": "LinkedIn",
+            "linktypeid": "9",
+            "guid": "d915d72c-3f15-46cf-8278-beecc92c9685"
+        },
+        {
+            "communicationtypeid": "7",
+            "value": "Skype",
+            "linktypeid": "11",
+            "guid": "13b2d0a7-ad3e-4a36-8ce9-e0fce62c39f8"
+        },
+        {
+            "communicationtypeid": "8",
+            "value": "Website",
+            "linktypeid": "",
+            "guid": "7874e030-4046-4723-ad5b-fcf9a97cb8d8"
+        }
+    ]
+}

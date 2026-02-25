@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_objecttemplatefieldtype",
+        "id": "1527676490"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "This Object Only",
+            "guid": "c9fd0495-f710-4753-b48d-d97750ac9727"
+        },
+        {
+            "typeid": "2",
+            "title": "All Objects",
+            "guid": "607fdf6e-05d1-4382-8eb3-1d6e96fb10aa"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "ofms_accountstatus",
+        "id": "1664061014"
+    },
+    "data": [
+        {
+            "accountstatusid": "1",
+            "description": "Testing",
+            "guid": "fbbf7f59-1c8c-4bdf-8ebe-d7d254bc0661"
+        },
+        {
+            "accountstatusid": "2",
+            "description": "Active",
+            "guid": "473a3192-7500-41a4-b721-1231b012fcc4"
+        },
+        {
+            "accountstatusid": "3",
+            "description": "Non-Active",
+            "guid": "6168a86f-c387-4105-ae0b-ebb6f6dcc47e"
+        }
+    ]
+}

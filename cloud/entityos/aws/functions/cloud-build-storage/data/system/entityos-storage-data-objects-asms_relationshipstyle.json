@@ -1,0 +1,48 @@
+{
+    "object": {
+        "name": "asms_relationshipstyle",
+        "id": "2107154552"
+    },
+    "data": [
+        {
+            "relationshipstyleid": "1",
+            "title": "Analytical",
+            "providerid": "1",
+            "stylebasisnotes": "Responsiveness is Task Directed &amp; Assertiveness is Ask Directed",
+            "stylebasispointsminimum": "3",
+            "stylebasispointsmaximum": "3",
+            "notes": "Soft-spoken, few gestures, few emotions, task focused, deliberate speech, more questions, indirect eye contact, leans back",
+            "guid": "474c54ef-e28f-43ef-aced-02ae8f3a2317"
+        },
+        {
+            "relationshipstyleid": "2",
+            "title": "Driver",
+            "providerid": "1",
+            "stylebasisnotes": "Responsiveness is Task Directed &amp; Assertiveness is Tell Directed",
+            "stylebasispointsminimum": "4",
+            "stylebasispointsmaximum": "4",
+            "notes": "Soft-spoken, few gestures, few emotions, task focused, rapid speech, more statements, direct eye contact, leans forward",
+            "guid": "dc115224-4250-4a16-bbde-79891f993fa8"
+        },
+        {
+            "relationshipstyleid": "3",
+            "title": "Amiable",
+            "providerid": "1",
+            "stylebasisnotes": "Responsiveness is People Directed &amp; Assertiveness is Ask Directed",
+            "stylebasispointsminimum": "6",
+            "stylebasispointsmaximum": "6",
+            "notes": "Outspoken, obvious gestures, varied emotions, people focused, deliberate speech, more questions, indirect eye contact, leans back",
+            "guid": "cdd17a68-c09c-4601-a30d-e082c5def05a"
+        },
+        {
+            "relationshipstyleid": "4",
+            "title": "Expressive",
+            "providerid": "1",
+            "stylebasisnotes": "Responsiveness is People Directed &amp; Assertiveness is Tell Directed",
+            "stylebasispointsminimum": "8",
+            "stylebasispointsmaximum": "8",
+            "notes": "Outspoken, obvious gestures, varied emotions, people focused, rapid speech, more statements, direct eye contact, leans forward",
+            "guid": "6e4889f0-dbd5-45b1-9fb4-914b3791d9a8"
+        }
+    ]
+}

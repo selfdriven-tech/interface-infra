@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "obms_reconciliationstatus",
+        "id": "1776725382"
+    },
+    "data": [
+        {
+            "reconciliationstatusid": "1",
+            "value": "In Progress",
+            "displayorder": "1",
+            "guid": "e30da0fd-3d82-49bc-8b4d-bdc54027bc13"
+        },
+        {
+            "reconciliationstatusid": "2",
+            "value": "Completed",
+            "displayorder": "2",
+            "guid": "477f2ed8-6e91-44e5-816d-ea6ee2198e3e"
+        }
+    ]
+}

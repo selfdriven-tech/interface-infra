@@ -1,0 +1,36 @@
+{
+    "object": {
+        "name": "asms_monitoringtype",
+        "id": "1783677402"
+    },
+    "data": [
+        {
+            "monitoringtypeid": "1",
+            "title": "System Disk Space",
+            "minimumvalue": "0.20",
+            "maximumvalue": "",
+            "guid": "cc7ba4a0-5165-4f55-97ce-40e4c2afe9cf"
+        },
+        {
+            "monitoringtypeid": "2",
+            "title": "Application Disk Space",
+            "minimumvalue": "1.00",
+            "maximumvalue": "",
+            "guid": "d7fe5854-661a-45bc-a50e-847899028774"
+        },
+        {
+            "monitoringtypeid": "3",
+            "title": "Database Last Transaction Log",
+            "minimumvalue": "",
+            "maximumvalue": "20.00",
+            "guid": "865a032d-01c1-41c8-8408-aa13d19bc5bd"
+        },
+        {
+            "monitoringtypeid": "4",
+            "title": "Scheduled Task",
+            "minimumvalue": "",
+            "maximumvalue": "",
+            "guid": "0e2bb262-560d-4230-95a6-8c862de6a815"
+        }
+    ]
+}

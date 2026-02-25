@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "asms_goalstatus",
+        "id": "1156199169"
+    },
+    "data": [
+        {
+            "goalstatusid": "1",
+            "value": "Not Started",
+            "guid": "22edcee0-68d8-4640-b8c3-19ae59abf309"
+        },
+        {
+            "goalstatusid": "2",
+            "value": "In Progress",
+            "guid": "bcb35611-9353-48bc-a7c1-fdd8bde8cd87"
+        },
+        {
+            "goalstatusid": "3",
+            "value": "Completed",
+            "guid": "f835e88f-539f-4474-a233-888ebb330523"
+        },
+        {
+            "goalstatusid": "4",
+            "value": "Cancelled",
+            "guid": "b2d99875-8cce-494e-9636-27068693d0f5"
+        }
+    ]
+}

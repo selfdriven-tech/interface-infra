@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "ibmail_objectalertdeliverytype",
+        "id": "1766401462"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Email",
+            "guid": "2fd796f7-8a43-46c0-9222-d7651ece6c09"
+        },
+        {
+            "typeid": "2",
+            "title": "SMS",
+            "guid": "1dc7645b-b4c2-4e45-b9e5-0546d0c23768"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_alertrulemode",
+        "id": "1027183105"
+    },
+    "data": [
+        {
+            "modeid": "1",
+            "title": "Normal",
+            "guid": "dc24bf46-de22-49b4-b47a-adda71e05630"
+        },
+        {
+            "modeid": "2",
+            "title": "Advanced",
+            "guid": "8fe4cc8f-cdc3-4304-b0f3-e5ad46c685a3"
+        }
+    ]
+}

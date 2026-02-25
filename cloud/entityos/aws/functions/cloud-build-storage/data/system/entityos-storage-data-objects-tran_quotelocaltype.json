@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "tran_quotelocaltype",
+        "id": "651865389"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Pickup",
+            "guid": "f080c776-48e0-4d6d-ad07-7bc9eef102bd"
+        },
+        {
+            "typeid": "2",
+            "title": "Delivery",
+            "guid": "65507df6-1790-4ed8-a32d-d73f71867627"
+        }
+    ]
+}

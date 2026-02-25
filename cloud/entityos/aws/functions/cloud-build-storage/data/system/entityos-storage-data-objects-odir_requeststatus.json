@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "odir_requeststatus",
+        "id": "2000062211"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Awaiting Approval",
+            "guid": "8ab679eb-86e0-49c5-9c00-f9bcf103e646"
+        },
+        {
+            "statusid": "2",
+            "value": "Approved",
+            "guid": "1050e7bb-b8d6-43da-ae36-f023860e8a1c"
+        },
+        {
+            "statusid": "3",
+            "value": "Cancelled",
+            "guid": "b650d4c4-77bd-4988-a820-685205e7d48e"
+        },
+        {
+            "statusid": "4",
+            "value": "Considered Unacceptable",
+            "guid": "98db74d1-f1bc-47ae-acbc-9b0986d9f0b3"
+        }
+    ]
+}

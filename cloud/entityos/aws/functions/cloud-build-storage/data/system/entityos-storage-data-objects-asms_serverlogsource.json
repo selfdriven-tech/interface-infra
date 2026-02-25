@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "asms_serverlogsource",
+        "id": "1404232453"
+    },
+    "data": [
+        {
+            "sourceid": "1",
+            "title": "Machine",
+            "guid": "53d24d81-80e4-45a8-8882-a6d2985cbcfb"
+        },
+        {
+            "sourceid": "2",
+            "title": "Human",
+            "guid": "e6b16ffd-48dc-4798-99c1-a67e1b2f6cbf"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "risk_claimclasstype",
+        "id": "1155691365"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Other",
+            "guid": "617d225a-5093-4ebb-b47b-ff50eec0c0a6"
+        },
+        {
+            "typeid": "2",
+            "title": "Estimate",
+            "guid": "921dc1c5-d206-4c54-9e1c-0608a559ed8c"
+        },
+        {
+            "typeid": "3",
+            "title": "Actual",
+            "guid": "87d751f0-10c0-46d2-a92c-236d2172d3cb"
+        }
+    ]
+}

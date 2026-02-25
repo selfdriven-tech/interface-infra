@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "otms_accountsource",
+        "id": "387532464"
+    },
+    "data": [
+        {
+            "sourceid": "1",
+            "value": "File",
+            "guid": "67ccfc81-0136-4e7e-a748-f3ca3ea94549"
+        },
+        {
+            "sourceid": "2",
+            "value": "Online Connection",
+            "guid": "0d1f884b-4488-4c40-b094-6a186c21790b"
+        }
+    ]
+}

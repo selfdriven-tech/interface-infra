@@ -1,0 +1,50 @@
+{
+    "object": {
+        "name": "tran_equipmenttype",
+        "id": "584389151"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Prime Mover",
+            "categoryid": "",
+            "guid": "52184103-d786-41bd-9744-3f0dcf9ed345"
+        },
+        {
+            "typeid": "2",
+            "title": "Trailer",
+            "categoryid": "2",
+            "guid": "6cdaf8bb-8d55-4db0-89fa-0f26f72c5ed7"
+        },
+        {
+            "typeid": "3",
+            "title": "Dolly",
+            "categoryid": "",
+            "guid": "58d490bd-eb3d-4ba7-9a1b-aac3ba0ea1b6"
+        },
+        {
+            "typeid": "4",
+            "title": "Rigid",
+            "categoryid": "",
+            "guid": "388af756-2630-417a-8e82-2562b2c917eb"
+        },
+        {
+            "typeid": "5",
+            "title": "Fridge Unit",
+            "categoryid": "",
+            "guid": "23ba7f46-fb69-4ec0-9cec-0494cc31b34f"
+        },
+        {
+            "typeid": "6",
+            "title": "Fork Truck",
+            "categoryid": "",
+            "guid": "77f9c1a5-5fea-4477-9692-eac0852829cc"
+        },
+        {
+            "typeid": "7",
+            "title": "Company Car",
+            "categoryid": "",
+            "guid": "b1585157-5f4e-43e5-8af9-d0cf0cddb149"
+        }
+    ]
+}

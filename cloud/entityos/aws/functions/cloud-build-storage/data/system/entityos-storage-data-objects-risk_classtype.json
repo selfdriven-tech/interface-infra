@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "risk_classtype",
+        "id": "251252050"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Entity",
+            "guid": "65450574-5d99-49f6-b008-4c6b70a35724"
+        },
+        {
+            "typeid": "2",
+            "title": "Claim",
+            "guid": "69133692-d1ec-4451-b491-e0ded40b34c6"
+        },
+        {
+            "typeid": "3",
+            "title": "Policy",
+            "guid": "affe0056-0ae0-459c-9efd-c3539a8418a4"
+        },
+        {
+            "typeid": "4",
+            "title": "Risk Management",
+            "guid": "715a1c76-7423-498c-9593-4614628885a5"
+        },
+        {
+            "typeid": "5",
+            "title": "Underwriting",
+            "guid": "767c9916-d727-4856-9071-0eed324236e3"
+        }
+    ]
+}

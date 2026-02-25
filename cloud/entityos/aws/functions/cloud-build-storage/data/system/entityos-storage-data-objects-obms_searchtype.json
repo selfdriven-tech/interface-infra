@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "obms_searchtype",
+        "id": "1664724983"
+    },
+    "data": [
+        {
+            "searchtypeid": "1",
+            "displayorder": "1",
+            "description": "Project",
+            "guid": "9f9fe71b-1a90-45cc-a229-a73f74d7c34e"
+        },
+        {
+            "searchtypeid": "2",
+            "displayorder": "2",
+            "description": "Expense",
+            "guid": "de95641f-166a-47aa-a99a-6b3f988cf179"
+        },
+        {
+            "searchtypeid": "3",
+            "displayorder": "3",
+            "description": "Invoice",
+            "guid": "57c521b9-9240-4e79-bfbf-c3d1ce58ac3f"
+        },
+        {
+            "searchtypeid": "4",
+            "displayorder": "4",
+            "description": "Payment",
+            "guid": "74a2e5b5-d97c-44a6-ab5e-f5ed77f40886"
+        },
+        {
+            "searchtypeid": "5",
+            "displayorder": "5",
+            "description": "Receipt",
+            "guid": "13c5fde8-084a-40b8-92ad-8b04576b5a30"
+        }
+    ]
+}

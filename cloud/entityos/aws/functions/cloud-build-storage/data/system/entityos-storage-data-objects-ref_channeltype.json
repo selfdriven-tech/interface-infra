@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "ref_channeltype",
+        "id": "503008873"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Referral",
+            "guid": "640c5107-4732-4c56-98f7-27491bee62a0"
+        },
+        {
+            "typeid": "2",
+            "title": "Sales",
+            "guid": "9088c0b0-33a4-43b3-8769-21065068d49f"
+        }
+    ]
+}

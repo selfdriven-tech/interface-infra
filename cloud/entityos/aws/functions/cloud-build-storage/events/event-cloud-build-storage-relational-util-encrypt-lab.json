@@ -1,0 +1,12 @@
+{
+	"method": "storage-relational-util-encrypt",
+	"encrypt": {
+			"business": {"id": "", "guid": ""},
+			"user": {"id": "", "guid": ""},
+			"key": {"base": ""},
+			"text": ""
+		},
+	"notes": [
+		"host: in save VPC on AWS"
+	]
+}

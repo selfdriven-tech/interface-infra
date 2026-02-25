@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "risk_datatypebase",
+        "id": "970486536"
+    },
+    "data": [
+        {
+            "baseid": "1",
+            "title": "Date",
+            "guid": "085f9e24-c601-4e04-96ed-3b08f49f9d7a"
+        },
+        {
+            "baseid": "2",
+            "title": "Numeric",
+            "guid": "ead527e4-7e59-44a8-bb75-e765bc714892"
+        },
+        {
+            "baseid": "3",
+            "title": "Other",
+            "guid": "6c07c10c-15db-432b-9e16-4b9b10aa2a57"
+        },
+        {
+            "baseid": "4",
+            "title": "Long Text Field",
+            "guid": "4e6e6ea8-c75c-482b-a1ca-0d8f4399aa33"
+        },
+        {
+            "baseid": "5",
+            "title": "Decimal",
+            "guid": "df52f8d7-f5be-43d4-b894-324af86f15bd"
+        }
+    ]
+}

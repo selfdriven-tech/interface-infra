@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "mem_membershipstatus",
+        "id": "994818606"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Proposed",
+            "guid": "57c46722-ac63-4d1d-88a7-ec77fde71569"
+        },
+        {
+            "statusid": "2",
+            "value": "Available",
+            "guid": "eb118c56-b275-47c4-a945-e50709196f01"
+        },
+        {
+            "statusid": "3",
+            "value": "Cancelled",
+            "guid": "b9aed72b-dd0c-4760-a93c-dda52a965389"
+        },
+        {
+            "statusid": "4",
+            "value": "Suspended",
+            "guid": "4b50e826-8cb9-47ce-a304-ec0f153e9c47"
+        }
+    ]
+}

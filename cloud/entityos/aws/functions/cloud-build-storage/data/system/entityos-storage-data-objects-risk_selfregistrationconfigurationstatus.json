@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_selfregistrationconfigurationstatus",
+        "id": "1677965054"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Enabled",
+            "guid": "926116c2-0008-47bb-8d11-eba04e66de4f"
+        },
+        {
+            "statusid": "2",
+            "title": "Disabled",
+            "guid": "d03ddf56-f8f3-45cb-85f5-7c0586b41335"
+        }
+    ]
+}

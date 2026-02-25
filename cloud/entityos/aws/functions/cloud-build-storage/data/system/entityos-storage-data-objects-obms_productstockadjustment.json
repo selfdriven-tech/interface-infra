@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "obms_productstockadjustment",
+        "id": "829246009"
+    },
+    "data": [
+        {
+            "adjustmentid": "1",
+            "value": "Stock Added",
+            "guid": "9bce3ff7-4257-4e09-886e-20440df69e38"
+        },
+        {
+            "adjustmentid": "2",
+            "value": "Stock Removed",
+            "guid": "52f407cf-34a1-405d-8aa5-ae9ec56520d1"
+        },
+        {
+            "adjustmentid": "3",
+            "value": "Stocktaking Adjustment (manual)",
+            "guid": "0b63c811-f75b-436d-bbcb-5c40d401cfa6"
+        },
+        {
+            "adjustmentid": "4",
+            "value": "Stock Added (manual)",
+            "guid": "7cc1ccf3-0829-457b-ab24-06ac64974c79"
+        },
+        {
+            "adjustmentid": "5",
+            "value": "Stock Removed (manual)",
+            "guid": "62d6a351-a4af-4791-a029-d38b13a854d3"
+        },
+        {
+            "adjustmentid": "6",
+            "value": "Initial Stock (manual)",
+            "guid": "0de59fb5-91cc-4966-98d8-f2b0ae5f0cf2"
+        }
+    ]
+}

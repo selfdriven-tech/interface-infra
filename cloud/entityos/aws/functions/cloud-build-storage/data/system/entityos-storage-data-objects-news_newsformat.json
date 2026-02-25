@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "news_newsformat",
+        "id": "562817067"
+    },
+    "data": [
+        {
+            "formatid": "1",
+            "value": "Plain Text",
+            "guid": "f122d0da-2495-4724-ac06-33b5fddef94b"
+        },
+        {
+            "formatid": "2",
+            "value": "[Standard]",
+            "guid": "3bd44e02-a73a-4fb5-9d5a-eb14404fe469"
+        }
+    ]
+}

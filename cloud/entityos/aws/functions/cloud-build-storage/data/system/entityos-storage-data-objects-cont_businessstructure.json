@@ -1,0 +1,48 @@
+{
+    "object": {
+        "name": "cont_businessstructure",
+        "id": "2034106287"
+    },
+    "data": [
+        {
+            "structureid": "1",
+            "value": "Company",
+            "guid": "ff2beae2-f60e-49b9-b1f2-8dd12a7020f7"
+        },
+        {
+            "structureid": "2",
+            "value": "Partnership",
+            "guid": "7b58845d-0778-4fea-af77-9dda8a2fb645"
+        },
+        {
+            "structureid": "3",
+            "value": "Sole Trader",
+            "guid": "de127209-bc40-4af2-8d2d-593ca056a350"
+        },
+        {
+            "structureid": "4",
+            "value": "Trust",
+            "guid": "696fe31b-5f86-4ac3-a808-7134dfdd4de7"
+        },
+        {
+            "structureid": "5",
+            "value": "Individual",
+            "guid": "cf63ee40-0424-4a13-8b5d-d1164f96a86d"
+        },
+        {
+            "structureid": "6",
+            "value": "",
+            "guid": "573ba2d0-28ae-4faf-a70d-6c30979ba952"
+        },
+        {
+            "structureid": "7",
+            "value": "Government Body",
+            "guid": "45bbc9f3-9088-4b90-a6d2-c30da9c84144"
+        },
+        {
+            "structureid": "8",
+            "value": "Not For Profit",
+            "guid": "9e35826b-42a0-4229-9d83-039ef3b2975d"
+        }
+    ]
+}

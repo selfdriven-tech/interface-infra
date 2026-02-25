@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "risk_measurecombotype",
+        "id": "124683642"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Standard",
+            "description": "",
+            "guid": "385e582e-4272-4081-b4f8-a9f769eaf316"
+        },
+        {
+            "typeid": "2",
+            "title": "Radio",
+            "description": "",
+            "guid": "1a346492-db5d-4795-9b85-4e422a3c9acb"
+        },
+        {
+            "typeid": "3",
+            "title": "Lookup",
+            "description": "",
+            "guid": "b6a65b4e-2539-44ef-bf84-f0599c61b65a"
+        }
+    ]
+}

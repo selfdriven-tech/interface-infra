@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_alertstatus",
+        "id": "1594488759"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Enabled",
+            "guid": "c9fa5907-ab2c-4ec8-8016-2a8e565a1af0"
+        },
+        {
+            "statusid": "2",
+            "title": "Disabled",
+            "guid": "2bc019aa-524f-41a6-bfd9-5ca3dc320b57"
+        }
+    ]
+}

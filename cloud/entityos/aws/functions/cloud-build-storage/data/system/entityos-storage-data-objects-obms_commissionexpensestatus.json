@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_commissionexpensestatus",
+        "id": "902294274"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Pending",
+            "guid": "6100e215-2f12-44e9-b9be-7d590c9bca13"
+        },
+        {
+            "statusid": "2",
+            "title": "Expense Created",
+            "guid": "35327be4-5b69-4890-9c47-5f139fd426d2"
+        },
+        {
+            "statusid": "3",
+            "title": "Cancelled",
+            "guid": "373b4c16-27c1-45dd-a4ca-7ee85d413664"
+        }
+    ]
+}

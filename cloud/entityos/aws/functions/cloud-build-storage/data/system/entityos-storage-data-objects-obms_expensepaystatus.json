@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_expensepaystatus",
+        "id": "1881773761"
+    },
+    "data": [
+        {
+            "paystatusid": "1",
+            "value": "Can Be Paid When Due",
+            "guid": "4efb7692-4c1d-47ac-a07f-4c49831e8079"
+        },
+        {
+            "paystatusid": "2",
+            "value": "Don&#39;t Pay - In Dispute",
+            "guid": "affae617-e3b9-46a6-b1cf-4f18f7c09f23"
+        },
+        {
+            "paystatusid": "3",
+            "value": "Don&#39;t Pay - Awaiting Goods/Services",
+            "guid": "11b22aa5-6985-4a63-8ad1-6e0eed42069c"
+        }
+    ]
+}

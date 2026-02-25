@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "obms_accountingentry",
+        "id": "290816098"
+    },
+    "data": [
+        {
+            "accountingentryid": "1",
+            "value": "M",
+            "description": "Manual",
+            "guid": "ad2bbaf3-661f-447c-ba33-9798fed36fef"
+        },
+        {
+            "accountingentryid": "2",
+            "value": "T",
+            "description": "Use Online Transaction Manager",
+            "guid": "6f19eb28-e8ed-4fe8-b439-da3f5705da3f"
+        }
+    ]
+}

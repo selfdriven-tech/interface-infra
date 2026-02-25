@@ -1,0 +1,32 @@
+{
+    "object": {
+        "name": "risk_alertfrequency",
+        "id": "438657006"
+    },
+    "data": [
+        {
+            "frequencyid": "1",
+            "title": "Once",
+            "notes": "",
+            "guid": "19c978b9-8fca-45be-b25d-5deddb4ef841"
+        },
+        {
+            "frequencyid": "2",
+            "title": "Each Week",
+            "notes": "",
+            "guid": "4bcefefc-9ebd-4f59-9b81-7c8867bb3fd0"
+        },
+        {
+            "frequencyid": "3",
+            "title": "Each Month",
+            "notes": "",
+            "guid": "0dee6648-8dea-4af3-9c29-0dd608f71085"
+        },
+        {
+            "frequencyid": "4",
+            "title": "Each Day",
+            "notes": "",
+            "guid": "0914fe68-1197-455c-8c6c-780d85748b0e"
+        }
+    ]
+}

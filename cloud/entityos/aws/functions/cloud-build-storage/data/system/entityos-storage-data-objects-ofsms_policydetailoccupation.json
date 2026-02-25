@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "ofsms_policydetailoccupation",
+        "id": "1779537423"
+    },
+    "data": [
+        {
+            "occupationid": "1",
+            "value": "",
+            "guid": "f52f0dab-33bd-40a0-8c69-90883872751e"
+        },
+        {
+            "occupationid": "2",
+            "value": "Own",
+            "guid": "48824fdf-1b51-4650-bea7-cda6b3d116a6"
+        },
+        {
+            "occupationid": "3",
+            "value": "Any",
+            "guid": "db5a15c1-8f32-460c-98c4-1171b29b6f46"
+        },
+        {
+            "occupationid": "4",
+            "value": "Home Maker",
+            "guid": "84d43a86-07d2-4dff-a6dd-0c024a6e52b1"
+        }
+    ]
+}

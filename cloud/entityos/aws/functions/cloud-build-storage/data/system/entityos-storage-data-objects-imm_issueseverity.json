@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "imm_issueseverity",
+        "id": "15339119"
+    },
+    "data": [
+        {
+            "severityid": "1",
+            "title": "Critical",
+            "guid": "5673f068-8a32-406e-88b5-0f89573842c5"
+        },
+        {
+            "severityid": "2",
+            "title": "High",
+            "guid": "0dc9a681-7b67-43ee-b0e8-628fc3b87948"
+        },
+        {
+            "severityid": "3",
+            "title": "Medium",
+            "guid": "1f9e1461-022d-44b4-b6f4-da0b3ab1c1b6"
+        },
+        {
+            "severityid": "4",
+            "title": "Low",
+            "guid": "78ed2f70-1610-4b4f-8d7f-3505914cf47e"
+        }
+    ]
+}

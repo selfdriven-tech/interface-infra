@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "tran_pickuprevenuetype",
+        "id": "1003866643"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Pickup",
+            "guid": "ae67b094-4594-47a3-aa91-c706b555a460"
+        },
+        {
+            "typeid": "2",
+            "title": "Linehaul",
+            "guid": "72886d15-f159-46f8-b069-6f06f7f6b83d"
+        },
+        {
+            "typeid": "3",
+            "title": "Delivery",
+            "guid": "41419216-40d4-42a2-a1e2-022a66d8291f"
+        }
+    ]
+}

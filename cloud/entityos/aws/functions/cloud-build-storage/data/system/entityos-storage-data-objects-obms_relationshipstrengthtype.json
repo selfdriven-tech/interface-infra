@@ -1,0 +1,44 @@
+{
+    "object": {
+        "name": "obms_relationshipstrengthtype",
+        "id": "1760725325"
+    },
+    "data": [
+        {
+            "strengthid": "1",
+            "description": "[Not Applicable]",
+            "displayorder": "1",
+            "guid": "534eab91-b591-4ecf-a0f4-1db03d16ab1c"
+        },
+        {
+            "strengthid": "2",
+            "description": "Poor",
+            "displayorder": "2",
+            "guid": "fbbed1f9-6515-4b66-b28f-1cae2e7d7780"
+        },
+        {
+            "strengthid": "3",
+            "description": "Average",
+            "displayorder": "3",
+            "guid": "c51f65fe-5b61-4e23-a4a8-ca2b460e7fc3"
+        },
+        {
+            "strengthid": "4",
+            "description": "Good",
+            "displayorder": "4",
+            "guid": "62c37590-109f-4ee0-aed9-19dfb9a1f9a0"
+        },
+        {
+            "strengthid": "5",
+            "description": "Excellent",
+            "displayorder": "5",
+            "guid": "f60db7e7-2576-412b-b5e7-6ff52d719518"
+        },
+        {
+            "strengthid": "6",
+            "description": "Unknown",
+            "displayorder": "",
+            "guid": "35265370-7098-4f94-b975-9e65c483f1a4"
+        }
+    ]
+}

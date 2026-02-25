@@ -1,0 +1,128 @@
+{
+    "object": {
+        "name": "cont_businessindustry",
+        "id": "94623380"
+    },
+    "data": [
+        {
+            "industryid": "1",
+            "value": "A-Agriculture, Forestry and Fishing",
+            "displayorder": "1",
+            "guid": "d948ff77-157b-4166-adf9-e7c242c112ef"
+        },
+        {
+            "industryid": "2",
+            "value": "B-Mining",
+            "displayorder": "2",
+            "guid": "a416fb80-c1c7-420c-809a-5284424df883"
+        },
+        {
+            "industryid": "3",
+            "value": "C-Manufacturing",
+            "displayorder": "3",
+            "guid": "ffa7a2f2-4e6b-45cd-80d9-cf09586d2335"
+        },
+        {
+            "industryid": "4",
+            "value": "D-Electricty, Gas, Water and Waste Services",
+            "displayorder": "4",
+            "guid": "fb8c2bcd-7deb-46cb-9a8c-f22d45dfac2c"
+        },
+        {
+            "industryid": "5",
+            "value": "E-Construction",
+            "displayorder": "5",
+            "guid": "35571cbc-1714-4c52-8636-159553955049"
+        },
+        {
+            "industryid": "6",
+            "value": "F-Wholesale Trade",
+            "displayorder": "6",
+            "guid": "c586d4c2-3947-4111-b0b0-2abd63562ea9"
+        },
+        {
+            "industryid": "7",
+            "value": "G-Retail Trade",
+            "displayorder": "7",
+            "guid": "2b5c0e14-c951-4024-b787-b33caa9b2be8"
+        },
+        {
+            "industryid": "8",
+            "value": "H-Accommodation and Food Services",
+            "displayorder": "8",
+            "guid": "32fc8c94-e1e6-4b60-93a2-9c346d26ff4f"
+        },
+        {
+            "industryid": "9",
+            "value": "I-Transport, Postal and Warehousing",
+            "displayorder": "9",
+            "guid": "45373f81-150c-4689-b0f0-831af0f838e4"
+        },
+        {
+            "industryid": "10",
+            "value": "J-Information Media and telecommunications",
+            "displayorder": "10",
+            "guid": "51626d33-f8e3-4407-960b-9c9885134387"
+        },
+        {
+            "industryid": "11",
+            "value": "K-Financial and Insurance services",
+            "displayorder": "11",
+            "guid": "debc3733-7978-4b55-baac-75ab9da4b1d1"
+        },
+        {
+            "industryid": "12",
+            "value": "L-Rental, Hiring and Real Estate Services",
+            "displayorder": "12",
+            "guid": "7b3684f8-1a7e-439f-b1c5-f1c0d3a87b2b"
+        },
+        {
+            "industryid": "13",
+            "value": "O-Public Administration and Safety",
+            "displayorder": "15",
+            "guid": "9849a0f6-bf23-411d-92a9-7d7b3615da2d"
+        },
+        {
+            "industryid": "14",
+            "value": "P-Education and Training",
+            "displayorder": "16",
+            "guid": "f5ba5c7e-40a2-4567-a777-67563082603f"
+        },
+        {
+            "industryid": "15",
+            "value": "Q-Health Care and Social Assistance",
+            "displayorder": "17",
+            "guid": "97765ad4-9530-4b93-8762-b527f0ec3dcd"
+        },
+        {
+            "industryid": "16",
+            "value": "R-Arts and Recreation Services",
+            "displayorder": "18",
+            "guid": "f45c9c06-0531-44c1-84c3-f7aa1b490b7b"
+        },
+        {
+            "industryid": "17",
+            "value": "S-Other Services",
+            "displayorder": "19",
+            "guid": "d410191b-781f-4a51-973d-fa097085f05f"
+        },
+        {
+            "industryid": "18",
+            "value": "[Unknown]",
+            "displayorder": "",
+            "guid": "507fef99-e00a-4624-847e-f1704c3b8eab"
+        },
+        {
+            "industryid": "20",
+            "value": "M-Professional, Scientific and Technical Services",
+            "displayorder": "13",
+            "guid": "506cc70e-400f-41c6-bca9-3e15dbbfcdb7"
+        },
+        {
+            "industryid": "21",
+            "value": "N-Administrative and Support Services",
+            "displayorder": "14",
+            "guid": "e209b36c-c279-45eb-a54c-204bbf95b396"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "news_greetingtype",
+        "id": "674817466"
+    },
+    "data": [
+        {
+            "greetingtypeid": "1",
+            "value": "[None]",
+            "guid": "109870f9-5578-47f5-a6dd-e2d6b3e36281"
+        },
+        {
+            "greetingtypeid": "2",
+            "value": "First Name,",
+            "guid": "964eb1d3-1e4c-4c95-bbf8-43c9331b55b5"
+        },
+        {
+            "greetingtypeid": "3",
+            "value": "Hi First Name,",
+            "guid": "476fb15c-e2f6-44f8-bd2f-e373d362cd59"
+        },
+        {
+            "greetingtypeid": "4",
+            "value": "Dear First Name,",
+            "guid": "78e58a9f-45bb-4fcf-9476-984f56804cd8"
+        }
+    ]
+}

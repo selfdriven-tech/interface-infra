@@ -1,0 +1,58 @@
+{
+	"method": "storage-relational-data-model-update",
+	"storage": {
+		"simulate": true,
+		"cluster": {
+			"id": "cluster-ctqe76w42vxr.ap-southeast-2.rds.amazonaws.com",
+			"port": 3306,
+			"user": "",
+			"password": ""
+		},
+		"instance": {
+			"id": "lab-rds-cluster-001-aurora-serverless-v2",
+			"url": "lab-rds-cluster-001-aurora-serverless-v2.cluster-ctqe76w42vxr.ap-southeast-2.rds.amazonaws.com",
+			"type": "write,read"
+		},
+		"model": {
+			"filename": "entityos-storage-model-objects-processed-space.json",
+			"process": {
+				"start": 0,
+				"end": 500
+			},
+			"update": {
+				"columns": {
+					"filter": "isnullable"
+				},
+				"_objects": [
+					{
+						"name": "sec_person",
+						"columns": [
+							{
+								"_action": "MODIFY",
+								"name": "requestratelockdate",
+								"type": "61",
+								"typetext": "datetime",
+								"length": "8",
+								"precision": "23",
+								"scale": "3",
+								"systemtype": "61",
+								"collationname": "",
+								"isnullable": "true",
+								"isidentity": "false",
+								"isansi": "false",
+								"isguid": "false"
+							}
+						]
+					}
+				]
+			}
+		},
+		"database": {
+			"name": "lab_datastore_001",
+			"engine": "mysql"
+		}
+	},
+	"notes": [
+		"Column _action: ADD,MODIFY,CHANGE"
+	]
+}

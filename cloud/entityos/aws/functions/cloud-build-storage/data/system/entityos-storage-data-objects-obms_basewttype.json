@@ -1,0 +1,13 @@
+{
+    "object": {
+        "name": "obms_basewttype",
+        "id": "775777921"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Based On Gross Salaries",
+            "guid": "3a3d5044-4b27-414b-b279-d5c98126bc85"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "object": {
+        "name": "tran_variablecomponent",
+        "id": "75863337"
+    },
+    "data": [
+        {
+            "componentid": "1",
+            "title": "Linehaul Component",
+            "reference": "1",
+            "guid": "a93c983a-5dbf-42c4-a471-769891d47016"
+        },
+        {
+            "componentid": "2",
+            "title": "Freight Component",
+            "reference": "2",
+            "guid": "69279696-623c-4b09-9baa-d8c7b5b8b932"
+        },
+        {
+            "componentid": "3",
+            "title": "Pickup Component",
+            "reference": "3",
+            "guid": "69a8c429-994f-41da-ab19-fd94fa42b873"
+        },
+        {
+            "componentid": "4",
+            "title": "Delivery Component",
+            "reference": "4",
+            "guid": "6f476636-588a-481b-a02f-1a98ef6263ca"
+        },
+        {
+            "componentid": "5",
+            "title": "Pickup &amp; Delivery Components",
+            "reference": "5",
+            "guid": "c6ec41ae-2802-4776-9fd4-3c973fd06376"
+        },
+        {
+            "componentid": "6",
+            "title": "Fee Component",
+            "reference": "6",
+            "guid": "dfefe4e9-e513-475d-aa44-77fbac712d61"
+        },
+        {
+            "componentid": "7",
+            "title": "Total",
+            "reference": "7",
+            "guid": "d7f31a55-2bea-4306-8906-89975b0f5856"
+        },
+        {
+            "componentid": "8",
+            "title": "Cross Dock Fee",
+            "reference": "8",
+            "guid": "584b449f-0a03-4a92-b702-c0c0dd10f503"
+        }
+    ]
+}

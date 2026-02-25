@@ -1,0 +1,32 @@
+{
+    "object": {
+        "name": "cont_actionpriority",
+        "id": "446624634"
+    },
+    "data": [
+        {
+            "actionpriorityid": "1",
+            "displayorder": "1",
+            "value": "Low",
+            "guid": "570e63e9-a861-4b19-88e1-86f2b9147157"
+        },
+        {
+            "actionpriorityid": "2",
+            "displayorder": "2",
+            "value": "Medium",
+            "guid": "cbd4fc4b-76f9-4043-b54d-7ed0aac79f72"
+        },
+        {
+            "actionpriorityid": "3",
+            "displayorder": "3",
+            "value": "High",
+            "guid": "857eeaf1-17df-4752-926e-44e398d70268"
+        },
+        {
+            "actionpriorityid": "4",
+            "displayorder": "4",
+            "value": "Critical",
+            "guid": "3de29d76-3794-4819-ac41-bd40d5f9cccb"
+        }
+    ]
+}

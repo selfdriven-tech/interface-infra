@@ -1,0 +1,32 @@
+{
+    "object": {
+        "name": "obms_reconciliationfrequency",
+        "id": "1808725496"
+    },
+    "data": [
+        {
+            "reconciliationfrequencyid": "1",
+            "value": "Weekly",
+            "displayorder": "1",
+            "guid": "81b85f18-a3bc-464e-8e89-762c828b769d"
+        },
+        {
+            "reconciliationfrequencyid": "2",
+            "value": "Fortnightly",
+            "displayorder": "2",
+            "guid": "e13aae12-b100-4ddd-b2e4-0114cdc51e62"
+        },
+        {
+            "reconciliationfrequencyid": "3",
+            "value": "Monthly",
+            "displayorder": "3",
+            "guid": "e16893ea-429e-4f6f-a608-8feae79a60c3"
+        },
+        {
+            "reconciliationfrequencyid": "4",
+            "value": "Quarterly",
+            "displayorder": "4",
+            "guid": "f07ede38-39b6-4707-ad40-4536df4ab86c"
+        }
+    ]
+}

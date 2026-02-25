@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "asms_marketplacestatus",
+        "id": "2087678485"
+    },
+    "data": [
+        {
+            "marketplacestatusid": "1",
+            "value": "Open",
+            "guid": "d42e7a89-6828-4bd7-b95c-01769786e5da"
+        },
+        {
+            "marketplacestatusid": "2",
+            "value": "Closed",
+            "guid": "a0b396a0-9cb7-4268-b08e-0bfc206fb585"
+        },
+        {
+            "marketplacestatusid": "3",
+            "value": "Members Only",
+            "guid": "7fc03bb4-698f-43e9-be7f-136241c3ea36"
+        }
+    ]
+}

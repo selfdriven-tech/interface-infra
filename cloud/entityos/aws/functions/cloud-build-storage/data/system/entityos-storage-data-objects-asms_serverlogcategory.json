@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "asms_serverlogcategory",
+        "id": "1436232567"
+    },
+    "data": [
+        {
+            "categoryid": "1",
+            "title": "Code",
+            "guid": "3e663f94-ecb2-4816-906b-b23de8533bbb"
+        },
+        {
+            "categoryid": "2",
+            "title": "File System",
+            "guid": "40397b69-5e41-4909-be1c-6ce80d7f25f9"
+        },
+        {
+            "categoryid": "3",
+            "title": "Performance",
+            "guid": "80212a15-0d89-408f-8649-a34755e685af"
+        },
+        {
+            "categoryid": "4",
+            "title": "Protection",
+            "guid": "d31e04e4-d955-440e-ae65-d13dde3eb275"
+        },
+        {
+            "categoryid": "5",
+            "title": "Operating System",
+            "guid": "d020bd93-af10-4ddd-aa71-e92e074025d8"
+        },
+        {
+            "categoryid": "6",
+            "title": "Other",
+            "guid": "de0d2dd6-c67b-44a4-aa1e-2a3b0d5d984b"
+        }
+    ]
+}

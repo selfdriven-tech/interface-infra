@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "dash_formatreporttype",
+        "id": "1138103095"
+    },
+    "data": [
+        {
+            "formatreporttypeid": "1",
+            "title": "Count",
+            "guid": "795a5a12-1e4e-412e-9c14-0b510dbde8d9"
+        },
+        {
+            "formatreporttypeid": "2",
+            "title": "Sum",
+            "guid": "7f976494-9452-4a52-a66e-74a098f17153"
+        }
+    ]
+}

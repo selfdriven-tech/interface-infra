@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "dec_surveystatus",
+        "id": "2101582525"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "In Construction",
+            "guid": "2d03c5be-0b0e-477b-aa2e-b0ba6e95d527"
+        },
+        {
+            "statusid": "2",
+            "value": "Approved",
+            "guid": "b18423b8-4b59-4111-a5fc-0c41fff437e6"
+        }
+    ]
+}

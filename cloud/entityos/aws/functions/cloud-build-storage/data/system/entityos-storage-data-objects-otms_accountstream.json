@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "otms_accountstream",
+        "id": "355532350"
+    },
+    "data": [
+        {
+            "streamid": "1",
+            "value": "Primary",
+            "guid": "0f33d66f-2217-4f4e-a259-5b173c25df04"
+        },
+        {
+            "streamid": "2",
+            "value": "Secondary",
+            "guid": "54223def-a2b6-4eae-a8b4-7dac41938471"
+        }
+    ]
+}

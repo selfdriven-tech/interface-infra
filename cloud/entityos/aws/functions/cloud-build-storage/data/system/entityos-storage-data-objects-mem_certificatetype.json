@@ -1,0 +1,86 @@
+{
+    "object": {
+        "name": "mem_certificatetype",
+        "id": "1058818834"
+    },
+    "data": [
+        {
+            "certificatetypeid": "1",
+            "value": "ACO",
+            "site": "493",
+            "guid": "a7ed154e-ec26-4304-8b51-48a973b7fa27"
+        },
+        {
+            "certificatetypeid": "2",
+            "value": "NASAA",
+            "site": "493",
+            "guid": "6b88c3da-a4c4-4c59-8891-1779eb794c18"
+        },
+        {
+            "certificatetypeid": "3",
+            "value": "DEMETER",
+            "site": "493",
+            "guid": "d5477dfa-79bb-4aef-8646-bbb6b1ba3dad"
+        },
+        {
+            "certificatetypeid": "4",
+            "value": "OFC (Organic Food Chain)",
+            "site": "493",
+            "guid": "3c1b03fb-19d6-46e4-9f79-3048c20247f0"
+        },
+        {
+            "certificatetypeid": "5",
+            "value": "Safe Food Queensland",
+            "site": "493",
+            "guid": "4f26dfb3-097b-43bf-8581-3128028ba942"
+        },
+        {
+            "certificatetypeid": "6",
+            "value": "Tasmanian Organis-Dynamic Producers (TOP)",
+            "site": "493",
+            "guid": "f88340fa-2fe0-4ec2-b8b6-582d68431729"
+        },
+        {
+            "certificatetypeid": "7",
+            "value": "USDA Organics (US)",
+            "site": "493",
+            "guid": "9ccb8343-9c6c-411d-9bce-ff474f807ce0"
+        },
+        {
+            "certificatetypeid": "8",
+            "value": "Soil Association Organic Standard (UK)",
+            "site": "493",
+            "guid": "e7d8bf15-d79c-4f62-a8b6-4432cb156ea8"
+        },
+        {
+            "certificatetypeid": "9",
+            "value": "Organic Farmers &amp; Growers (UK)",
+            "site": "493",
+            "guid": "57d3ca0c-08e4-435b-ab1a-bd85a5a0ab4a"
+        },
+        {
+            "certificatetypeid": "10",
+            "value": "Certified Organic (NZ)",
+            "site": "493",
+            "guid": "0898985b-4082-44f2-86c6-046c3ea01f73"
+        },
+        {
+            "certificatetypeid": "11",
+            "value": "Certified Organic Agriquality (NZ)",
+            "site": "493",
+            "guid": "96380dd2-e941-491d-9346-51910ba3de21"
+        },
+        {
+            "certificatetypeid": "12",
+            "value": "Organic Farming",
+            "site": "493",
+            "guid": "b5d812de-9a66-44cc-bc35-673d7bb47cb0"
+        },
+        {
+            "certificatetypeid": "13",
+            "value": "Other",
+            "site": "493",
+            "guid": "3114150f-97ec-47d1-b63e-a5dfbef9c0e7"
+        }
+    ]
+}

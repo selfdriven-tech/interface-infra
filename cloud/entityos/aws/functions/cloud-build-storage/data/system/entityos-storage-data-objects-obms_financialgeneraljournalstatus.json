@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_financialgeneraljournalstatus",
+        "id": "1481772336"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Pending",
+            "guid": "801113f9-fbd5-4cd8-86f4-b84f5e9bc307"
+        },
+        {
+            "statusid": "2",
+            "title": "Finalised",
+            "guid": "acdde872-3cbc-4417-bdb0-e97e39f54ee8"
+        }
+    ]
+}

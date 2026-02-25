@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_bankdepositstatus",
+        "id": "1942297979"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "In Progress",
+            "guid": "9b027ae2-188f-4515-bed2-327243743219"
+        },
+        {
+            "statusid": "2",
+            "title": "Completed",
+            "guid": "bed69e15-e280-4ee0-bc21-e396a107c274"
+        },
+        {
+            "statusid": "3",
+            "title": "Reconciled",
+            "guid": "c1d3fe0a-0217-441e-8a93-7c1195e2966c"
+        }
+    ]
+}

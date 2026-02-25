@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "obms_orderapprovalreason",
+        "id": "633769315"
+    },
+    "data": [
+        {
+            "reasonid": "1",
+            "value": "New business",
+            "guid": "74f35d92-eaec-48d5-969d-5bf8de1f67a3"
+        },
+        {
+            "reasonid": "2",
+            "value": "Credit Limit Exceeded",
+            "guid": "e05905a3-9e46-470a-a38b-2838a77bf887"
+        },
+        {
+            "reasonid": "3",
+            "value": "New business",
+            "guid": "6db1d534-3924-4244-beb4-af35e45c022b"
+        },
+        {
+            "reasonid": "4",
+            "value": "Credit Limit Exceeded",
+            "guid": "59e2ee67-493b-40ee-89bc-24f1aa5b35b8"
+        }
+    ]
+}

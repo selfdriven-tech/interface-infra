@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "ibmes_conversationmessagetype",
+        "id": "1103342995"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Participant Message",
+            "guid": "33544aa3-4780-40ee-93cf-7153374fbda9"
+        },
+        {
+            "typeid": "2",
+            "value": "System Message",
+            "guid": "55b15f81-825a-40ec-a52b-cbad39a1d9d6"
+        },
+        {
+            "typeid": "3",
+            "value": "Comment",
+            "guid": "b3683c2e-a8bd-4a32-9141-34f43976d535"
+        }
+    ]
+}

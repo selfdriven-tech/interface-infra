@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "obms_businessrequesttype",
+        "id": "1062294844"
+    },
+    "data": [
+        {
+            "requesttypeid": "1",
+            "value": "[Standard]",
+            "guid": "e38f812b-6e5f-4900-b1b5-4aac59dba445"
+        },
+        {
+            "requesttypeid": "2",
+            "value": "Simple",
+            "guid": "ccd54365-7512-4651-b5ec-100f0d258480"
+        },
+        {
+            "requesttypeid": "3",
+            "value": "Advanced",
+            "guid": "3a814c71-90fb-40fd-8b88-f0601bafff11"
+        },
+        {
+            "requesttypeid": "4",
+            "value": "Customised",
+            "guid": "7f0315bc-a645-45b2-bcbd-2ddd33eb81fa"
+        },
+        {
+            "requesttypeid": "5",
+            "value": "Register For Newsletter",
+            "guid": "c9ac593d-9dd9-4060-8c2c-f48bcabaaacd"
+        },
+        {
+            "requesttypeid": "6",
+            "value": "Suggestion / Feedback",
+            "guid": "35d9fbc4-a06f-463e-89ae-bd9ff493f8a7"
+        }
+    ]
+}

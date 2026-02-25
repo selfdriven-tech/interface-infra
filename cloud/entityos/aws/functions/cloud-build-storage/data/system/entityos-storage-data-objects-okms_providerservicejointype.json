@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "okms_providerservicejointype",
+        "id": "787533889"
+    },
+    "data": [
+        {
+            "jointypeid": "1",
+            "title": "Can Request To Join",
+            "notes": "",
+            "guid": "55a86b57-895c-44ef-bcca-ecd6c643d820"
+        },
+        {
+            "jointypeid": "2",
+            "title": "Can Automatically Join",
+            "notes": "",
+            "guid": "bee971d9-42c0-46b3-831e-f70ab736e387"
+        }
+    ]
+}

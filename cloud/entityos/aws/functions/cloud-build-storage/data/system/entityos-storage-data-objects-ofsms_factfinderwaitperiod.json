@@ -1,0 +1,43 @@
+{
+    "object": {
+        "name": "ofsms_factfinderwaitperiod",
+        "id": "608057252"
+    },
+    "data": [
+        {
+            "periodid": "1",
+            "value": "14 days",
+            "guid": "d3399aea-7ba8-40c5-9bab-951376b77d72"
+        },
+        {
+            "periodid": "2",
+            "value": "30 days",
+            "guid": "f4ca1439-d920-4faf-bc9c-ebf14c41ff54"
+        },
+        {
+            "periodid": "3",
+            "value": "60 days",
+            "guid": "d2b094c4-23ed-4829-bb76-8a4dd84ae549"
+        },
+        {
+            "periodid": "4",
+            "value": "90 days",
+            "guid": "f8663cf4-20a7-4dbc-9a1b-e22147dad599"
+        },
+        {
+            "periodid": "5",
+            "value": "180 days",
+            "guid": "841cf40a-c692-4fc4-853e-c78046129f57"
+        },
+        {
+            "periodid": "6",
+            "value": "1 Year",
+            "guid": "75fb36cb-6f40-4d0b-b65b-937d1aeea118"
+        },
+        {
+            "periodid": "7",
+            "value": "2 Years",
+            "guid": "dc173c0d-23b7-4887-99db-dcb93a4ef671"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "object": {
+        "name": "risk_adhocsitechoice",
+        "id": "2042490355"
+    },
+    "data": [
+        {
+            "choiceid": "1",
+            "displayorder": "1",
+            "title": "Reference",
+            "guid": "d18acc37-d9dd-426d-a354-ef20d6cff0a4"
+        },
+        {
+            "choiceid": "2",
+            "displayorder": "2",
+            "title": "Site Name",
+            "guid": "0d61c7da-e4e3-4223-a8ee-506b6ef747dd"
+        },
+        {
+            "choiceid": "3",
+            "displayorder": "3",
+            "title": "Business - 1",
+            "guid": "420604fb-132a-4f79-80df-fe0d63bfe225"
+        },
+        {
+            "choiceid": "4",
+            "displayorder": "4",
+            "title": "Business - 2",
+            "guid": "bf47e2de-8b91-423b-a814-27ff91fedc48"
+        },
+        {
+            "choiceid": "5",
+            "displayorder": "5",
+            "title": "Region - 1",
+            "guid": "b1785fd1-b825-49bc-82ad-bc116a09445f"
+        },
+        {
+            "choiceid": "6",
+            "displayorder": "7",
+            "title": "Country",
+            "guid": "46c68047-caea-4ffe-b4e2-ad6e074654ea"
+        },
+        {
+            "choiceid": "7",
+            "displayorder": "8",
+            "title": "Zone",
+            "guid": "b13e78f1-d1c8-46d6-96fe-d4c981e5c79b"
+        },
+        {
+            "choiceid": "8",
+            "displayorder": "10",
+            "title": "Person Responsible",
+            "guid": "c2497adf-f94a-458a-a6c0-b576d7e8b0ae"
+        },
+        {
+            "choiceid": "9",
+            "displayorder": "11",
+            "title": "Description",
+            "guid": "ffa46b60-76ef-4292-9e76-acd32825f838"
+        },
+        {
+            "choiceid": "10",
+            "displayorder": "12",
+            "title": "Active End Date",
+            "guid": "39873e06-75f6-4bf2-986d-52cc3fe4e8f7"
+        },
+        {
+            "choiceid": "11",
+            "displayorder": "13",
+            "title": "Status Change Date",
+            "guid": "37f70c3c-c464-41e5-ad59-5aa2bfa3d2d8"
+        },
+        {
+            "choiceid": "12",
+            "displayorder": "14",
+            "title": "Business Activity",
+            "guid": "d0efa268-bd65-4a3f-98de-60072cf6b99a"
+        },
+        {
+            "choiceid": "13",
+            "displayorder": "15",
+            "title": "Business Reference",
+            "guid": "3d66f926-d766-4260-9e80-ce876de7948b"
+        },
+        {
+            "choiceid": "14",
+            "displayorder": "16",
+            "title": "Shared Site",
+            "guid": "3559a751-96fb-4162-8e6c-eff841e7f4b6"
+        },
+        {
+            "choiceid": "15",
+            "displayorder": "17",
+            "title": "Address",
+            "guid": "e6d0bbad-1c0b-4c14-abd5-a7f463624edd"
+        },
+        {
+            "choiceid": "16",
+            "displayorder": "6",
+            "title": "Region - 2",
+            "guid": "3a8aa1c6-79e0-4d8b-9363-a18a76cf132b"
+        },
+        {
+            "choiceid": "17",
+            "displayorder": "10",
+            "title": "Area",
+            "guid": "cc1b9259-7772-4c91-9953-deef2f791242"
+        },
+        {
+            "choiceid": "18",
+            "displayorder": "18",
+            "title": "Map",
+            "guid": "e7adbfa4-43ad-45f5-ab44-6817230ded79"
+        }
+    ]
+}

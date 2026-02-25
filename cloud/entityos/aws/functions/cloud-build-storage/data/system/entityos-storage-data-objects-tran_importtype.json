@@ -1,0 +1,48 @@
+{
+    "object": {
+        "name": "tran_importtype",
+        "id": "136387555"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Hub",
+            "guid": "6059e6bd-df86-4d15-b186-1b8d52c86596"
+        },
+        {
+            "typeid": "2",
+            "title": "Route",
+            "guid": "78ced71a-d254-4715-aa41-b1869bb85dd1"
+        },
+        {
+            "typeid": "3",
+            "title": "Charge Type",
+            "guid": "67984a0e-8f44-48f3-a2c2-9f2a644f2e37"
+        },
+        {
+            "typeid": "4",
+            "title": "Rate",
+            "guid": "1e610ebf-1645-47f8-87ab-e4a83c90a358"
+        },
+        {
+            "typeid": "5",
+            "title": "Invoices",
+            "guid": "09ad9608-46a2-4074-95f0-b9e361b39d00"
+        },
+        {
+            "typeid": "6",
+            "title": "Receipts",
+            "guid": "b4d46fb7-a746-48e4-a523-fff2cdfc99f9"
+        },
+        {
+            "typeid": "7",
+            "title": "Credit Notes",
+            "guid": "2095fdc4-e97b-49a8-89d1-8757853b6e78"
+        },
+        {
+            "typeid": "8",
+            "title": "Expenses",
+            "guid": "2357a2a5-4f3e-41a5-827b-8afa4cd852f6"
+        }
+    ]
+}

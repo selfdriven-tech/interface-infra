@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "audit_reconciliationfielddatatype",
+        "id": "1253331975"
+    },
+    "data": [
+        {
+            "datatypeid": "1",
+            "title": "Numeric",
+            "notes": "",
+            "guid": "a6913ea5-0c05-42da-8030-7b7bd3b8d9c0"
+        },
+        {
+            "datatypeid": "2",
+            "title": "Date",
+            "notes": "",
+            "guid": "4b4569bd-55e0-4bc2-8aa3-4e27ffea4123"
+        },
+        {
+            "datatypeid": "3",
+            "title": "String",
+            "notes": "",
+            "guid": "9b6ac05d-5252-4080-a70b-66fa951dc691"
+        }
+    ]
+}

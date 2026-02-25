@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "ibmail_objectalertsendtype",
+        "id": "1638401006"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Send Time Prior",
+            "guid": "e657e2e1-1b02-4490-9ae1-60ce1ee6c57d"
+        },
+        {
+            "typeid": "2",
+            "title": "Send At Time",
+            "guid": "aefd313c-8d86-4c4c-8d62-eec606454a26"
+        }
+    ]
+}

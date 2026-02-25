@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_parenttablesorttype",
+        "id": "574117286"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Ascending",
+            "guid": "c1ccd299-c0bf-4cf7-96ab-ed5603f01310"
+        },
+        {
+            "typeid": "2",
+            "title": "Descending",
+            "guid": "81926e28-778e-4275-8f32-2b5b4e0c0d8e"
+        }
+    ]
+}

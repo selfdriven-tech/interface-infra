@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_productcommissionstatus",
+        "id": "1501248403"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Active",
+            "guid": "4dfd32d0-b3b0-427b-9729-fb7a81489089"
+        },
+        {
+            "statusid": "2",
+            "title": "Non Active",
+            "guid": "e26a3a92-1659-450a-bb5e-9211807d63bb"
+        }
+    ]
+}

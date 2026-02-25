@@ -1,0 +1,106 @@
+{
+    "object": {
+        "name": "asms_linktype",
+        "id": "276196034"
+    },
+    "data": [
+        {
+            "linktypeid": "1",
+            "displayorder": "1",
+            "value": "Website",
+            "url": "",
+            "guid": "d806327c-f275-40d0-bee3-11e9db66b504"
+        },
+        {
+            "linktypeid": "2",
+            "displayorder": "2",
+            "value": "Mobile Website",
+            "url": "",
+            "guid": "9a9ae27b-dd47-4324-849d-353eaa8c333e"
+        },
+        {
+            "linktypeid": "3",
+            "displayorder": "3",
+            "value": "RSS",
+            "url": "",
+            "guid": "c06e16af-0ae0-41cd-aa59-111a89caf7a5"
+        },
+        {
+            "linktypeid": "4",
+            "displayorder": "4",
+            "value": "Webservice",
+            "url": "",
+            "guid": "671625e8-0bd8-42a1-80a4-7596dec6c734"
+        },
+        {
+            "linktypeid": "5",
+            "displayorder": "5",
+            "value": "Other",
+            "url": "",
+            "guid": "051f8730-4a6c-401e-bbf3-de1fea3cc00a"
+        },
+        {
+            "linktypeid": "6",
+            "displayorder": "6",
+            "value": "Email",
+            "url": "",
+            "guid": "b988edab-5cf3-4e60-a5a1-a4d09700d5eb"
+        },
+        {
+            "linktypeid": "7",
+            "displayorder": "7",
+            "value": "SMS",
+            "url": "",
+            "guid": "8f3bd084-f154-4630-b25d-cb9faa8cb044"
+        },
+        {
+            "linktypeid": "8",
+            "displayorder": "8",
+            "value": "Twitter",
+            "url": "",
+            "guid": "70da366d-86f9-4bf3-afc0-a2e1699c33cc"
+        },
+        {
+            "linktypeid": "9",
+            "displayorder": "9",
+            "value": "Facebook",
+            "url": "",
+            "guid": "4905947f-d2bf-446d-a578-2ba3f94ff45a"
+        },
+        {
+            "linktypeid": "10",
+            "displayorder": "10",
+            "value": "LinkedIn",
+            "url": "",
+            "guid": "cee17062-9a87-42cf-a5d9-5be550647a35"
+        },
+        {
+            "linktypeid": "11",
+            "displayorder": "11",
+            "value": "Skype",
+            "url": "",
+            "guid": "ce3bf0db-02d8-4454-9600-35ae3532aba3"
+        },
+        {
+            "linktypeid": "12",
+            "displayorder": "12",
+            "value": "Pusher",
+            "url": "",
+            "guid": "c94b63f2-096c-4494-89a2-89489b946191"
+        },
+        {
+            "linktypeid": "13",
+            "displayorder": "",
+            "value": "Yammer",
+            "url": "",
+            "guid": "4ae16255-623a-48d0-ab13-c9b797601ee0"
+        },
+        {
+            "linktypeid": "14",
+            "displayorder": "",
+            "value": "Xero",
+            "url": "",
+            "guid": "606eb539-2e07-4f5c-87ae-12ee4af0f277"
+        }
+    ]
+}

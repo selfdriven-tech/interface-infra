@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "obms_prospectstatus",
+        "id": "2064726408"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Open",
+            "guid": "f6abba0f-7d75-48e4-b48a-f3585ab1119b"
+        },
+        {
+            "statusid": "2",
+            "value": "Closed",
+            "guid": "79f0d1ec-84dd-4973-b6a8-7869fdff3975"
+        },
+        {
+            "statusid": "3",
+            "value": "Cancelled",
+            "guid": "9d1ee262-11f0-41c2-807f-602a8c215648"
+        }
+    ]
+}

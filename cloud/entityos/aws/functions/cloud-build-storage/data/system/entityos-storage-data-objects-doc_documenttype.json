@@ -1,0 +1,44 @@
+{
+    "object": {
+        "name": "doc_documenttype",
+        "id": "1413580074"
+    },
+    "data": [
+        {
+            "typeid": "5",
+            "value": "[Standard]",
+            "documentformat": "1",
+            "guid": "2b77fcce-52cb-442f-a7ee-42f4d5e6f11a"
+        },
+        {
+            "typeid": "6",
+            "value": "Text Document",
+            "documentformat": "2",
+            "guid": "15c85c8b-7240-4a6b-afa7-9d19a101ceb9"
+        },
+        {
+            "typeid": "7",
+            "value": "Attachments Only (File Folder)",
+            "documentformat": "3",
+            "guid": "cb2c84ca-530d-4b5b-8d4c-0b745bb7bb07"
+        },
+        {
+            "typeid": "8",
+            "value": "Help Text",
+            "documentformat": "1",
+            "guid": "c6e543be-cf6c-413e-af92-3c2ca8671444"
+        },
+        {
+            "typeid": "9",
+            "value": "System Template",
+            "documentformat": "1",
+            "guid": "0cd3d506-52f9-4f59-a691-e19e66be52d4"
+        },
+        {
+            "typeid": "10",
+            "value": "mydigitalstructure System Template",
+            "documentformat": "1",
+            "guid": "8e9b6bce-13d7-48d6-9ba9-a7d89151a713"
+        }
+    ]
+}

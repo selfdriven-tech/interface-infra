@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "risk_reporttype",
+        "id": "1751325649"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Risk Class Summary",
+            "guid": "a4d423ab-d7fd-48d0-98c9-5aa5ece11e23"
+        },
+        {
+            "typeid": "2",
+            "title": "Detailed Period Comparison",
+            "guid": "59cb5ad9-10a2-4507-a531-7cb3371fdab7"
+        },
+        {
+            "typeid": "3",
+            "title": "Property Report",
+            "guid": "68a10cdf-50f2-4dff-98b7-b6ba99db047a"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "pay_rosterstatus",
+        "id": "1207011381"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Proposed",
+            "guid": "d14b4f86-c045-4a62-b19e-364f187c2bbd"
+        },
+        {
+            "statusid": "2",
+            "value": "Active",
+            "guid": "c560fba2-e666-47fb-9016-99d1f3e83f5b"
+        },
+        {
+            "statusid": "3",
+            "value": "Cancelled",
+            "guid": "26178321-7577-4df5-9269-0991319e6b21"
+        },
+        {
+            "statusid": "4",
+            "value": "As Planned",
+            "guid": "a36d2cfe-834d-490f-bb13-28f6160dee1c"
+        }
+    ]
+}

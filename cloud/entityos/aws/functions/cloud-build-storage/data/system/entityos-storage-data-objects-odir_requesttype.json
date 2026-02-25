@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "odir_requesttype",
+        "id": "1936061983"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Business",
+            "guid": "cc8b6132-edb8-4d98-a9c1-ebe97959b938"
+        },
+        {
+            "typeid": "2",
+            "value": "Product",
+            "guid": "810f1309-360d-458d-9d75-0898f9d12a35"
+        }
+    ]
+}

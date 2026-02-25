@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "risk_conditionruletype",
+        "id": "1196947736"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Equal To",
+            "guid": "a21dd765-5527-4a1c-8452-1e57d5752f8b"
+        },
+        {
+            "typeid": "2",
+            "title": "Not Equal To",
+            "guid": "87815ffd-9332-4d40-83ca-e6210a68262f"
+        }
+    ]
+}

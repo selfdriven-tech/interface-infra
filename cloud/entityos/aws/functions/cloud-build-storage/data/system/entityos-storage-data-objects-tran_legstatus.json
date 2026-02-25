@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "tran_legstatus",
+        "id": "104387441"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "Pending",
+            "guid": "33caddbd-c9c3-4638-bfeb-c62c78687add"
+        },
+        {
+            "statusid": "2",
+            "title": "In-Transit",
+            "guid": "439831dd-e73b-4846-bc0d-171fa8c075ff"
+        },
+        {
+            "statusid": "3",
+            "title": "Completed",
+            "guid": "91739f8b-e370-4355-86f6-31e035a99a8b"
+        },
+        {
+            "statusid": "4",
+            "title": "Loaded",
+            "guid": "b552f481-338b-4f18-9f11-dc8461ab10e5"
+        },
+        {
+            "statusid": "5",
+            "title": "Allocated",
+            "guid": "3607c4ff-3682-4214-9460-9eafdccc9574"
+        }
+    ]
+}

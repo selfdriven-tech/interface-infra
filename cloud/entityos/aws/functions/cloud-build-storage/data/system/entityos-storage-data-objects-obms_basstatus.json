@@ -1,0 +1,68 @@
+{
+    "object": {
+        "name": "obms_basstatus",
+        "id": "1702297124"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "In Progress",
+            "guid": "b5755c96-caaa-4a0f-a813-3669628a8efe"
+        },
+        {
+            "statusid": "2",
+            "value": "Complete",
+            "guid": "78c147b0-5fb8-4e79-99ad-cf5a3e1eedf7"
+        },
+        {
+            "statusid": "3",
+            "value": "Ready For Checking",
+            "guid": "3b2936f6-37d8-490c-9632-af9db1c7d8c1"
+        },
+        {
+            "statusid": "4",
+            "value": "Checked / Approved For Completion",
+            "guid": "351ad3a6-6d76-4237-957c-830c87df168a"
+        },
+        {
+            "statusid": "5",
+            "value": "Open",
+            "guid": "be889c36-e078-4e3d-a8ef-b17baed905a9"
+        },
+        {
+            "statusid": "6",
+            "value": "Client",
+            "guid": "716d1457-1a83-4c8c-a2dc-6e153068dc3c"
+        },
+        {
+            "statusid": "7",
+            "value": "Submitted",
+            "guid": "86820262-a6fe-4dfc-b036-283edc7811ec"
+        },
+        {
+            "statusid": "8",
+            "value": "Nil",
+            "guid": "30257d70-cc44-4b90-bfdf-a739fba021d6"
+        },
+        {
+            "statusid": "9",
+            "value": "Check",
+            "guid": "02b662ba-46d4-468d-8ffb-dc85048f8a9e"
+        },
+        {
+            "statusid": "10",
+            "value": "Approved",
+            "guid": "b52e4e6a-112e-4738-b6c5-bf80c8c8965a"
+        },
+        {
+            "statusid": "11",
+            "value": "Queried",
+            "guid": "fb5312d2-2a4c-4c59-a1a0-a3a5eab8cac9"
+        },
+        {
+            "statusid": "12",
+            "value": "Paid",
+            "guid": "99dc6fbc-6422-412a-ad08-eebdfeda7acc"
+        }
+    ]
+}

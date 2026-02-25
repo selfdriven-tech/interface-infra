@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "tran_hubshift",
+        "id": "232387897"
+    },
+    "data": [
+        {
+            "shiftid": "1",
+            "title": "Day",
+            "guid": "ed1a2d67-35fd-42d4-906e-1a3cd64d1851"
+        },
+        {
+            "shiftid": "2",
+            "title": "Night",
+            "guid": "a626ea9a-cffc-4562-a040-4f31dae3afb9"
+        }
+    ]
+}

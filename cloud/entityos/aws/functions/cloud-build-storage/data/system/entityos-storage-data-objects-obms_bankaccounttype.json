@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_bankaccounttype",
+        "id": "2022298264"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Debit",
+            "guid": "c0e00546-d5f0-4985-b540-a9e934c66c1d"
+        },
+        {
+            "typeid": "2",
+            "value": "Credit",
+            "guid": "080964db-84e9-4279-b0f1-ad8ca6fffc55"
+        }
+    ]
+}

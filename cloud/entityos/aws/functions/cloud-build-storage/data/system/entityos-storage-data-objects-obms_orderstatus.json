@@ -1,0 +1,68 @@
+{
+    "object": {
+        "name": "obms_orderstatus",
+        "id": "393768460"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "description": "Completed",
+            "displayorder": "10",
+            "guid": "017b8ec8-b344-4bce-bd3d-0b98198d0211"
+        },
+        {
+            "statusid": "2",
+            "description": "To Be Processed",
+            "displayorder": "3",
+            "guid": "910c508e-5532-4804-81fd-5e2a8e03c1a0"
+        },
+        {
+            "statusid": "4",
+            "description": "Not Started",
+            "displayorder": "2",
+            "guid": "6e003b72-4b11-4b55-b32b-187aaa13a733"
+        },
+        {
+            "statusid": "5",
+            "description": "Awaiting Final Submit (Web Order)",
+            "displayorder": "4",
+            "guid": "f4fe4056-a428-4707-baa8-7d6266364cdd"
+        },
+        {
+            "statusid": "6",
+            "description": "Requires Approval",
+            "displayorder": "5",
+            "guid": "e6f8924a-e16e-4946-8739-d5716e90b8b1"
+        },
+        {
+            "statusid": "7",
+            "description": "Processing",
+            "displayorder": "7",
+            "guid": "b88a7b31-2d08-4c8e-b299-675394c6b93e"
+        },
+        {
+            "statusid": "8",
+            "description": "Cancelled",
+            "displayorder": "1",
+            "guid": "d9c8d7a8-c5f2-4429-bd6c-0d7637dd303a"
+        },
+        {
+            "statusid": "9",
+            "description": "On Hold",
+            "displayorder": "6",
+            "guid": "e98a01fd-093a-4704-93b3-ac805f6191a0"
+        },
+        {
+            "statusid": "10",
+            "description": "On Back Order / Part Delivered",
+            "displayorder": "8",
+            "guid": "f12a9bb7-56dd-44c7-837d-3b47f56a07ad"
+        },
+        {
+            "statusid": "11",
+            "description": "Invoiced - In Progress",
+            "displayorder": "11",
+            "guid": "4c0bf7b7-0188-4af1-b37d-539f9a0568ba"
+        }
+    ]
+}

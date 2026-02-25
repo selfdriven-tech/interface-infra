@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "pay_medicare",
+        "id": "1575012692"
+    },
+    "data": [
+        {
+            "medicareid": "1",
+            "value": "Pay Medicare",
+            "displayorder": "1",
+            "guid": "d1cbc13a-6b4c-4d51-af2e-7cc1c3636756"
+        },
+        {
+            "medicareid": "2",
+            "value": "Full Exemption",
+            "displayorder": "2",
+            "guid": "963da168-aff2-4f9f-913f-963be63d12f2"
+        },
+        {
+            "medicareid": "3",
+            "value": "Half Exemption",
+            "displayorder": "3",
+            "guid": "fca81352-f109-44aa-8a8c-352dd9a072ef"
+        }
+    ]
+}

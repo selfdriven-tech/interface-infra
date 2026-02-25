@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "ibmail_dpsapplication",
+        "id": "1855345674"
+    },
+    "data": [
+        {
+            "applicationid": "1",
+            "title": "myworkspace Notepad",
+            "statusid": "",
+            "guid": "80911b8a-0791-448f-b0b2-e41849b0dbff"
+        },
+        {
+            "applicationid": "2",
+            "title": "millennium3 Fact Find",
+            "statusid": "",
+            "guid": "9667b991-891e-468a-8a29-01294d72f74d"
+        },
+        {
+            "applicationid": "3",
+            "title": "ING OneCare Application",
+            "statusid": "",
+            "guid": "c212aa18-93ad-4b85-9b6f-e7275b325eef"
+        }
+    ]
+}

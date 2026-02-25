@@ -1,0 +1,44 @@
+{
+    "object": {
+        "name": "tran_allocationmodel",
+        "id": "1448392229"
+    },
+    "data": [
+        {
+            "modelid": "1",
+            "title": "PUD (Consignment)",
+            "manifesttypeid": "4",
+            "guid": "5376734f-c76b-40d5-ac02-1652e94f223b"
+        },
+        {
+            "modelid": "2",
+            "title": "PUD (Store Groupings)",
+            "manifesttypeid": "4",
+            "guid": "14ce59b9-00b2-42b0-8afb-6fc1f06cb29e"
+        },
+        {
+            "modelid": "3",
+            "title": "PUD (Stop Groupings)",
+            "manifesttypeid": "4",
+            "guid": "0cafd53a-aafb-460a-8b7f-92240137ef34"
+        },
+        {
+            "modelid": "4",
+            "title": "Linehaul (Primary)",
+            "manifesttypeid": "2",
+            "guid": "ba39b674-cd52-4d60-829d-827528db6ab9"
+        },
+        {
+            "modelid": "5",
+            "title": "Linehaul (Regional)",
+            "manifesttypeid": "2",
+            "guid": "29d622b8-4b6a-4d17-b2d2-3c360f2d8813"
+        },
+        {
+            "modelid": "6",
+            "title": "Contract#1",
+            "manifesttypeid": "2",
+            "guid": "139a0c4e-8687-4077-9653-f964e8534117"
+        }
+    ]
+}

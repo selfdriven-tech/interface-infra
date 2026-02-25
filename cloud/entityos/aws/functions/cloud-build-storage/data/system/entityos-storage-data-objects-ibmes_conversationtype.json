@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "ibmes_conversationtype",
+        "id": "655341399"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "Internal",
+            "guid": "4ad7b578-0060-4773-97df-5aedb699c71b"
+        },
+        {
+            "typeid": "2",
+            "value": "Public",
+            "guid": "4079459d-39d1-4954-87af-218b51fa0a80"
+        }
+    ]
+}

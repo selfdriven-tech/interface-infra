@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "tran_hubtype",
+        "id": "200387783"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Internal",
+            "guid": "40bd0532-ee53-4439-9e05-abbaace9a3d4"
+        },
+        {
+            "typeid": "2",
+            "title": "Third Party",
+            "guid": "07243fde-adee-4ff3-8cef-ccd8576e9439"
+        },
+        {
+            "typeid": "3",
+            "title": "Direct",
+            "guid": "08c6d845-9cb6-4d6d-aa27-0816b1a4dbfe"
+        },
+        {
+            "typeid": "4",
+            "title": "Change Over",
+            "guid": "8c914ac4-ecbf-4309-9b13-92257c37edcd"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "otms_recordstatus",
+        "id": "2071014459"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Uploaded",
+            "guid": "04db2354-dd39-43cf-a057-28cdedd87275"
+        },
+        {
+            "statusid": "2",
+            "value": "Matched to Payment / Receipt",
+            "guid": "47a41154-7b98-4a14-90e1-b6b0bab31531"
+        },
+        {
+            "statusid": "3",
+            "value": "Confirmed/Merged",
+            "guid": "fc937702-8154-4959-865b-83726b164457"
+        },
+        {
+            "statusid": "4",
+            "value": "Previously Transferred to Financials",
+            "guid": "997f9e2a-0931-4867-8d88-211dd46c32f9"
+        },
+        {
+            "statusid": "6",
+            "value": "Linked to Expense / Invoice",
+            "guid": "054fb337-2560-4e82-b0a0-fbbe8f27c3d6"
+        },
+        {
+            "statusid": "7",
+            "value": "Part transferred to financials",
+            "guid": "486258c7-20f7-4c07-b929-6c9a0cd61327"
+        }
+    ]
+}

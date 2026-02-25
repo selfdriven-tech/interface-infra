@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "tran_pickupbilltype",
+        "id": "1211867384"
+    },
+    "data": [
+        {
+            "billtypeid": "1",
+            "title": "Sender",
+            "guid": "6af2475d-6384-49be-9a42-f250109db36e"
+        },
+        {
+            "billtypeid": "2",
+            "title": "Receiver",
+            "guid": "72f221bb-22e9-44ae-8c72-9e2548074333"
+        },
+        {
+            "billtypeid": "3",
+            "title": "Other",
+            "guid": "1d0bbddb-0f62-4d0a-9841-4e4bd3ca86e3"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "object": {
+        "name": "risk_childoperation",
+        "id": "510117058"
+    },
+    "data": [
+        {
+            "operationid": "1",
+            "title": "Sum",
+            "guid": "23d10cdf-d72d-4ccb-bbf2-c6fcedb640a8"
+        },
+        {
+            "operationid": "2",
+            "title": "Count",
+            "guid": "3d7b8ed4-829e-4ee4-9665-1cee6cb35802"
+        },
+        {
+            "operationid": "3",
+            "title": "Minimum",
+            "guid": "475bd0bc-f002-49d1-8b24-b1eebf487b08"
+        },
+        {
+            "operationid": "4",
+            "title": "Maximum",
+            "guid": "76a0417f-8fd4-4a9b-a3d2-69c811e5cb69"
+        },
+        {
+            "operationid": "5",
+            "title": "Equal To",
+            "guid": "7851581e-d9ec-4d2d-9aaf-d1d78c893d62"
+        }
+    ]
+}

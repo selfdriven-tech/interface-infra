@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "cont_actionalerttype",
+        "id": "766625774"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "eMail",
+            "guid": "5ae3926a-6865-4360-9688-5f7b64cf6c13"
+        },
+        {
+            "typeid": "2",
+            "value": "SMS",
+            "guid": "3835373c-718d-4ab3-bcf3-e3e3c0f7bca2"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "site_createspacenotificationtotype",
+        "id": "1505856877"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Send Email to User",
+            "notes": "",
+            "guid": "bccb6263-dd93-463e-90a5-2f0da408a7e8"
+        },
+        {
+            "typeid": "2",
+            "title": "Send Email To Site Email",
+            "notes": "",
+            "guid": "4760d177-60cd-4667-8325-5915e01f173a"
+        }
+    ]
+}

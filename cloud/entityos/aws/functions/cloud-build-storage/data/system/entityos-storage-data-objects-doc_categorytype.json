@@ -1,0 +1,23 @@
+{
+    "object": {
+        "name": "doc_categorytype",
+        "id": "1733581214"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "value": "[Standard Category]",
+            "guid": "f0d1b88e-a955-4836-a158-6a17babc6b49"
+        },
+        {
+            "typeid": "2",
+            "value": "Glossary",
+            "guid": "00a51779-9fa7-4683-b8f2-8bf95a9b4eec"
+        },
+        {
+            "typeid": "3",
+            "value": "Discover the News",
+            "guid": "a43e632a-70c3-4b41-92a7-ae12b42fa892"
+        }
+    ]
+}

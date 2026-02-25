@@ -1,0 +1,63 @@
+{
+    "object": {
+        "name": "risk_processingqueuetype",
+        "id": "936754790"
+    },
+    "data": [
+        {
+            "typeid": "1",
+            "title": "Backup",
+            "guid": "18f86f79-a3e9-445e-9292-04f739abfd6d"
+        },
+        {
+            "typeid": "2",
+            "title": "As At",
+            "guid": "0cd5c924-d93d-494d-b9c7-18d3fc88f4ab"
+        },
+        {
+            "typeid": "3",
+            "title": "Scheduler",
+            "guid": "fdab86ae-a331-4150-adfc-99411c2c3547"
+        },
+        {
+            "typeid": "4",
+            "title": "Email",
+            "guid": "bb5e6b5c-ade0-4c8a-a988-70b850c72b6b"
+        },
+        {
+            "typeid": "5",
+            "title": "Alert Processor",
+            "guid": "333797f9-3e44-492d-8064-cc48ed8bd55c"
+        },
+        {
+            "typeid": "6",
+            "title": "Delayed Delivery",
+            "guid": "5522053b-1589-49da-b83f-6657588756dd"
+        },
+        {
+            "typeid": "7",
+            "title": "User Score Calculator",
+            "guid": "5f98ede6-60b8-4f78-8ed3-28d861814015"
+        },
+        {
+            "typeid": "8",
+            "title": "Mail Queued Alerts",
+            "guid": "8ae92e56-18ea-4a4a-aa9a-6670d574b7c1"
+        },
+        {
+            "typeid": "9",
+            "title": "Scheduled Alerts",
+            "guid": "036c2c7f-b3ea-42e7-9512-b576fba95180"
+        },
+        {
+            "typeid": "10",
+            "title": "Custom Processing",
+            "guid": "721d508a-2963-4ab7-b78b-f6f50a7a1003"
+        },
+        {
+            "typeid": "11",
+            "title": "UM Power BI File Production",
+            "guid": "34f63e75-f3fe-4781-8705-f789ad173089"
+        }
+    ]
+}

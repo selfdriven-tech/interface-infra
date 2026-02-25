@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "odir_shopcollectpayment",
+        "id": "1920061926"
+    },
+    "data": [
+        {
+            "shopcollectpaymentid": "1",
+            "description": "With Order Submission",
+            "requiresofmsaccount": "Y",
+            "guid": "581a5f59-8454-45ec-a3be-4774f6278bef"
+        },
+        {
+            "shopcollectpaymentid": "2",
+            "description": "Once Order Accepted",
+            "requiresofmsaccount": "N",
+            "guid": "091ca3b5-4c4d-4565-97e5-9a547103a597"
+        },
+        {
+            "shopcollectpaymentid": "3",
+            "description": "Manually Process Credit Card",
+            "requiresofmsaccount": "N",
+            "guid": "b9aef5e4-2436-4ab6-850b-5b465378277c"
+        }
+    ]
+}

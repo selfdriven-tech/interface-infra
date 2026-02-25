@@ -1,0 +1,20 @@
+{
+    "object": {
+        "name": "odir_activitytype",
+        "id": "924582382"
+    },
+    "data": [
+        {
+            "activitytypeid": "1",
+            "value": "Shown (Impression)",
+            "currentrate": "",
+            "guid": "be2718e7-6a5b-4d4e-b1ff-015b6e5b614b"
+        },
+        {
+            "activitytypeid": "2",
+            "value": "Clicked",
+            "currentrate": "",
+            "guid": "49de16b9-95ce-4f11-8eff-97216410ba20"
+        }
+    ]
+}

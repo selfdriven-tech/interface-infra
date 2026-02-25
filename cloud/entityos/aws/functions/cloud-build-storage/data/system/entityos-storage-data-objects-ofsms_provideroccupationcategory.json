@@ -1,0 +1,57 @@
+{
+    "object": {
+        "name": "ofsms_provideroccupationcategory",
+        "id": "1395536055"
+    },
+    "data": [
+        {
+            "occupationcategoryid": "1",
+            "providerserviceid": "65",
+            "code": "CLER",
+            "description": "Clerical Workers",
+            "guid": "68f2b1fe-f854-4679-82b3-21f6d30e77e6"
+        },
+        {
+            "occupationcategoryid": "2",
+            "providerserviceid": "65",
+            "code": "LABO",
+            "description": "Labourers",
+            "guid": "8fae8d1d-0bdf-4726-b8cf-217eaa0f13e5"
+        },
+        {
+            "occupationcategoryid": "3",
+            "providerserviceid": "65",
+            "code": "MNGR",
+            "description": "Managers and Administrators",
+            "guid": "8366eb00-64d7-4e1d-be0d-7db43700905e"
+        },
+        {
+            "occupationcategoryid": "4",
+            "providerserviceid": "65",
+            "code": "PROD",
+            "description": "Production Workers",
+            "guid": "cd909a14-5c67-4cce-af04-24d17b218f0d"
+        },
+        {
+            "occupationcategoryid": "5",
+            "providerserviceid": "65",
+            "code": "PROF",
+            "description": "Professionals (Sci,Hea,Bus,IT",
+            "guid": "099afa86-8f96-45a4-8cb4-c83c349141f5"
+        },
+        {
+            "occupationcategoryid": "6",
+            "providerserviceid": "65",
+            "code": "SALE",
+            "description": "Sales and Service",
+            "guid": "3ab3d149-506f-4889-b793-06c175857115"
+        },
+        {
+            "occupationcategoryid": "7",
+            "providerserviceid": "65",
+            "code": "TRAD",
+            "description": "Tradespersons",
+            "guid": "24604b67-ca53-407f-bff5-4776d2c91ee6"
+        }
+    ]
+}

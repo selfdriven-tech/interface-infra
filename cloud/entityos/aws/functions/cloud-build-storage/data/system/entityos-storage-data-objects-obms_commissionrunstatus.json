@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "obms_commissionrunstatus",
+        "id": "774293818"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "title": "In Progress",
+            "guid": "9c77ba39-611c-4226-97a7-0b7c37cb57bb"
+        },
+        {
+            "statusid": "2",
+            "title": "Completed",
+            "guid": "b88342e0-7506-4f35-81b1-20e065542205"
+        }
+    ]
+}

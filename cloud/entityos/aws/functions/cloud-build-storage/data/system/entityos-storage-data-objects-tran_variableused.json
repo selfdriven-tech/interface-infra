@@ -1,0 +1,18 @@
+{
+    "object": {
+        "name": "tran_variableused",
+        "id": "11863109"
+    },
+    "data": [
+        {
+            "usedid": "1",
+            "title": "In Addition to Global",
+            "guid": "ec26da03-51ab-4a1e-a5c5-33b4f5cadfb6"
+        },
+        {
+            "usedid": "2",
+            "title": "Instead of Global",
+            "guid": "ff5c8439-bd5d-4ba0-9463-0ba746372689"
+        }
+    ]
+}

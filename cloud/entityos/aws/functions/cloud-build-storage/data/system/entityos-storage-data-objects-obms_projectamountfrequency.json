@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "obms_projectamountfrequency",
+        "id": "461244698"
+    },
+    "data": [
+        {
+            "frequencyid": "1",
+            "value": "Once Off",
+            "displayorder": "1",
+            "guid": "cf696983-43d1-41e4-bdfc-9085efd9112f"
+        },
+        {
+            "frequencyid": "2",
+            "value": "Monthly",
+            "displayorder": "2",
+            "guid": "b33d1477-b617-4d5a-9485-f0e0eb6c391e"
+        },
+        {
+            "frequencyid": "3",
+            "value": "Quarterly",
+            "displayorder": "3",
+            "guid": "6e988a33-cecc-4228-975a-23c3ed969b64"
+        },
+        {
+            "frequencyid": "4",
+            "value": "Yearly",
+            "displayorder": "4",
+            "guid": "4a3e1443-533e-4883-9394-65f02ceff087"
+        },
+        {
+            "frequencyid": "5",
+            "value": "Other",
+            "displayorder": "5",
+            "guid": "87f2d657-6169-4edd-9925-a5362a4f634b"
+        }
+    ]
+}

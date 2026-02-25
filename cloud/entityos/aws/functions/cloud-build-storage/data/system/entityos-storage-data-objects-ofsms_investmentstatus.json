@@ -1,0 +1,28 @@
+{
+    "object": {
+        "name": "ofsms_investmentstatus",
+        "id": "224055884"
+    },
+    "data": [
+        {
+            "statusid": "1",
+            "value": "Active",
+            "guid": "e30eb2c8-dcb5-4098-b75f-74fa25c70c0c"
+        },
+        {
+            "statusid": "2",
+            "value": "Inactive",
+            "guid": "12ed4caf-9b8f-4a6c-9b50-4db37c5748cc"
+        },
+        {
+            "statusid": "3",
+            "value": "In Suspense",
+            "guid": "56e529fb-473f-4599-a3d3-2fd25c53461d"
+        },
+        {
+            "statusid": "4",
+            "value": "Terminated/Cancelled",
+            "guid": "a1436c41-72e0-494e-86cd-0fa0a97c96f9"
+        }
+    ]
+}

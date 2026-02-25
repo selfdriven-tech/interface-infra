@@ -1,0 +1,38 @@
+{
+    "object": {
+        "name": "risk_classeffectivedate",
+        "id": "1258487562"
+    },
+    "data": [
+        {
+            "effectivedateid": "1",
+            "title": "No popup - set to Period End Date",
+            "guid": "56b5c7cb-4b79-4e49-9654-82d8068ff232"
+        },
+        {
+            "effectivedateid": "2",
+            "title": "Popup - defaults to Period End Date",
+            "guid": "9504a625-fff2-4583-91de-69c45d4311de"
+        },
+        {
+            "effectivedateid": "3",
+            "title": "Popup - defaults to Today",
+            "guid": "860bb6c1-2f3c-4244-b9a0-d63a4191b15f"
+        },
+        {
+            "effectivedateid": "4",
+            "title": "No popup - defaults to Today",
+            "guid": "41634d15-0def-4dd2-9c59-fe61822791e7"
+        },
+        {
+            "effectivedateid": "5",
+            "title": "Popup - Fixed Dates Only, Defaults to Today",
+            "guid": "777e3c4f-f208-4792-bfb5-e9ba00c91fd1"
+        },
+        {
+            "effectivedateid": "6",
+            "title": "No popup - defaults to Key Date",
+            "guid": "92e479b8-56ea-4b27-a47e-0a45603a84fb"
+        }
+    ]
+}
